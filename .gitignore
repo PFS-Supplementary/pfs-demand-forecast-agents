@@ -1,0 +1,17 @@
+# secrets and local environment
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# data that is not redistributed
+data/
+chunks_dump.json
+chunks_dump.md
+*.db
+*.db.backup*
+
+# Kakao API results
+preprocessing/cityhall_points.csv
+preprocessing/case_origins.csv
+preprocessing/distance_*.csv

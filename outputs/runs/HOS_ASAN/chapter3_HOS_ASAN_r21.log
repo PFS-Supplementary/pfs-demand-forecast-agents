@@ -1,0 +1,244 @@
+### HOS_ASAN_r21 시작 2026-11-03 20:11:23
+=== 제3장 수요추정 순회: HOS_ASAN ===
+소절 10개: ['3-1', '3-2', '3-3-1', '3-3-2', '3-4-1', '3-4-2', '3-4-3', '3-5-1', '3-5-2', '3-5-3']
+
+
+────────────────────────────────────────────────────────────────────────
+▶ [3-1] 수요 추정 및 진료권 설정 개요
+────────────────────────────────────────────────────────────────────────
+[Retrieval] 3-1 → 직접 회수 1/1청크 (문서 순서, 전체 반환)
+  - 제1절 수요 추정 및 진료권 설정 (2352자)
+[Writer] 3-1 생성 완료: 2006자
+[Critic] 3-1 → PASS
+  해석 금지:   OK
+  지침 준수:   4점 - 생성 텍스트는 KDI 지침의 의료서비스 수요 정의, 욕구 및 필요와의 차이, 의료시설 사업의 수요 변화 영향, 진료권의 범위, 경제적 타당성 및 사회적 편익, 그리고 수요 및 편익 추정의 개요 등 모든 주요 서술 항목을 정확하고 상세하게 포함하고 있습니다.
+  결과: PASS · 서술 2006자 · 계산수치 0 · 입력 0 · 미산출 0 · 자료레코드 0 · 미실행공식 0 · 회수청크 1
+
+────────────────────────────────────────────────────────────────────────
+▶ [3-2] 진료권 설정
+────────────────────────────────────────────────────────────────────────
+[Retrieval] 3-2 → 직접 회수 12/12청크 (문서 순서, 전체 반환)
+  - 제1절 수요 추정 및 진료권 설정 (2352자)
+  - 제2절 1. 진료권 설정의 필요성과 개요 (1675자)
+  - 제2절 2. 진료권 설정의 방법 / 가. 거리와 이동시간을 이용한 예상 진료권의 설정 (2840자)
+  - 제2절 2.나. 행정구역 중심의 진료권 설정의 시사점 (9825자)
+  - 제2절 2.다. 진료권 결정 요소에 대한 분석 (5602자)
+  - 제2절 2.라. 진료권 설정을 위하여 적용하는 자료 (5631자)
+  - 제2절 특수목적 의료시설의 진료권 설정 (1759자)
+  - 제VII장 1절 중력모형 개요·수식(기본식 T_ij, 예타식 A, 4변수 정의) (1725자)
+  - 제VII장 중력모형 수요추정 10단계 절차(그림 VII-1) (375자)
+  - 제VII장 2절 매력도(ρ) 산정: 규모비율/회귀/AHP + 기준시설·방법선택 권고 (2253자)
+  - 제VII장 2절 참여율(α) 산정 + 정형화 금지 원칙 + 이동시간(r<1) 처리 (766자)
+  - 제VII장 2절 중력모형 적용 쟁점 원칙: 거리기준·기준점·대중교통 주의·기준시설 개수(권고) (1538자)
+[Memory] §3-2 자료 주입 — 제공: ['①인구', '②지역친화도', '③거리·이동시간', '④유사의료시설'] · 원천 레코드 226건
+[Memory] 특수목적 적용-조건: 해당 → 청크 유지 · 해당 사업은 경찰공무원에 대한 특수진료를 목적으로 하는 '아산 경찰병원' 건립 사업으로, 지침 정의에서 언급하는 '경찰'과 국립경찰병원을 포함하는 '특수 공공인력에 대한 의료서비스 제공을 우선의 목적으로 하는 의료시설'에 해당한다. (시도 1)
+[Computation] 3-2 진료권 설정 — 계산 수치 미주입(도출 소절)
+[Writer] 3-2 생성 완료: 4215자
+[CatchmentResolver] [경찰공무원 특수진료] 코드 ['00000'] (매칭 1 / 미매칭 [])
+[CatchmentResolver] [지역주민 일반진료] 코드 ['44200'] (매칭 1 / 미매칭 [])
+[CatchmentResolver] 신규 시설 진료 수준: 종합병원급
+[Critic] 3-2 → PASS
+  해석 금지:   OK
+  지침 준수:   4점 - 지침에서 요구하는 진료권 설정의 개념, 필요성, 영향 요인, 일반 및 특수목적 의료시설에 대한 구체적인 설정 방법, 그리고 이에 필요한 인구 및 의료기관 현황 자료 등 주요 서술 항목을 상세히 포함하고 적절히 적용했습니다.
+  → catchment_result 확정, 이후 소절로 전달: {'경찰공무원 특수진료': ['00000'], '지역주민 일반진료': ['44200']}
+  결과: PASS · 서술 4215자 · 계산수치 0 · 입력 0 · 미산출 0 · 자료레코드 226 · 미실행공식 0 · 회수청크 12
+
+────────────────────────────────────────────────────────────────────────
+▶ [3-3-1] 지역 내 병상이용률·지역친화도·지역환자구성비를 이용한 병상 추정
+────────────────────────────────────────────────────────────────────────
+[Retrieval] 3-3-1 → 직접 회수 1/1청크 (문서 순서, 전체 반환)
+  - 제3절 §1 — RI=CI=100% 가정 병상 수요 추정 (방법 1) (3508자)
+[PeriodDecider] 병상이용률 종별: 종합병원/300~499병상 (§3-2 [신규 시설 진료 수준])
+[PeriodDecider] 자료 연도 상한 2023(조사 연도 2024 − 1) 적용 — 입원일수 12→11, 병상이용률 catch 2→2 / nat 5→5
+[PeriodDecider] inpatient_days: {'years': [2021, 2022, 2023], 'agg': 'mean', 'basis': "가이드라인 [202212-III-2-2라]에서 인구 규모 자료에 대해 '최근 3~5년 동안의 자료를 통해 변동을 살펴볼 필요가 있다'고 명시하여 수요 추정에 필요한 핵심 자료는 최근 연도의 추세를 반영하고 연도별 변동성을 완화하기 위해 복수 연도의 평균값을 활용하는 것이 타당함을 시사합니다. 입원의료이용률은 수요 추정의 중요한 인풋이므로, 이와 유사하게 가용한 최근 3개년(2021, 2022, 2023)의 평균값을 산정하는 것이 가장 합리적입니다."}
+[PeriodDecider] bed_utilization: {'years': [2019, 2020], 'agg': 'mean', 'facility_type': '종합병원', 'facility_size': '300~499병상', 'basis': "가이드라인 [202212-III-3-1] 및 [202212-III-4-1]에서 병상이용률을 '해당 지역 또는 진료권의 동일한 유형의 의료시설 평균 병상 이용률' 또는 '동일 유형의 전국 평균값'으로 활용하도록 명시하고 있습니다. 이는 특정 시점의 단일 연도 값보다는 평균값을 사용하는 것이 더 적절하다는 지침의 취지를 보여줍니다. 가용 연도가 2019년과 2020년 두 개뿐이므로, 이 두 연도의 평균을 사용하는 것이 해당 기간의 대표적인 병상이용률을 산정하는 가장 합리적인 방법입니다."}
+[PeriodDecider] projection: {'vintage': '2022', 'target_year': 2029, 'basis': '예타 2024 시점 가용 최신 통계청 시도편 장래인구추계(2022년 기준); 진료권 추계 = 시도 추계 × 현재 인구비 안분(가이드라인 §3-2)'}
+[Computation] 카탈로그 계산 실행 (project=HOS_ASAN, regions=['44200'], special=['00000'])
+[Computation] (general) population: 시도추계(v2022) 2029 × 현재(2023) 인구비 안분
+[Computation] (general) bed_utilization_catchment: Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2019, 2020](mean)/진료권 1개 시군구]
+[Computation] (general) bed_utilization_national: Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2019, 2020](mean)/전국]
+[Computation] (general) local_per_1000: 종합병원급이상 공급병상[2020]÷OBSERVED인구[2020]
+[Computation] (general) type_share: 전국 (상급종합+종합)÷의료기관및보건기관 내원일수[2023]
+[Computation] (general) outpatient_ratio: 진료권 Σ외래÷Σ입원 내원일수[2021, 2022, 2023]
+[Computation] (general) death_rate: 진료권 Σ3대응급(7항목)사망자÷Σ OBSERVED인구[2019, 2020, 2021, 2022, 2023]
+[Computation] (general) beds: 사업계획서 총 병상 300병상 (지침 §3-4-1 '보유하게 되는 병상 수')
+[Computation] (general) bed_increase_rate_pct: 신규 28 ÷ 기존 응급병상 20.5 (종합병원_300~499병상/[2019, 2020](mean))
+[Computation] 특수목적(경찰) 진료권 계산: 9개 공식 실행
+[Computation] 3-3-1 — 소절 어휘 밖이라 미노출: ['annual_inpatient_facility_catchment', 'annual_inpatient_facility_national', 'annual_outpatient_catchment', 'annual_outpatient_national', 'bed_increase_rate_pct', 'beds', 'death_rate', 'death_rate_reduction', 'delta_beds', 'elasticity', 'emergency_deaths', 'local_per_1000', 'national_per_1000', 'outpatient_ratio', 'preventable_deaths', 'special_delta_beds', 'special_local_per_1000', 'special_national_per_1000', 'special_supply_beds']
+[Computation] 3-3-1 — 표 0개 + 수치 14개 + 입력 14개(소절필터 적용, 전체 25) (실행 25공식, 미충족 7공식)
+[Computation] 입력 미충족(skip)된 공식:
+  - special_emergency_deaths: 부족 입력 ['death_rate']
+  - special_preventable_deaths: 부족 입력 ['emergency_deaths', 'death_rate_reduction']
+  - special_death_rate_reduction: 부족 입력 ['bed_increase_rate_pct', 'elasticity']
+  - special_annual_inpatient_facility_catchment: 부족 입력 ['beds']
+  - special_annual_inpatient_facility_national: 부족 입력 ['beds']
+  - special_annual_outpatient_catchment: 부족 입력 ['annual_inpatient_facility_catchment']
+  - special_annual_outpatient_national: 부족 입력 ['annual_inpatient_facility_national']
+[Writer] 3-3-1 생성 완료: 3349자
+[Critic] 3-3-1 → PASS
+  해석 금지:   OK
+  지침 준수:   4점 - 생성된 텍스트는 KDI 세부지침에서 요구하는 병상 규모 적정성 검토 방법론, 잠재 의료 수요 추정의 핵심 관건, 요구되는 병상 수 지표 활용, 지역친화도 및 지역환자구성비의 문제점 및 100% 가정의 합리성, 특정 유형 병상 수요 추정 방식, 병상 이용률 적용 기준 등 주요 서술 항목을 모두 적절히 포함하고 있습니다.
+  → base_period 확정(케이스 1회), 이후 §3-3·§3-4·§3-5 소절로 전달
+  결과: PASS · 서술 3349자 · 계산수치 14 · 입력 14 · 미산출 0 · 자료레코드 0 · 미실행공식 7 · 회수청크 1
+
+────────────────────────────────────────────────────────────────────────
+▶ [3-3-2] 지역별 인구 대비 병상 공급량에 기반한 적정 병상 규모 추정
+────────────────────────────────────────────────────────────────────────
+[Retrieval] 3-3-2 → 직접 회수 1/1청크 (문서 순서, 전체 반환)
+  - 제3절 §2 — 인구 대비 병상 공급량 기반 적정 병상 규모 추정 (방법 2) (3819자)
+[Memory] 이전 소절(파이프라인 생성) 1개 로드: ['3-3-1']
+[Computation] 카탈로그 캐시 사용 (key=HOS_ASAN:9d67f2ced5)
+[Computation] 3-3-2 — 소절 어휘 밖이라 미노출: ['annual_inpatient', 'annual_inpatient_facility_catchment', 'annual_inpatient_facility_national', 'annual_outpatient_catchment', 'annual_outpatient_national', 'bed_increase_rate_pct', 'bed_utilization_catchment', 'bed_utilization_national', 'beds', 'capacity_per_bed_catchment', 'capacity_per_bed_national', 'ci', 'death_rate', 'death_rate_reduction', 'elasticity', 'emergency_deaths', 'inpatient_days', 'outpatient_ratio', 'preventable_deaths', 'required_beds_catchment', 'required_beds_national', 'ri', 'special_annual_inpatient', 'special_bed_utilization_catchment', 'special_bed_utilization_national', 'special_capacity_per_bed_catchment', 'special_capacity_per_bed_national', 'special_ci', 'special_inpatient_days', 'special_required_beds_catchment', 'special_required_beds_national', 'special_ri', 'special_specific_type_beds_catchment', 'special_specific_type_beds_national', 'special_type_share', 'specific_type_beds_catchment', 'specific_type_beds_national', 'type_share']
+[Computation] 3-3-2 — 표 0개 + 수치 4개 + 입력 5개(소절필터 적용, 전체 25) (실행 25공식, 미충족 7공식)
+[Computation] 입력 미충족(skip)된 공식:
+  - special_emergency_deaths: 부족 입력 ['death_rate']
+  - special_preventable_deaths: 부족 입력 ['emergency_deaths', 'death_rate_reduction']
+  - special_death_rate_reduction: 부족 입력 ['bed_increase_rate_pct', 'elasticity']
+  - special_annual_inpatient_facility_catchment: 부족 입력 ['beds']
+  - special_annual_inpatient_facility_national: 부족 입력 ['beds']
+  - special_annual_outpatient_catchment: 부족 입력 ['annual_inpatient_facility_catchment']
+  - special_annual_outpatient_national: 부족 입력 ['annual_inpatient_facility_national']
+[Writer] 3-3-2 생성 완료: 2285자
+[Critic] 3-3-2 → PASS
+  해석 금지:   OK
+  지침 준수:   3점 - 생성 텍스트는 주요 병상 규모 추정 방법과 그 한계, 보완적 검토의 필요성 및 관련 지표를 상세히 포함하고 있으나, 인구 변동 추이와 질병 패턴 변화에 따른 향후 병상 수요 예측의 필요성에 대한 중요한 논의가 누락되었습니다.
+  결과: PASS · 서술 2285자 · 계산수치 4 · 입력 5 · 미산출 0 · 자료레코드 0 · 미실행공식 7 · 회수청크 1
+
+────────────────────────────────────────────────────────────────────────
+▶ [3-4-1] 연간 입원환자 수의 추정
+────────────────────────────────────────────────────────────────────────
+[Retrieval] 3-4-1 → 직접 회수 1/1청크 (문서 순서, 전체 반환)
+  - 제4절 §1 — 연간 입원환자 수의 추정 (735자)
+[Computation] 카탈로그 캐시 사용 (key=HOS_ASAN:9d67f2ced5)
+[Computation] 3-4-1 — 소절 어휘 밖이라 미노출: ['annual_inpatient', 'annual_outpatient_catchment', 'annual_outpatient_national', 'bed_increase_rate_pct', 'capacity_per_bed_catchment', 'capacity_per_bed_national', 'ci', 'death_rate', 'death_rate_reduction', 'delta_beds', 'elasticity', 'emergency_deaths', 'inpatient_days', 'local_per_1000', 'national_per_1000', 'outpatient_ratio', 'preventable_deaths', 'required_beds_catchment', 'required_beds_national', 'ri', 'special_annual_inpatient', 'special_capacity_per_bed_catchment', 'special_capacity_per_bed_national', 'special_ci', 'special_delta_beds', 'special_inpatient_days', 'special_local_per_1000', 'special_national_per_1000', 'special_required_beds_catchment', 'special_required_beds_national', 'special_ri', 'special_specific_type_beds_catchment', 'special_specific_type_beds_national', 'special_supply_beds', 'special_type_share', 'specific_type_beds_catchment', 'specific_type_beds_national', 'type_share']
+[Computation] 3-4-1 — 표 0개 + 수치 2개 + 입력 7개(소절필터 적용, 전체 25) (실행 25공식, 미충족 7공식)
+[Computation] 입력 미충족(skip)된 공식:
+  - special_emergency_deaths: 부족 입력 ['death_rate']
+  - special_preventable_deaths: 부족 입력 ['emergency_deaths', 'death_rate_reduction']
+  - special_death_rate_reduction: 부족 입력 ['bed_increase_rate_pct', 'elasticity']
+  - special_annual_inpatient_facility_catchment: 부족 입력 ['beds']
+  - special_annual_inpatient_facility_national: 부족 입력 ['beds']
+  - special_annual_outpatient_catchment: 부족 입력 ['annual_inpatient_facility_catchment']
+  - special_annual_outpatient_national: 부족 입력 ['annual_inpatient_facility_national']
+[Computation] 3-4-1 — 이 소절 미산출 항목 2건(Writer 에 노출)
+[Writer] 3-4-1 생성 완료: 1607자
+[Critic] 3-4-1 → PASS
+  해석 금지:   OK
+  지침 준수:   4점 - 생성 텍스트는 지침에서 요구하는 병상 수요의 정의, 연간 입원환자 수 추정식과 중요 변수, 신규 의료시설의 병상 이용률 추정 시 고려사항 및 과거 사례 등 모든 주요 서술 항목을 적절히 포함하고 있습니다.
+  결과: PASS · 서술 1607자 · 계산수치 2 · 입력 7 · 미산출 2 · 자료레코드 0 · 미실행공식 7 · 회수청크 1
+
+────────────────────────────────────────────────────────────────────────
+▶ [3-4-2] 연간 외래환자 수의 추정
+────────────────────────────────────────────────────────────────────────
+[Retrieval] 3-4-2 → 직접 회수 1/1청크 (문서 순서, 전체 반환)
+  - 제4절 §2 — 연간 외래환자 수의 추정 (718자)
+[Memory] 이전 소절(파이프라인 생성) 1개 로드: ['3-4-1']
+[Computation] 카탈로그 캐시 사용 (key=HOS_ASAN:9d67f2ced5)
+[Computation] 3-4-2 — 소절 어휘 밖이라 미노출: ['annual_inpatient', 'bed_increase_rate_pct', 'bed_utilization_catchment', 'bed_utilization_national', 'beds', 'capacity_per_bed_catchment', 'capacity_per_bed_national', 'ci', 'death_rate', 'death_rate_reduction', 'delta_beds', 'elasticity', 'emergency_deaths', 'inpatient_days', 'local_per_1000', 'national_per_1000', 'preventable_deaths', 'required_beds_catchment', 'required_beds_national', 'ri', 'special_annual_inpatient', 'special_bed_utilization_catchment', 'special_bed_utilization_national', 'special_capacity_per_bed_catchment', 'special_capacity_per_bed_national', 'special_ci', 'special_delta_beds', 'special_inpatient_days', 'special_local_per_1000', 'special_national_per_1000', 'special_required_beds_catchment', 'special_required_beds_national', 'special_ri', 'special_specific_type_beds_catchment', 'special_specific_type_beds_national', 'special_supply_beds', 'special_type_share', 'specific_type_beds_catchment', 'specific_type_beds_national', 'type_share']
+[Computation] 3-4-2 — 표 0개 + 수치 4개 + 입력 3개(소절필터 적용, 전체 25) (실행 25공식, 미충족 7공식)
+[Computation] 입력 미충족(skip)된 공식:
+  - special_emergency_deaths: 부족 입력 ['death_rate']
+  - special_preventable_deaths: 부족 입력 ['emergency_deaths', 'death_rate_reduction']
+  - special_death_rate_reduction: 부족 입력 ['bed_increase_rate_pct', 'elasticity']
+  - special_annual_inpatient_facility_catchment: 부족 입력 ['beds']
+  - special_annual_inpatient_facility_national: 부족 입력 ['beds']
+  - special_annual_outpatient_catchment: 부족 입력 ['annual_inpatient_facility_catchment']
+  - special_annual_outpatient_national: 부족 입력 ['annual_inpatient_facility_national']
+[Computation] 3-4-2 — 이 소절 미산출 항목 4건(Writer 에 노출)
+[Writer] 3-4-2 생성 완료: 1500자
+[Critic] 3-4-2 → PASS
+  해석 금지:   OK
+  지침 준수:   4점 - 생성 텍스트는 KDI 지침에 제시된 외래환자 수 추정의 두 가지 방법론, 각 방법론의 가정, 산식, 그리고 한계점 등 모든 주요 서술 항목을 적절히 포함하고 있습니다.
+  결과: PASS · 서술 1500자 · 계산수치 4 · 입력 3 · 미산출 4 · 자료레코드 0 · 미실행공식 7 · 회수청크 1
+
+────────────────────────────────────────────────────────────────────────
+▶ [3-4-3] 신규 유입 환자규모 추정
+────────────────────────────────────────────────────────────────────────
+[Retrieval] 3-4-3 → 직접 회수 1/1청크 (문서 순서, 전체 반환)
+  - 제4절 §3 — 신규 유입 환자규모 추정 (904자)
+[Memory] 이전 소절(파이프라인 생성) 2개 로드: ['3-4-1', '3-4-2']
+[Computation] 카탈로그 캐시 사용 (key=HOS_ASAN:9d67f2ced5)
+[Computation] 3-4-3 — 표 0개 + 수치 0개 + 입력 0개(소절필터 적용, 전체 25) (실행 25공식, 미충족 7공식)
+[Computation] 입력 미충족(skip)된 공식:
+  - special_emergency_deaths: 부족 입력 ['death_rate']
+  - special_preventable_deaths: 부족 입력 ['emergency_deaths', 'death_rate_reduction']
+  - special_death_rate_reduction: 부족 입력 ['bed_increase_rate_pct', 'elasticity']
+  - special_annual_inpatient_facility_catchment: 부족 입력 ['beds']
+  - special_annual_inpatient_facility_national: 부족 입력 ['beds']
+  - special_annual_outpatient_catchment: 부족 입력 ['annual_inpatient_facility_catchment']
+  - special_annual_outpatient_national: 부족 입력 ['annual_inpatient_facility_national']
+[Writer] 3-4-3 생성 완료: 1375자
+[Critic] 3-4-3 → PASS
+  해석 금지:   OK
+  지침 준수:   4점 - 생성 텍스트는 지침의 신규 유입 환자 발생 배경, 추정의 필요성, 그리고 유사사례 적용과 설문조사를 통한 추정 방법 및 유의사항 등 주요 항목을 모두 적절히 포함하고 있습니다.
+  결과: PASS · 서술 1375자 · 계산수치 0 · 입력 0 · 미산출 0 · 자료레코드 0 · 미실행공식 7 · 회수청크 1
+
+────────────────────────────────────────────────────────────────────────
+▶ [3-5-1] 응급사망 기초자료 분석
+────────────────────────────────────────────────────────────────────────
+[Retrieval] 3-5-1 → 직접 회수 1/1청크 (문서 순서, 전체 반환)
+  - 제5절 1. 기초자료 분석 (응급의료 양적·질적 현황, 표Ⅲ-9~13) (5043자)
+[Computation] 카탈로그 캐시 사용 (key=HOS_ASAN:9d67f2ced5)
+[Computation] 3-5-1 — 표 0개 + 수치 0개 + 입력 0개(소절필터 적용, 전체 25) (실행 25공식, 미충족 7공식)
+[Computation] 입력 미충족(skip)된 공식:
+  - special_emergency_deaths: 부족 입력 ['death_rate']
+  - special_preventable_deaths: 부족 입력 ['emergency_deaths', 'death_rate_reduction']
+  - special_death_rate_reduction: 부족 입력 ['bed_increase_rate_pct', 'elasticity']
+  - special_annual_inpatient_facility_catchment: 부족 입력 ['beds']
+  - special_annual_inpatient_facility_national: 부족 입력 ['beds']
+  - special_annual_outpatient_catchment: 부족 입력 ['annual_inpatient_facility_catchment']
+  - special_annual_outpatient_national: 부족 입력 ['annual_inpatient_facility_national']
+[Writer] 3-5-1 생성 완료: 2017자
+[Critic] 3-5-1 → PASS
+  해석 금지:   OK
+  지침 준수:   3점 - 생성 텍스트는 지침의 전반적인 개요, 양적/질적 측면의 주요 지표 및 자료원, 분석 방법 등을 대부분 적절히 포함하고 있으나, 1인당 수치 산출 시 보정인구 활용에 대한 언급, 응급의료기관 유형별 기능(치료 목적 환자)에 대한 설명, 그리고 국가응급진료환자망(NEDIS) 자료의 포괄 범위에 대한 세부 사항이 누락되었습니다.
+  결과: PASS · 서술 2017자 · 계산수치 0 · 입력 0 · 미산출 0 · 자료레코드 0 · 미실행공식 7 · 회수청크 1
+
+────────────────────────────────────────────────────────────────────────
+▶ [3-5-2] 응급사망자 수 추정
+────────────────────────────────────────────────────────────────────────
+[Retrieval] 3-5-2 → 직접 회수 1/1청크 (문서 순서, 전체 반환)
+  - 제5절 2. 응급사망자 수 추정 (657자)
+[Memory] 이전 소절(파이프라인 생성) 1개 로드: ['3-5-1']
+[Computation] 카탈로그 캐시 사용 (key=HOS_ASAN:9d67f2ced5)
+[Computation] 3-5-2 — 소절 어휘 밖이라 미노출: ['annual_inpatient', 'annual_inpatient_facility_catchment', 'annual_inpatient_facility_national', 'annual_outpatient_catchment', 'annual_outpatient_national', 'bed_increase_rate_pct', 'bed_utilization_catchment', 'bed_utilization_national', 'beds', 'capacity_per_bed_catchment', 'capacity_per_bed_national', 'ci', 'death_rate_reduction', 'delta_beds', 'elasticity', 'inpatient_days', 'local_per_1000', 'national_per_1000', 'outpatient_ratio', 'preventable_deaths', 'required_beds_catchment', 'required_beds_national', 'ri', 'special_annual_inpatient', 'special_bed_utilization_catchment', 'special_bed_utilization_national', 'special_capacity_per_bed_catchment', 'special_capacity_per_bed_national', 'special_ci', 'special_delta_beds', 'special_inpatient_days', 'special_local_per_1000', 'special_national_per_1000', 'special_required_beds_catchment', 'special_required_beds_national', 'special_ri', 'special_specific_type_beds_catchment', 'special_specific_type_beds_national', 'special_supply_beds', 'special_type_share', 'specific_type_beds_catchment', 'specific_type_beds_national', 'type_share']
+[Computation] 3-5-2 — 표 0개 + 수치 1개 + 입력 3개(소절필터 적용, 전체 25) (실행 25공식, 미충족 7공식)
+[Computation] 입력 미충족(skip)된 공식:
+  - special_emergency_deaths: 부족 입력 ['death_rate']
+  - special_preventable_deaths: 부족 입력 ['emergency_deaths', 'death_rate_reduction']
+  - special_death_rate_reduction: 부족 입력 ['bed_increase_rate_pct', 'elasticity']
+  - special_annual_inpatient_facility_catchment: 부족 입력 ['beds']
+  - special_annual_inpatient_facility_national: 부족 입력 ['beds']
+  - special_annual_outpatient_catchment: 부족 입력 ['annual_inpatient_facility_catchment']
+  - special_annual_outpatient_national: 부족 입력 ['annual_inpatient_facility_national']
+[Computation] 3-5-2 — 이 소절 미산출 항목 1건(Writer 에 노출)
+[Writer] 3-5-2 생성 완료: 774자
+[Critic] 3-5-2 → PASS
+  해석 금지:   OK
+  지침 준수:   4점 - 생성 텍스트는 지침에서 요구하는 응급사망자 수 추정의 '현실적인 접근법'과 핵심 공식을 정확히 반영하고, 인구 추계치와 평균 응급사망률을 적용하여 계산하는 과정을 상세히 설명합니다.
+  결과: PASS · 서술 774자 · 계산수치 1 · 입력 3 · 미산출 1 · 자료레코드 0 · 미실행공식 7 · 회수청크 1
+
+────────────────────────────────────────────────────────────────────────
+▶ [3-5-3] 예방 가능 사망자 수 추정
+────────────────────────────────────────────────────────────────────────
+[Retrieval] 3-5-3 → 직접 회수 1/1청크 (문서 순서, 전체 반환)
+  - 제5절 3. 예방 가능 사망자 수 추정 (표Ⅲ-14) (4374자)
+[Memory] 이전 소절(파이프라인 생성) 2개 로드: ['3-5-1', '3-5-2']
+[Computation] 카탈로그 캐시 사용 (key=HOS_ASAN:9d67f2ced5)
+[Computation] 3-5-3 — 소절 어휘 밖이라 미노출: ['annual_inpatient', 'annual_inpatient_facility_catchment', 'annual_inpatient_facility_national', 'annual_outpatient_catchment', 'annual_outpatient_national', 'bed_utilization_catchment', 'bed_utilization_national', 'beds', 'capacity_per_bed_catchment', 'capacity_per_bed_national', 'ci', 'delta_beds', 'inpatient_days', 'local_per_1000', 'national_per_1000', 'outpatient_ratio', 'required_beds_catchment', 'required_beds_national', 'ri', 'special_annual_inpatient', 'special_bed_utilization_catchment', 'special_bed_utilization_national', 'special_capacity_per_bed_catchment', 'special_capacity_per_bed_national', 'special_ci', 'special_delta_beds', 'special_inpatient_days', 'special_local_per_1000', 'special_national_per_1000', 'special_required_beds_catchment', 'special_required_beds_national', 'special_ri', 'special_specific_type_beds_catchment', 'special_specific_type_beds_national', 'special_supply_beds', 'special_type_share', 'specific_type_beds_catchment', 'specific_type_beds_national', 'type_share']
+[Computation] 3-5-3 — 표 0개 + 수치 3개 + 입력 5개(소절필터 적용, 전체 25) (실행 25공식, 미충족 7공식)
+[Computation] 입력 미충족(skip)된 공식:
+  - special_emergency_deaths: 부족 입력 ['death_rate']
+  - special_preventable_deaths: 부족 입력 ['emergency_deaths', 'death_rate_reduction']
+  - special_death_rate_reduction: 부족 입력 ['bed_increase_rate_pct', 'elasticity']
+  - special_annual_inpatient_facility_catchment: 부족 입력 ['beds']
+  - special_annual_inpatient_facility_national: 부족 입력 ['beds']
+  - special_annual_outpatient_catchment: 부족 입력 ['annual_inpatient_facility_catchment']
+  - special_annual_outpatient_national: 부족 입력 ['annual_inpatient_facility_national']
+[Computation] 3-5-3 — 이 소절 미산출 항목 3건(Writer 에 노출)
+[Writer] 3-5-3 생성 완료: 2513자
+[Critic] 3-5-3 → PASS
+  해석 금지:   OK
+  지침 준수:   4점 - 지침의 주요 항목, 즉 연구의 목적, 기존 연구의 한계, 본 연구의 방법론 (기간, 변수 정의 및 근거, 자료원, 통계 분석 모형 및 결과)이 모두 정확하고 상세하게 포함되어 있습니다. 누락된 내용은 지엽적이거나 내용 이해에 크게 영향을 미치지 않는 수준입니다.
+  결과: PASS · 서술 2513자 · 계산수치 3 · 입력 5 · 미산출 3 · 자료레코드 0 · 미실행공식 7 · 회수청크 1
+### HOS_ASAN_r21 종료 474초

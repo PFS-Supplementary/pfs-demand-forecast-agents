@@ -1,0 +1,3412 @@
+{
+  "3-1": {
+    "title": "수요 추정 및 진료권 설정 개요",
+    "passed": true,
+    "text": "의료서비스 수요는 개인의 나이, 성별, 건강 수준, 소득과 재산 정도, 직업, 결혼상태 등을 아우르는 사회경제적인 요소, 그리고 이용하고자 하는 의료서비스의 가격과 이용 기간, 치료의 효과, 건강보험의 유무 등 보건의료 시장 및 제도의 여건 등의 결정 요소에 의해 종합적으로 판단하는 의료서비스의 구입량을 의미함 「202212-III-1」. 의료서비스의 욕구는 언급된 결정 요소를 감안하지 않는 가운데 사람들이 원하는 의료서비스의 양을 의미함 「202212-III-1」. 의료서비스의 필요 혹은 요구는 환자의 건강 상태에 대하여 전문적인 의학지식을 가진 의료인이 의학적인 판단 과정에 근거하여 결정되는 의학적 필요량을 의미함 「202212-III-1」. 따라서 의료서비스 수요는 사회경제적 요인들이 작용하여 실제 의료서비스로 실현 가능함을 의미하는 측면에서 욕구 및 필요와 차이를 가짐 「202212-III-1」.\n\n의료시설의 신규 건립, 증축 및 신축 이전 등을 포함하는 사업은 보건의료 측면에서 해당 지역의 의료서비스 수요를 결정하는 결정 요소에 변화를 초래함 「202212-III-1」. 이는 이용자들의 의료서비스 이용 패턴에 영향을 주게 되며, 궁극적으로는 의료서비스 수요 변화를 초래하게 됨 「202212-III-1」. 따라서 의료시설 건립 등의 사업 타당성을 평가하는 데에 있어서 해당 사업으로 초래되는 수요 변화를 분석하는 것이 전제되어야 함 「202212-III-1」. 이러한 의료서비스의 변화를 분석하는 범위는 진료권으로 정의됨 「202212-III-1」. 진료권은 해당 의료시설의 대안적 시설이 전무하거나 의료전달 체계상 가장 핵심적인 역할을 수행하는 경우에는 우리나라 전체가 될 수 있으나, 일반적으로 대안 시설이 지역적으로 산재해 있는 경우에는 그 범위가 일부 지역에 국한되어 나타나는 것이 더 타당함 「202212-III-1」.\n\n의료시설 건립 등에 관한 사업의 경제적 타당성은 일반적으로 사업 수행에 소요되는 비용 대비 사업 수행 과정을 통하여 창출되는 편익의 크기를 기반으로 함 「202212-III-1」. 특히 국가사업의 경우, 편익은 공공적인 측면에서 발생하는 혜택의 경제적 가치를 의미하며 이를 사회적 편익이라 정의함 「202212-III-1」. 이러한 편익은 실제 의료서비스를 이용하는 환자들의 의료이용 행위를 통해 직간접적으로 발생하는 것이므로, 경제적 타당성의 범주에서 분석하고 추정하는 편익의 규모와 범위는 제공되는 해당 진료권 내에 거주하는 인구 규모, 건강 수준과 함께 이를 바탕으로 나타나는 의료서비스에 대한 수요 및 수요량의 변화에 전적으로 의존함 「202212-III-1」.\n\n공공의료시설 사업의 수요와 편익 추정의 기본적인 개요는 다음의 [그림 Ⅲ-1]에서 제시됨 「202212-III-1」. 여기에서 가장 먼저 고려하여야 할 사항은 해당 의료시설 건립 예정지를 중심으로 하는 새로운 진료권을 설정하는 것임 「202212-III-1」. 울산의료원 설립 사업은 울산광역시 북구 창평동 1232-12번지(송정동) 일원에 위치할 예정임 「사업 기본계획서」. 이 사업은 총 500병상 규모로 계획됨 「사업 기본계획서」. 울산의료원 설립은 취약계층 환자 진료, 필수 의료체계 구축 등 지역 간 공공의료 불균형 해소 및 포스트 코로나 감염병 위기 대응 안전망 구축을 목적으로 함 「사업 기본계획서」. 현재 전국 시·도 중 울산과 광주만 지방의료원이 부재하며, 공공의료기관이 1개소뿐으로 지역 간 공공의료 불균형이 심화되어 있는 상황임 「사업 기본계획서」. 아울러 분석하고자 하는 공공부문의 의료시설 건립사업의 당위성과 사업 규모의 타당성을 검토하기 위해 해당 진료권 범위 내에 존재하는 의료시설의 수급 상황을 검토할 필요가 있음 「202212-III-1」. 이때 의료서비스 수요의 지표로 병상 수요(요구 병상 수)를 사용하며, 보완적으로 해당 지역의 건강 수준 및 질병 양상 등을 포함하는 보건의료지표를 활용함 「202212-III-1」. 이들 지표를 이용하여 해당 진료권의 병상 공급 현황 그리고 유사 지역 또는 전국 평균의 보건의료지표와 비교하여 사업 규모의 타당성을 평가함 「202212-III-1」. 실제 신규 의료시설을 이용할 진료권 내 환자 수요는 입원, 외래 및 응급 진료로 나누어 추정할 필요가 있음 「202212-III-1」. 이는 각각의 영역에 대한 의료 서비스에서 발생하는 편익의 성격과 내용이 다르기 때문임 「202212-III-1」. 환자 수요 추정은 이후 논의할 편익 추정의 기초 자료가 됨 「202212-III-1」. 끝으로 예비타당성조사에서 추정한 사업 비용 대비 편익의 크기를 분석하여 사업의 경제적 타당성을 검토함 「202212-III-1」.",
+    "catchment_result": {},
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "생성된 텍스트는 KDI 지침에서 요구하는 의료서비스 수요의 정의, 의료시설 사업이 수요에 미치는 영향, 진료권의 개념, 경제적 타당성 및 사회적 편익, 그리고 수요 및 편익 추정의 기본 개요 등 모든 주요 서술 항목을 적절히 포함하고 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "생성된 텍스트는 KDI 지침에서 요구하는 의료서비스 수요의 정의, 의료시설 사업이 수요에 미치는 영향, 진료권의 개념, 경제적 타당성 및 사회적 편익, 그리고 수요 및 편익 추정의 기본 개요 등 모든 주요 서술 항목을 적절히 포함하고 있습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {},
+      "inputs": {},
+      "input_sources": {},
+      "unresolved": [],
+      "executed": [],
+      "skipped": {},
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-1"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {},
+      "region_normalization": []
+    }
+  },
+  "3-2": {
+    "title": "진료권 설정",
+    "passed": true,
+    "text": "[소제목] 진료권 설정의 필요성 및 개요\n진료권은 특정한 의료시설의 진료행위가 미치는 지역의 범위 또는 의료시설 이용자의 현주소 분포 범위를 의미함 「202212-III-2-1」. 이러한 진료권 설정은 잠재적인 의료 수요와 공급 현황을 비교하여 의료 공급의 적정성 여부를 판단하는 주요 근거가 되며, 신규 의료시설의 실제 의료서비스 수요를 추정하는 핵심적인 작업임 「202212-III-2-1」. 진료권에 영향을 미치는 요인으로는 의료시설의 규모, 종별 구분, 제공하는 의료서비스의 유형 및 질과 수준 등 시설 자체의 특성과 더불어 교통망, 교통수단, 의료시장 내 위치 등 지역적인 특성이 존재함 「202212-III-2-1」.\n\n[소제목] 진료권 설정 방법론 검토\n의료시설 건립사업의 진료권 설정 방법은 KDI 세부지침 <표 Ⅲ-1>에 따라 세 가지 유형으로 분류됨 「202212-III-2-2가」. 본 사업의 의료시설은 군인, 경찰, 소방관 등 특수 공공인력, 보훈대상자 및 그 가족을 대상으로 하는 특수목적 의료시설에 해당하지 않는 것으로 판정됨. 본 사업은 울산광역시 북구에 설립되는 500병상 규모의 지방의료원이며 「사업 기본계획서」, 이는 일반적으로 종합병원급으로 볼 수 있음 「202212-III-2-2나」. 울산광역시 북구 내에는 울산엘리야병원, 울산시티병원 등 종합병원급 의료시설이 이미 존재함 「심사평가원 의료기관 신고자료」. 따라서 본 사업은 KDI 세부지침 <표 Ⅲ-1>의 '유형2(의료시설이 건립되는 시/군/구에 동일한 유형 및 진료 수준의 의료시설이 존재할 경우)'에 해당함 「202212-III-2-2가」.\nKDI 세부지침 <표 Ⅲ-1>에서 유형2의 진료권 설정 방법은 '신규 의료시설이 위치한 시/군으로 진료권 설정'으로 규정됨 「202212-III-2-2가」. 다만, 보건소나 지방의료원과 같은 공공의료시설의 경우에는 진료권의 범위가 해당 시⋅군⋅구 전체 또는 인접 지역을 포함하는 것이 일반적이므로, 신규 의료시설이 위치한 시⋅군으로 진료권을 설정하거나, 지역 내 동일 유형 의료시설을 이용하는 환자들의 지역분포를 활용하여 진료권을 설정하는 방법이 더욱 타당하다고 판단됨 「202212-III-2-2가」.\n의료기관의 진료권 설정 방법으로 거리 및 이동시간을 이용한 예상 진료권 설정은 신설 의료기관으로부터의 행정구역까지의 거리와 이동시간을 고려하는 것이 가장 바람직함 「202212-III-2-2가」. 이는 인구통계와 병상 수 등 보건의료지표가 행정구역을 기본단위로 제공되므로 이에 맞춰 예상 진료권 역시 시⋅군⋅구 또는 읍⋅면⋅동 수준의 행정구역 단위로 구분할 필요가 있기 때문임 「202212-III-2-2가」. 중력모형 고려 및 지역 거주민에 대한 의료이용 행태 설문조사 방법은 KDI 세부지침 <표 Ⅲ-1>의 유형1에 해당하는 진료권 설정 방법으로 제시되었으며, 본 사업은 유형2에 해당하여 지침상 직접 제시된 진료권 설정 방법이 아니므로 적용하지 않음 「202212-III-2-2가」.\n\n[소제목] 행정구역 중심 진료권 설정의 시사점\n행정구역 중심의 진료권 설정은 실제 이용 가능한 자료의 유용성 측면에서 유리함 「202212-III-2-2나」. 정부는 지역 내 필수의료 협력을 위한 책임의료기관 지정 사업을 추진하고 있으며, 울산광역시는 권역 책임의료기관이 민간 의료기관으로 지정된 상황임 「202212-III-2-2나」. 본 사업의 지방의료원 설립은 울산광역시 내 지방의료원 부재를 해소하고, 공공의료 불균형을 해결하기 위한 것으로, 정부의 공공의료체계 강화 정책 방향과 일치함 「사업 기본계획서; 202212-III-2-2나」. 이러한 배경은 행정구역 기반의 진료권 분석의 논리적 설득력을 확보하는 요인이 됨 「202212-III-2-2나」.\n\n[소제목] 진료권 결정 요소 분석\n의료서비스의 공급 측면에서, 본 사업 대상 의료시설인 울산의료원은 500병상 규모로 의료법 제3조의3에서 규정하는 종합병원의 지정 요건을 충족할 것으로 판단됨 「사업 기본계획서; 202212-III-2-2다」. 구체적으로 300병상을 초과하는 종합병원은 내과, 외과, 소아청소년과, 산부인과, 영상의학과, 마취통증의학과, 진단검사의학과 또는 병리과, 정신건강의학과 및 치과를 포함한 9개 이상의 진료과목을 갖추고 각 진료과목마다 전속 전문의를 두도록 규정됨 「KDI 세부지침 <표 Ⅲ-7>」.\n의료서비스의 수요 측면에서, 해당 의료시설에 도달하기 위한 교통수단 및 교통망 여건은 진료권의 규모와 범위를 결정하는 중요한 요소임 「202212-III-2-2다」. 울산 북구의 사업 예정지에서 울산광역시 내 각 구⋅군청까지의 승용차 이동시간은 10분에서 30분 이내로 나타남 「Kakao Mobility 길찾기 API」. 인접 지역의 경쟁 병원 존재 여부 또한 진료권 결정에 영향을 미치며, 본 사업 예정지 주변 지역에는 다수의 종합병원 및 상급종합병원이 존재함 「심사평가원 의료기관 신고자료」. 장래 개발계획 및 이에 따른 인구 유입, 인구 구성 변화 등의 내생성 문제가 진료권 설정에 영향을 줄 수 있으나, 예비타당성조사에서는 보수적인 추계를 준거로 삼으므로 이러한 효과를 정량적으로 반영하는 데에는 한계가 존재함 「202212-III-2-2다」. 따라서 지역 인구 및 장래인구 추계가 수요 추정의 핵심적인 기저가 됨 「202212-III-2-2다」.\n\n[소제목] 진료권 설정을 위한 자료 분석\n인구 규모 및 구성과 관련하여, 울산광역시 북구의 총인구는 2016년 195,285명에서 2020년 219,014명으로 증가하는 추세를 보임 「행정안전부 주민등록 인구통계」. 2020년 기준 성비는 남성 113,392명, 여성 105,622명으로 남성 인구가 더 많은 것으로 나타남 「행정안전부 주민등록 인구통계」. 65세 이상 고령인구 비율은 2020년 8.2%(18,025명)로 나타남 「행정안전부 주민등록 인구통계」. 2019년 건강보험 가입자 수는 217,835명으로 파악됨 「NHIS 건강보험통계연보」. 시⋅군⋅구 단위의 장래인구추계 자료는 현재 보유하고 있지 않으며, 이러한 경우 진료권 내 행정구역의 인구 추이와 전국 인구의 추이가 유사성을 지니도록 조정하여 장래인구추계를 실시하는 방법이 타당함 「202212-III-2-2라」.\n지역친화도(RI) 지표는 특정 지역에 거주하는 인구가 관내 의료시설을 이용하는 비율을 의미함 「202212-III-2-2라」. 울산광역시 북구의 환자유형별 자체충족률(2020년)은 전체 환자(ALL) 기준 27.63%, 장기요양(LONG_TERM_CARE) 30.69%, 정신과(PSYCHIATRIC) 2.58%로 나타남 「보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24」. 이러한 지역친화도 지표는 자료 접근성이 낮고 의료시장 구조 변화에 영향을 받는 내생 변수이며, 특정 의료시설보다는 시⋅군⋅구 단위의 지역별 의료이용행태 분석에 적합하다는 한계점이 존재함 「202212-III-2-2라」. 특히 신규 의료시설의 경우 기존 환자 자료가 없으므로 지역친화도 자료 확보에 어려움이 있음 「202212-III-2-2라」.\n사업 예정지인 울산광역시 북구 창평동에서 울산광역시 내 각 구⋅군청까지의 승용차 이동시간은 북구 10분, 중구 15분, 남구 20분, 동구 24분, 울주군 30분으로 울산광역시 전역이 30분 이내 접근 가능함 「Kakao Mobility 길찾기 API」. 또한 인접한 경상북도 경주시(57분), 부산광역시 기장군(58분), 경상남도 양산시(60분) 등은 1시간 이내 접근 가능한 것으로 나타남 「Kakao Mobility 길찾기 API」.\n유사 의료시설의 존재 여부와 관련하여, 울산광역시 북구에는 울산엘리야병원, 울산시티병원 등 종합병원급 의료시설이 존재하며 「심사평가원 의료기관 신고자료」, 울산광역시 남구, 중구, 울주군에도 다수의 종합병원이 소재함 「심사평가원 의료기관 신고자료」. 울산광역시 동구에는 상급종합병원인 울산대학교병원이 위치하며 「심사평가원 의료기관 신고자료」, 인접한 경상북도 경주시, 경상남도 양산시, 부산광역시 해운대구, 수영구, 포항시 등에도 종합병원 및 상급종합병원이 다수 존재함 「심사평가원 의료기관 신고자료」. 다만, 제공된 자료에는 각 시설의 병상 수 정보가 없어 시설별 규모를 직접적으로 비교하는 데에는 제약이 있음 「심사평가원 의료기관 신고자료」.\n\n[소제목] 최종 진료권 설정 및 신규 시설 진료 수준 판단\n본 사업은 울산광역시 북구에 건립되는 500병상 규모의 지방의료원으로서 종합병원급 의료시설에 해당하며 「사업 기본계획서; 202212-III-2-2나」, 지역 내 공공의료 불균형 해소와 감염병 위기 대응 안전망 구축을 사업 목적으로 함 「사업 기본계획서」. KDI 세부지침 <표 Ⅲ-1>에 따라 유사 시설이 존재하는 시⋅군⋅구에 신규 의료시설이 건립되는 유형2에 속하지만, 지방의료원의 특성상 진료권이 해당 시⋅군⋅구 전체 또는 인접 지역까지 확장될 수 있음 「202212-III-2-2가」. 울산광역시 북구의 자체충족률(27.63%)이 낮게 나타나 지역 주민들의 광역 의료시설 이용이 활발함을 시사하며 「보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24」, 울산광역시 모든 구⋅군이 사업 예정지로부터 승용차로 30분 이내에 위치하여 접근성이 양호함 「Kakao Mobility 길찾기 API」. 이러한 점들을 고려할 때, 울산의료원은 울산광역시 전역을 1차 진료권으로 설정하는 것이 타당함.\n\n[최종 진료권]\n- 1차 진료권: 울산광역시 (북구, 중구, 남구, 동구, 울주군)\n[신규 시설 진료 수준]\n- 종합병원급",
+    "catchment_result": {
+      "1차 진료권": {
+        "regions": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "names": [
+          "중구",
+          "남구",
+          "동구"
+        ],
+        "unmatched": [
+          "울산광역시 (북구",
+          "울주군)"
+        ],
+        "expanded": [],
+        "normalized": [
+          "중구→31110(동명 가림: 사업 소재 시도)",
+          "남구→31140(동명 가림: 사업 소재 시도)",
+          "동구→31170(동명 가림: 사업 소재 시도)"
+        ]
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "생성된 텍스트는 KDI 세부지침에서 요구하는 진료권의 정의, 설정의 필요성, 영향 요인, 세 가지 유형별 설정 방법, 행정구역 중심 설정의 시사점, 진료권 결정 요소, 그리고 인구, 의료이용행태(RI), 거리 및 유사 시설 등의 자료 분석 항목을 매우 충실하고 적절하게 포함하고 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "생성된 텍스트는 KDI 세부지침에서 요구하는 진료권의 정의, 설정의 필요성, 영향 요인, 세 가지 유형별 설정 방법, 행정구역 중심 설정의 시사점, 진료권 결정 요소, 그리고 인구, 의료이용행태(RI), 거리 및 유사 시설 등의 자료 분석 항목을 매우 충실하고 적절하게 포함하고 있습니다.",
+            "attempts": 1
+          }
+        }
+      ],
+      "special_purpose_gate": {
+        "applies": false,
+        "decided": true,
+        "rationale": "해당 사업은 군인, 경찰, 소방관과 같은 특수 공공인력 또는 보훈대상자와 그 가족에 대한 의료서비스 제공을 우선의 목적으로 하지 않으므로 지침 정의의 특수목적 의료시설에 해당하지 않는다.",
+        "log": {
+          "attempts": 1,
+          "errors": [],
+          "raw": [
+            "```json\n{\n  \"applies\": false,\n  \"rationale\": \"해당 사업은 군인, 경찰, 소방관과 같은 특수 공공인력 또는 보훈대상자와 그 가족에 대한 의료서비스 제공을 우선의 목적으로 하지 않으므로 지침 정의의 특수목적 의료시설에 해당하지 않는다.\"\n}\n```"
+          ]
+        }
+      },
+      "special_purpose_ruling_given": true,
+      "catchment_parse": {
+        "method": "rule",
+        "llm_log": null,
+        "raw_groups": {
+          "1차 진료권": [
+            "울산광역시 (북구",
+            "중구",
+            "남구",
+            "동구",
+            "울주군)"
+          ]
+        }
+      },
+      "facility_level": {
+        "level": "종합병원급",
+        "source": "§3-2 [신규 시설 진료 수준]"
+      }
+    },
+    "verification_source": {
+      "numbers": {},
+      "inputs": {},
+      "input_sources": {},
+      "unresolved": [],
+      "executed": [],
+      "skipped": {},
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-1",
+        "202212-III-2-1",
+        "202212-III-2-2가",
+        "202212-III-2-2나",
+        "202212-III-2-2다",
+        "202212-III-2-2라",
+        "202105-VII-1-개요수식",
+        "202105-VII-1-절차",
+        "202105-VII-2-매력도",
+        "202105-VII-2-참여율",
+        "202105-VII-2-쟁점원칙"
+      ],
+      "data_records": [
+        {
+          "type": "population",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2016,
+          "value": 195285,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "population",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2017,
+          "value": 200718,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "population",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2018,
+          "value": 206434,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "population",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2019,
+          "value": 217796,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "population",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2020,
+          "value": 219014,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "population_male",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2020,
+          "value": 113392,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "population_female",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2020,
+          "value": 105622,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "elderly_ratio_pct",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2020,
+          "value": 8.2,
+          "unit": "%",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "elderly_population",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2020,
+          "value": 18025,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "age_total_population",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2020,
+          "value": 219014,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "health_insured",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2019,
+          "value": 217835,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "ri_ALL",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2020,
+          "value": 27.632882139319907,
+          "unit": "PCT",
+          "source": "보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24",
+          "data_tag": "②지역친화도"
+        },
+        {
+          "type": "ri_LONG_TERM_CARE",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2020,
+          "value": 30.69182389937107,
+          "unit": "PCT",
+          "source": "보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24",
+          "data_tag": "②지역친화도"
+        },
+        {
+          "type": "ri_OTHER",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2020,
+          "value": 0.0,
+          "unit": "PCT",
+          "source": "보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24",
+          "data_tag": "②지역친화도"
+        },
+        {
+          "type": "ri_PSYCHIATRIC",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2020,
+          "value": 2.5830258302583027,
+          "unit": "PCT",
+          "source": "보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24",
+          "data_tag": "②지역친화도"
+        },
+        {
+          "type": "ri_REHABILITATION",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": 2020,
+          "value": 0.0,
+          "unit": "PCT",
+          "source": "보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24",
+          "data_tag": "②지역친화도"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "울산광역시 북구",
+          "entity_code": "31200",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "울산광역시 중구",
+          "entity_code": "31110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "울산광역시 중구",
+          "entity_code": "31110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "울산광역시 중구",
+          "entity_code": "31110",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "울산광역시 남구",
+          "entity_code": "31140",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "울산광역시 남구",
+          "entity_code": "31140",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "울산광역시 남구",
+          "entity_code": "31140",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "울산광역시 동구",
+          "entity_code": "31170",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "울산광역시 동구",
+          "entity_code": "31170",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "울산광역시 동구",
+          "entity_code": "31170",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "울산광역시 울주군",
+          "entity_code": "31710",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "울산광역시 울주군",
+          "entity_code": "31710",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "울산광역시 울주군",
+          "entity_code": "31710",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경상북도 경주시",
+          "entity_code": "47130",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경상북도 경주시",
+          "entity_code": "47130",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경상북도 경주시",
+          "entity_code": "47130",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 기장군",
+          "entity_code": "26710",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 기장군",
+          "entity_code": "26710",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 기장군",
+          "entity_code": "26710",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경상남도 양산시",
+          "entity_code": "48330",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경상남도 양산시",
+          "entity_code": "48330",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경상남도 양산시",
+          "entity_code": "48330",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 금정구",
+          "entity_code": "26410",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 금정구",
+          "entity_code": "26410",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 금정구",
+          "entity_code": "26410",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 해운대구",
+          "entity_code": "26350",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 해운대구",
+          "entity_code": "26350",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 해운대구",
+          "entity_code": "26350",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 수영구",
+          "entity_code": "26500",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 수영구",
+          "entity_code": "26500",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 수영구",
+          "entity_code": "26500",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경상북도 포항시",
+          "entity_code": "47110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경상북도 포항시",
+          "entity_code": "47110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경상북도 포항시",
+          "entity_code": "47110",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경상북도 영천시",
+          "entity_code": "47230",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경상북도 영천시",
+          "entity_code": "47230",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경상북도 영천시",
+          "entity_code": "47230",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 강서구",
+          "entity_code": "26440",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 강서구",
+          "entity_code": "26440",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 강서구",
+          "entity_code": "26440",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 북구",
+          "entity_code": "26320",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 북구",
+          "entity_code": "26320",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 북구",
+          "entity_code": "26320",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경상남도 김해시",
+          "entity_code": "48250",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경상남도 김해시",
+          "entity_code": "48250",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경상남도 김해시",
+          "entity_code": "48250",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경상남도 밀양시",
+          "entity_code": "48270",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경상남도 밀양시",
+          "entity_code": "48270",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경상남도 밀양시",
+          "entity_code": "48270",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 남구",
+          "entity_code": "26290",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 남구",
+          "entity_code": "26290",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 남구",
+          "entity_code": "26290",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 영도구",
+          "entity_code": "26200",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 영도구",
+          "entity_code": "26200",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 영도구",
+          "entity_code": "26200",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 동래구",
+          "entity_code": "26260",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 동래구",
+          "entity_code": "26260",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 동래구",
+          "entity_code": "26260",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 부산진구",
+          "entity_code": "26230",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 부산진구",
+          "entity_code": "26230",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 부산진구",
+          "entity_code": "26230",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경상북도 청도군",
+          "entity_code": "47820",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경상북도 청도군",
+          "entity_code": "47820",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경상북도 청도군",
+          "entity_code": "47820",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 사상구",
+          "entity_code": "26530",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 사상구",
+          "entity_code": "26530",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 사상구",
+          "entity_code": "26530",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 동구",
+          "entity_code": "26170",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 동구",
+          "entity_code": "26170",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 동구",
+          "entity_code": "26170",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 연제구",
+          "entity_code": "26470",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 연제구",
+          "entity_code": "26470",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 연제구",
+          "entity_code": "26470",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 중구",
+          "entity_code": "26110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 중구",
+          "entity_code": "26110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 중구",
+          "entity_code": "26110",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 서구",
+          "entity_code": "26140",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 서구",
+          "entity_code": "26140",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 서구",
+          "entity_code": "26140",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "부산광역시 사하구",
+          "entity_code": "26380",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "부산광역시 사하구",
+          "entity_code": "26380",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "부산광역시 사하구",
+          "entity_code": "26380",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "대구광역시 동구",
+          "entity_code": "27140",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "대구광역시 동구",
+          "entity_code": "27140",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "대구광역시 동구",
+          "entity_code": "27140",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경상북도 경산시",
+          "entity_code": "47290",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경상북도 경산시",
+          "entity_code": "47290",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경상북도 경산시",
+          "entity_code": "47290",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "meta_distance_rows_omitted",
+          "entity": "HOS_ULSAN",
+          "entity_code": null,
+          "year": null,
+          "value": 199,
+          "unit": "개",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "meta_distance_rows_shown",
+          "entity": "HOS_ULSAN",
+          "entity_code": null,
+          "year": null,
+          "value": 30,
+          "unit": "개",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "meta_nearby_region_count",
+          "entity": "HOS_ULSAN",
+          "entity_code": null,
+          "year": null,
+          "value": 30,
+          "unit": "개",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "meta_facility_count",
+          "entity": "HOS_ULSAN",
+          "entity_code": null,
+          "year": null,
+          "value": 55,
+          "unit": "건",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "울산엘리야병원",
+          "entity_code": "31200",
+          "year": null,
+          "value": 19,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "울산엘리야병원",
+          "entity_code": "31200",
+          "year": null,
+          "value": "2002",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 송은의료재단 울산시티병원",
+          "entity_code": "31200",
+          "year": null,
+          "value": 52,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 송은의료재단 울산시티병원",
+          "entity_code": "31200",
+          "year": null,
+          "value": "2014",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 동강의료재단 동강병원",
+          "entity_code": "31110",
+          "year": null,
+          "value": 87,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 동강의료재단 동강병원",
+          "entity_code": "31110",
+          "year": null,
+          "value": "1981",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 동강의료재단 동천동강병원",
+          "entity_code": "31110",
+          "year": null,
+          "value": 23,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 동강의료재단 동천동강병원",
+          "entity_code": "31110",
+          "year": null,
+          "value": "2016",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "울산병원",
+          "entity_code": "31140",
+          "year": null,
+          "value": 52,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "울산병원",
+          "entity_code": "31140",
+          "year": null,
+          "value": "1995",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 은성의료재단 좋은삼정병원",
+          "entity_code": "31140",
+          "year": null,
+          "value": 36,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 은성의료재단 좋은삼정병원",
+          "entity_code": "31140",
+          "year": null,
+          "value": "2014",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 정안의료재단 중앙병원",
+          "entity_code": "31140",
+          "year": null,
+          "value": 51,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 정안의료재단 중앙병원",
+          "entity_code": "31140",
+          "year": null,
+          "value": "2015",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "학교법인 울산공업학원 울산대학교병원",
+          "entity_code": "31170",
+          "year": null,
+          "value": 359,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "학교법인 울산공업학원 울산대학교병원",
+          "entity_code": "31170",
+          "year": null,
+          "value": "1987",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "서울산보람병원",
+          "entity_code": "31710",
+          "year": null,
+          "value": 22,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "서울산보람병원",
+          "entity_code": "31710",
+          "year": null,
+          "value": "2007",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "동국대학교의과대학경주병원",
+          "entity_code": "47130",
+          "year": null,
+          "value": 108,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "동국대학교의과대학경주병원",
+          "entity_code": "47130",
+          "year": null,
+          "value": "1991",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "동남권원자력의학원원자력병원",
+          "entity_code": "26710",
+          "year": null,
+          "value": 58,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "동남권원자력의학원원자력병원",
+          "entity_code": "26710",
+          "year": null,
+          "value": "2010",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "베데스다복음병원",
+          "entity_code": "48330",
+          "year": null,
+          "value": 16,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "베데스다복음병원",
+          "entity_code": "48330",
+          "year": null,
+          "value": "1996",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "양산부산대학교병원",
+          "entity_code": "48330",
+          "year": null,
+          "value": 411,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "양산부산대학교병원",
+          "entity_code": "48330",
+          "year": null,
+          "value": "2008",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 인당의료재단 해운대부민병원",
+          "entity_code": "26350",
+          "year": null,
+          "value": 63,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 인당의료재단 해운대부민병원",
+          "entity_code": "26350",
+          "year": null,
+          "value": "2015",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "인제대학교 해운대백병원",
+          "entity_code": "26350",
+          "year": null,
+          "value": 327,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "인제대학교 해운대백병원",
+          "entity_code": "26350",
+          "year": null,
+          "value": "2010",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "비에이치에스한서병원",
+          "entity_code": "26500",
+          "year": null,
+          "value": 54,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "비에이치에스한서병원",
+          "entity_code": "26500",
+          "year": null,
+          "value": "1987",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 센텀의료재단 센텀종합병원",
+          "entity_code": "26500",
+          "year": null,
+          "value": 59,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 센텀의료재단 센텀종합병원",
+          "entity_code": "26500",
+          "year": null,
+          "value": "2002",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 은성의료재단 좋은강안병원",
+          "entity_code": "26500",
+          "year": null,
+          "value": 93,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 은성의료재단 좋은강안병원",
+          "entity_code": "26500",
+          "year": null,
+          "value": "2005",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "경상북도포항의료원",
+          "entity_code": "47110",
+          "year": null,
+          "value": 29,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "경상북도포항의료원",
+          "entity_code": "47110",
+          "year": null,
+          "value": "1978",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "에스포항병원",
+          "entity_code": "47110",
+          "year": null,
+          "value": 45,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "에스포항병원",
+          "entity_code": "47110",
+          "year": null,
+          "value": "2008",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인은성의료재단좋은선린병원",
+          "entity_code": "47110",
+          "year": null,
+          "value": 25,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인은성의료재단좋은선린병원",
+          "entity_code": "47110",
+          "year": null,
+          "value": "1979",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인한성재단포항세명기독병원",
+          "entity_code": "47110",
+          "year": null,
+          "value": 128,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인한성재단포항세명기독병원",
+          "entity_code": "47110",
+          "year": null,
+          "value": "1992",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "포항성모병원",
+          "entity_code": "47110",
+          "year": null,
+          "value": 109,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "포항성모병원",
+          "entity_code": "47110",
+          "year": null,
+          "value": "1977",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "영남대학교의과대학부속영천병원",
+          "entity_code": "47230",
+          "year": null,
+          "value": 16,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "영남대학교의과대학부속영천병원",
+          "entity_code": "47230",
+          "year": null,
+          "value": "1999",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "구포성심병원",
+          "entity_code": "26320",
+          "year": null,
+          "value": 30,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "구포성심병원",
+          "entity_code": "26320",
+          "year": null,
+          "value": "1983",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 인당의료재단 부민병원",
+          "entity_code": "26320",
+          "year": null,
+          "value": 69,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 인당의료재단 부민병원",
+          "entity_code": "26320",
+          "year": null,
+          "value": "2003",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "강일병원",
+          "entity_code": "48250",
+          "year": null,
+          "value": 33,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "강일병원",
+          "entity_code": "48250",
+          "year": null,
+          "value": "2017",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인갑을의료재단 갑을장유병원",
+          "entity_code": "48250",
+          "year": null,
+          "value": 26,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인갑을의료재단 갑을장유병원",
+          "entity_code": "48250",
+          "year": null,
+          "value": "2005",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인숭인의료재단 김해복음병원",
+          "entity_code": "48250",
+          "year": null,
+          "value": 46,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인숭인의료재단 김해복음병원",
+          "entity_code": "48250",
+          "year": null,
+          "value": "2005",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인환명의료재단 조은금강병원",
+          "entity_code": "48250",
+          "year": null,
+          "value": 40,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인환명의료재단 조은금강병원",
+          "entity_code": "48250",
+          "year": null,
+          "value": "2007",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "부산성모병원(재단법인 천주교부산교구유지재단)",
+          "entity_code": "26290",
+          "year": null,
+          "value": 80,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "부산성모병원(재단법인 천주교부산교구유지재단)",
+          "entity_code": "26290",
+          "year": null,
+          "value": "2006",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "영도병원",
+          "entity_code": "26200",
+          "year": null,
+          "value": 32,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "영도병원",
+          "entity_code": "26200",
+          "year": null,
+          "value": "1996",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 행도의료재단 해동병원",
+          "entity_code": "26200",
+          "year": null,
+          "value": 24,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 행도의료재단 해동병원",
+          "entity_code": "26200",
+          "year": null,
+          "value": "1984",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "대동병원",
+          "entity_code": "26260",
+          "year": null,
+          "value": 65,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "대동병원",
+          "entity_code": "26260",
+          "year": null,
+          "value": "1980",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "동래봉생병원",
+          "entity_code": "26260",
+          "year": null,
+          "value": 43,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "동래봉생병원",
+          "entity_code": "26260",
+          "year": null,
+          "value": "1990",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 광혜의료재단 광혜병원",
+          "entity_code": "26260",
+          "year": null,
+          "value": 25,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 광혜의료재단 광혜병원",
+          "entity_code": "26260",
+          "year": null,
+          "value": "1983",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 온그룹의료재단 온병원",
+          "entity_code": "26230",
+          "year": null,
+          "value": 72,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 온그룹의료재단 온병원",
+          "entity_code": "26230",
+          "year": null,
+          "value": "2010",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "학교법인 춘해병원",
+          "entity_code": "26230",
+          "year": null,
+          "value": 26,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "학교법인 춘해병원",
+          "entity_code": "26230",
+          "year": null,
+          "value": "1974",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "학교법인)동의병원",
+          "entity_code": "26230",
+          "year": null,
+          "value": 74,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "학교법인)동의병원",
+          "entity_code": "26230",
+          "year": null,
+          "value": "1990",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "인제대학교부산백병원",
+          "entity_code": "26230",
+          "year": null,
+          "value": 344,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "인제대학교부산백병원",
+          "entity_code": "26230",
+          "year": null,
+          "value": "1979",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 은성의료재단 좋은삼선병원",
+          "entity_code": "26530",
+          "year": null,
+          "value": 80,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 은성의료재단 좋은삼선병원",
+          "entity_code": "26530",
+          "year": null,
+          "value": "1995",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "한국보훈복지의료공단 부산보훈병원",
+          "entity_code": "26530",
+          "year": null,
+          "value": 69,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "한국보훈복지의료공단 부산보훈병원",
+          "entity_code": "26530",
+          "year": null,
+          "value": "1992",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인정화의료재단 봉생기념병원",
+          "entity_code": "26170",
+          "year": null,
+          "value": 67,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인정화의료재단 봉생기념병원",
+          "entity_code": "26170",
+          "year": null,
+          "value": "1985",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "재단법인일신기독교선교회 일신기독병원",
+          "entity_code": "26170",
+          "year": null,
+          "value": 33,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "재단법인일신기독교선교회 일신기독병원",
+          "entity_code": "26170",
+          "year": null,
+          "value": "1984",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "좋은문화병원",
+          "entity_code": "26170",
+          "year": null,
+          "value": 78,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "좋은문화병원",
+          "entity_code": "26170",
+          "year": null,
+          "value": "1986",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "부산광역시의료원",
+          "entity_code": "26470",
+          "year": null,
+          "value": 72,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "부산광역시의료원",
+          "entity_code": "26470",
+          "year": null,
+          "value": "1982",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "재단법인천주교부산교구유지재단 메리놀병원",
+          "entity_code": "26110",
+          "year": null,
+          "value": 86,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "재단법인천주교부산교구유지재단 메리놀병원",
+          "entity_code": "26110",
+          "year": null,
+          "value": "1974",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "삼육부산병원",
+          "entity_code": "26140",
+          "year": null,
+          "value": 58,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "삼육부산병원",
+          "entity_code": "26140",
+          "year": null,
+          "value": "1974",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "고신대학교복음병원",
+          "entity_code": "26140",
+          "year": null,
+          "value": 278,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "고신대학교복음병원",
+          "entity_code": "26140",
+          "year": null,
+          "value": "1974",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "동아대학교병원",
+          "entity_code": "26140",
+          "year": null,
+          "value": 292,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "동아대학교병원",
+          "entity_code": "26140",
+          "year": null,
+          "value": "1990",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "부산대학교병원",
+          "entity_code": "26140",
+          "year": null,
+          "value": 474,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "부산대학교병원",
+          "entity_code": "26140",
+          "year": null,
+          "value": "1981",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "강남종합병원",
+          "entity_code": "27140",
+          "year": null,
+          "value": 25,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "강남종합병원",
+          "entity_code": "27140",
+          "year": null,
+          "value": "2003",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "대구파티마병원",
+          "entity_code": "27140",
+          "year": null,
+          "value": 193,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "대구파티마병원",
+          "entity_code": "27140",
+          "year": null,
+          "value": "1962",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 근원의료재단 경산중앙병원",
+          "entity_code": "47290",
+          "year": null,
+          "value": 33,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 근원의료재단 경산중앙병원",
+          "entity_code": "47290",
+          "year": null,
+          "value": "2011",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 서명의료재단 세명종합병원",
+          "entity_code": "47290",
+          "year": null,
+          "value": 38,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 서명의료재단 세명종합병원",
+          "entity_code": "47290",
+          "year": null,
+          "value": "2003",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        }
+      ],
+      "data_omitted": {},
+      "regions": {},
+      "region_normalization": []
+    }
+  },
+  "3-3-1": {
+    "title": "지역 내 병상이용률·지역친화도·지역환자구성비를 이용한 병상 추정",
+    "passed": true,
+    "text": "[소제목] 분석 방법 및 진료권 설정\n본 절에서는 의료시설의 병상 공급계획에 대한 적정성 검토를 위하여 진료권 내 잠재 의료 수요를 추정하고 이를 의료공급 현황과 비교하여 의료시설 및 병상 공급의 과소 또는 과잉 여부를 판단하는 방법을 적용함 「202212-III-3-1」. 의료 수요 지표로는 진료권 내 '요구되는 병상 수'를 활용함 「202212-III-3-1」. 분석상의 문제점을 최소화하기 위해 지역친화도(RI)와 지역환자구성비(CI)는 각각 100%로 가정하여 진료권의 요구되는 병상 수를 추정함 「202212-III-3-1」. 이는 진료권 내 환자들은 모두 진료권 내 의료시설을 이용한다는 가정을 기반으로 함 「202212-III-3-1」. 본 분석의 진료권은 울산광역시 중구, 울산광역시 남구, 울산광역시 동구로 구성됨 「진료권 설정 결과」. 진료권 내 총 인구는 676,569명으로 나타남 「시도추계(v2017) 2028 × 현재(2020) 인구비 안분」.\n\n[소제목] 연간 입원환자 수 추정\n연간 입원환자 수는 인구, 입원의료이용률(일), 지역친화도의 곱으로 추정됨 「202212-III-3-1」. 진료권 내 인구 1인당 연평균 입원일수는 2.8971일로 나타남 「입력: inpatient_days」. 지역친화도는 1.0으로 가정됨 「입력: ri」. 이와 같은 산정 결과, 진료권 내 연간 입원환자 수는 1,960,088.0499명으로 나타남 「계산: annual_inpatient」.\n\n[소제목] 병상당 연간 수용 능력 추정\n병상당 연간 수용 능력은 병상이용률에 365일을 곱한 값으로 추정됨 「202212-III-3-1」. KDI 세부지침에서는 병상이용률 자료로 해당 지역 내 동일 유형 의료기관의 병상이용률을 적용하되, 동일 유형이 없는 경우 전국 평균치 또는 유사 지역 평균치를 준용하도록 명시하고 있으나, 두 값 중 어느 것을 우선 적용할지는 정하고 있지 않음 「202212-III-3-1」.\n대상 의료시설 종별에 따른 전국 병상이용률은 0.9375로 나타남 「Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/500병상이상/[2018, 2019, 2020](mean)/전국]」. 이를 적용한 경우, 병상당 연간 수용 능력은 342.1875로 나타남 「계산: capacity_per_bed_national」.\n해당 진료권의 평균 병상이용률은 0.928로 나타남 「Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/500병상이상/[2018, 2019, 2020](mean)/진료권 3개 시군구]」. 이를 적용한 경우, 병상당 연간 수용 능력은 338.72로 나타남 「계산: capacity_per_bed_catchment」.\n\n[소제목] 요구되는 총 병상 수 추정\n요구되는 총 병상 수는 지역의 의료시설을 이용하는 연간 입원환자 수를 병상당 연간 수용 능력으로 나누어 추정됨 「202212-III-3-1」.\n대상 의료시설 종별에 따른 전국 병상이용률을 적용한 경우, 요구되는 총 병상 수는 5,728.111196054794병상으로 추정됨 「계산: required_beds_national」.\n해당 진료권의 평균 병상이용률을 적용한 경우, 요구되는 총 병상 수는 5,786.7502654109585병상으로 추정됨 「계산: required_beds_catchment」.\n\n[소제목] 특정 유형 요구 병상 수 추정\n특정 유형의 병상 수요는 전체 병상 수요에 특정 유형 입원환자 비중을 곱하여 추정됨 「202212-III-3-1」. 특정 유형 입원환자 비중은 0.2915로 나타남 「전국 (상급종합+종합)÷의료기관및보건기관 내원일수[2020]」.\n대상 의료시설 종별에 따른 전국 병상이용률을 적용한 경우, 특정 유형 요구 병상 수는 1,669.7444136499723병상으로 추정됨 「계산: specific_type_beds_national」.\n해당 진료권의 평균 병상이용률을 적용한 경우, 특정 유형 요구 병상 수는 1,686.8377023672942병상으로 추정됨 「계산: specific_type_beds_catchment」.",
+    "catchment_result": {
+      "1차 진료권": {
+        "regions": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "names": [
+          "중구",
+          "남구",
+          "동구"
+        ],
+        "unmatched": [
+          "울산광역시 (북구",
+          "울주군)"
+        ],
+        "expanded": [],
+        "normalized": [
+          "중구→31110(동명 가림: 사업 소재 시도)",
+          "남구→31140(동명 가림: 사업 소재 시도)",
+          "동구→31170(동명 가림: 사업 소재 시도)"
+        ]
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "생성 텍스트는 KDI 세부지침에서 요구하는 병상 규모 적정성 검토 분석 방법, 수요 지표 활용, 지역친화도 및 지역환자구성비 100% 가정, 연간 입원환자 수 추정, 병상당 연간 수용 능력 추정 (병상이용률 적용 지침 준수), 총 병상 수 추정, 특정 유형 병상 수 추정 등 핵심 서술 항목을 모두 포함하고 있으며, 지침의 논리 흐름을 충실히 따르고 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "생성 텍스트는 KDI 세부지침에서 요구하는 병상 규모 적정성 검토 분석 방법, 수요 지표 활용, 지역친화도 및 지역환자구성비 100% 가정, 연간 입원환자 수 추정, 병상당 연간 수용 능력 추정 (병상이용률 적용 지침 준수), 총 병상 수 추정, 특정 유형 병상 수 추정 등 핵심 서술 항목을 모두 포함하고 있으며, 지침의 논리 흐름을 충실히 따르고 있습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {
+        "annual_inpatient": 1960088.0499,
+        "capacity_per_bed_catchment": 338.72,
+        "capacity_per_bed_national": 342.1875,
+        "required_beds_catchment": 5786.7502654109585,
+        "required_beds_national": 5728.111196054794,
+        "specific_type_beds_catchment": 1686.8377023672942,
+        "specific_type_beds_national": 1669.7444136499723
+      },
+      "inputs": {
+        "population": 676569,
+        "inpatient_days": 2.8971,
+        "bed_utilization_catchment": 0.928,
+        "bed_utilization_national": 0.9375,
+        "type_share": 0.2915,
+        "ri": 1.0,
+        "ci": 1.0
+      },
+      "input_sources": {
+        "population": "시도추계(v2017) 2028 × 현재(2020) 인구비 안분",
+        "bed_utilization_catchment": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/500병상이상/[2018, 2019, 2020](mean)/진료권 3개 시군구]",
+        "bed_utilization_national": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/500병상이상/[2018, 2019, 2020](mean)/전국]",
+        "type_share": "전국 (상급종합+종합)÷의료기관및보건기관 내원일수[2020]"
+      },
+      "unresolved": [],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national"
+      ],
+      "skipped": {},
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-3-1"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "special": []
+      },
+      "region_normalization": []
+    }
+  },
+  "3-3-2": {
+    "title": "지역별 인구 대비 병상 공급량에 기반한 적정 병상 규모 추정",
+    "passed": true,
+    "text": "[소제목] 지역별 인구 대비 병상 공급량에 기반한 적정 병상 규모 추정\n\n본 절의 두 번째 방법은 진료권 내의 보정인구 대비 보건의료지표를 산출하고 이를 전국 평균 또는 유사 지역과 비교하여 보건의료수준의 취약성 여부를 판단하는 방법임 「202212-III-3-2」. 본 분석에서는 예비타당성조사 대상 의료시설의 규모를 고려하여 종합병원급 이상으로 가정함 「202212-III-3-2」. 국민건강보험공단 및 건강보험심사평가원의 건강보험통계 자료에 따르면, 2021년 1사분기 현재 종합병원급 이상의 의료기관을 대상으로 인구 1,000명당 병상 수의 전국 평균치 2.96병상을 적정 병상 공급량으로 상정하여 분석을 진행함 「202212-III-3-2」. 이는 모든 지역에 보편적인 의료서비스를 제공하는 정부 정책 방향을 고려할 때, 지역별 인구 1,000명당 병상 수와 전국 평균치를 비교하여 그 차이만큼은 병상 공급 확충을 통해 우선적으로 충당되어야 한다는 개념임 「202212-III-3-2」.\n\n확정된 1차 진료권은 울산광역시 중구, 울산광역시 남구, 울산광역시 동구로 구성됨 「진료권 설정 결과」. 2028년 진료권 내 총인구는 676,569명으로 나타남 「시도추계(v2017) 2028 × 현재(2020) 인구비 안분」. 진료권 내 인구 1,000명당 병상 수는 3.8173병상으로 산출됨 「계산: local_per_1000」. 인구 1,000명당 병상 수의 전국 평균은 2.96병상임 「입력: national_per_1000; 202212-III-3-2」. 추가 소요 병상 규모를 계산하는 공식은 '∆병상 = (Diff / 1,000) × 지역인구'임 「202212-III-3-2」. 여기서 Diff는 인구 1,000명당 병상 수의 전국 평균과 지역값의 차이를 의미함 「202212-III-3-2」. 이에 따라 추가 소요 병상 수는 -580.0226037병상으로 산출됨 「계산: delta_beds」.\n\n한편, 위와 같이 병상 수요를 추정하여 사업의 적정성을 검토하는 것은 다양한 의료 수요를 반영하지 못하는 단점을 내포하고 있다는 비판이 제기됨 「202212-III-3-2」. 병상 수요라는 개념은 진료권 내의 단순한 평균적인 의료 수요를 고려하는 방법이며, 특정 질병의 양상 및 이에 대한 치료, 응급의료 등과 같은 의료 수요를 대표한다고 판단하기는 어려움 「202212-III-3-2」. 또한 병상 수요 추정의 주요 변수로 사용되는 입원 의료이용률은 진료권 내에 존재하는 의료시설의 규모와 접근성 및 이용자들의 의료시설 및 의료서비스 이용에 대한 인식 등에 따라 결정되는 내생적인 측면이 있음 「202212-III-3-2」. 진료권 내 이용자들의 질환별 의료서비스 이용에 대한 상세 자료를 파악하기 어려운 경우에는 결국 입원 의료이용률의 평균치를 적용하게 되는 한계가 드러나, 궁극적으로 진료권 내 의료시설이 부족한 경우 병상 수요는 실제 수요를 과소 추정할 개연성이 존재함 「202212-III-3-2」.\n\n따라서 진료권의 보건의료수준 현황을 보완적으로 검토하는 것이 필요함 「202212-III-3-2」. 해당 진료권에 대하여 조사망률, 원인별 사망률, 원인별 발생률 및 유병률, 영아사망률, 인구 1인당 병상 수, 전문의 수, 유형별 의료시설 수, 응급의료 현황 등의 보건의료지표를 산출하여 전국 평균값 또는 유사 진료권의 평균값 등과 비교 검토하는 것이 요구됨 「202212-III-3-2」. 이 경우 지역 간 비교 검토를 위해 인구 1인당 지표를 사용하게 되는데, 각 지표는 인구 구조에 영향을 받는 변수들임 「202212-III-3-2」. 따라서 인구 1인당 지표를 산출함에 있어 표준화된 인구수 또는 보정인구를 사용할 필요가 있음 「202212-III-3-2」. 보정인구는 성별/연령별 상대적 의료이용도를 고려하기 위하여 성별/연령별 입원의료이용 가중치를 구하여 주민등록인구에 적용하는 방법으로 산출됨 「202212-III-3-2」.",
+    "catchment_result": {
+      "1차 진료권": {
+        "regions": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "names": [
+          "중구",
+          "남구",
+          "동구"
+        ],
+        "unmatched": [
+          "울산광역시 (북구",
+          "울주군)"
+        ],
+        "expanded": [],
+        "normalized": [
+          "중구→31110(동명 가림: 사업 소재 시도)",
+          "남구→31140(동명 가림: 사업 소재 시도)",
+          "동구→31170(동명 가림: 사업 소재 시도)"
+        ]
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 3,
+        "reason": "생성 텍스트는 지침에서 제시된 방법론의 핵심 요소(적정 병상 규모 추정, 한계점, 보완적 검토의 필요성, 보건의료지표 목록, 보정인구 개념)는 잘 포함하고 있으나, 전국 평균치 기준의 타당성에 대한 논의, 저출산·고령화 추세와 질병 패턴 변화에 따른 미래 병상 수요 변화 예측의 중요성에 대한 설명, 그리고 보정인구 계산 공식 등 일부 중요한 세부 항목이 누락되었습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 3,
+            "reason": "생성 텍스트는 지침에서 제시된 방법론의 핵심 요소(적정 병상 규모 추정, 한계점, 보완적 검토의 필요성, 보건의료지표 목록, 보정인구 개념)는 잘 포함하고 있으나, 전국 평균치 기준의 타당성에 대한 논의, 저출산·고령화 추세와 질병 패턴 변화에 따른 미래 병상 수요 변화 예측의 중요성에 대한 설명, 그리고 보정인구 계산 공식 등 일부 중요한 세부 항목이 누락되었습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {
+        "delta_beds": -580.0226037,
+        "local_per_1000": 3.8173
+      },
+      "inputs": {
+        "population": 676569,
+        "national_per_1000": 2.96
+      },
+      "input_sources": {
+        "population": "시도추계(v2017) 2028 × 현재(2020) 인구비 안분"
+      },
+      "unresolved": [],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national"
+      ],
+      "skipped": {},
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-3-2"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "special": []
+      },
+      "region_normalization": []
+    }
+  },
+  "3-4-1": {
+    "title": "연간 입원환자 수의 추정",
+    "passed": true,
+    "text": "[소제목] 연간 입원환자 수의 추정\n\n병상 수요는 진료권 내 의료 수요를 검토하는 지표로 활용되며, 실제 의료시설을 이용하게 될 것으로 예상하는 환자 수를 의미하지는 않음 「202212-III-4-1」. 해당 의료시설에 실제 방문하여 진단을 통해 입원하게 되는 연간 입원환자 수는 의료시설이 가동할 수 있는 의료서비스 생산용량의 범위 내에서 보유하는 병상 수와 입·퇴원 절차, 유사시 대비 여유 병상분의 확보 등을 감안한 병상 이용률을 고려하여 추정됨 「202212-III-4-1」. 연간 입원환자 수는 '병상수 × 병상이용률 × 365일'의 공식으로 추정됨 「202212-III-4-1」.\n\n울산의료원의 총 병상은 500병상으로 계획됨 「사업 기본계획서; 입력: beds」.\n\n위 추정식에서 가장 중요한 변수는 해당 의료시설의 병상 이용률로 나타남 「202212-III-4-1」. 신규 의료시설의 경우 기존의 병상 이용률 정보가 없어 이를 추정할 필요가 있음 「202212-III-4-1」. 병상 이용률 자료는 병원의 경영실태를 가늠할 수 있는 직접적인 자료이므로, 그 민감성으로 인해 진료권 내에 존재하는 의료시설로부터 직접 획득하기는 불가능한 것으로 판단됨 「202212-III-4-1」. 따라서 기존 예비타당성조사에서는 해당 진료권의 평균값이나 대상이 되는 의료시설의 종별에 따른 병상 이용률 또는 유사 의료시설의 병상 이용률을 통상적으로 이용하였음 「202212-III-4-1」. 신규 의료시설의 병상 이용률은 진료권 내 병상 공급 현황을 최대한 고려하여 추정하여야 함 「202212-III-4-1」.\n\n울산의료원의 경우, 해당 진료권의 평균 병상이용률은 0.928로 나타남 「Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/500병상이상/[2018, 2019, 2020](mean)/진료권 3개 시군구]; 입력: bed_utilization_catchment」. 대상 의료시설 종별에 따른 전국 병상이용률은 0.9375로 나타남 「Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/500병상이상/[2018, 2019, 2020](mean)/전국]; 입력: bed_utilization_national」. KDI 세부지침에서는 병상이용률 산정 시 특정 방식의 우선순위를 정하고 있지 않음 「202212-III-4-1」.\n\n해당 진료권의 평균 병상이용률(0.928)을 적용한 경우, 연간 입원환자 수는 169,360명으로 추정됨 「계산: annual_inpatient_facility_catchment」. 대상 의료시설 종별에 따른 전국 병상이용률(0.9375)을 적용한 경우, 연간 입원환자 수는 171,093.75명으로 추정됨 「계산: annual_inpatient_facility_national」.",
+    "catchment_result": {
+      "1차 진료권": {
+        "regions": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "names": [
+          "중구",
+          "남구",
+          "동구"
+        ],
+        "unmatched": [
+          "울산광역시 (북구",
+          "울주군)"
+        ],
+        "expanded": [],
+        "normalized": [
+          "중구→31110(동명 가림: 사업 소재 시도)",
+          "남구→31140(동명 가림: 사업 소재 시도)",
+          "동구→31170(동명 가림: 사업 소재 시도)"
+        ]
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "생성된 텍스트는 KDI 세부지침에 명시된 연간 입원환자 수 추정의 배경, 추정식, 병상 이용률의 중요성, 데이터 확보의 어려움, 기존 예비타당성조사에서의 활용 방식, 그리고 추정 시 고려사항 등 모든 주요 서술 항목을 정확하고 포괄적으로 포함하고 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "생성된 텍스트는 KDI 세부지침에 명시된 연간 입원환자 수 추정의 배경, 추정식, 병상 이용률의 중요성, 데이터 확보의 어려움, 기존 예비타당성조사에서의 활용 방식, 그리고 추정 시 고려사항 등 모든 주요 서술 항목을 정확하고 포괄적으로 포함하고 있습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {
+        "annual_inpatient_facility_catchment": 169360.0,
+        "annual_inpatient_facility_national": 171093.75
+      },
+      "inputs": {
+        "population": 676569,
+        "bed_utilization_catchment": 0.928,
+        "bed_utilization_national": 0.9375,
+        "beds": 500
+      },
+      "input_sources": {
+        "population": "시도추계(v2017) 2028 × 현재(2020) 인구비 안분",
+        "bed_utilization_catchment": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/500병상이상/[2018, 2019, 2020](mean)/진료권 3개 시군구]",
+        "bed_utilization_national": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/500병상이상/[2018, 2019, 2020](mean)/전국]",
+        "beds": "사업계획서 총 병상 500병상 (지침 §3-4-1 '보유하게 되는 병상 수')"
+      },
+      "unresolved": [],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national"
+      ],
+      "skipped": {},
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-4-1"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "special": []
+      },
+      "region_normalization": []
+    }
+  },
+  "3-4-2": {
+    "title": "연간 외래환자 수의 추정",
+    "passed": true,
+    "text": "[소제목] 연간 외래환자 수의 추정\n\n연간 외래환자 수는 두 가지 방법론에 따라 추정이 가능함 「202212-III-4-2」. 첫째는 입원환자 수와 외래환자 수의 배율을 이용하는 방법이고, 둘째는 외래환자의 진료 현황을 활용하는 방법임 「202212-III-4-2」.\n\n입원환자 수와 외래환자 수의 배율을 이용하는 첫 번째 추정 방법은 입원환자 수와 외래환자 수간에 일정한 배율이 성립한다는 가정에 기반을 둠 「202212-III-4-2」. 연간 외래환자 수는 연간 입원환자 수 추정치에 입원 대비 외래환자 배율을 곱하여 구할 수 있음 「202212-III-4-2」. 울산광역시 중구, 울산광역시 남구, 울산광역시 동구를 1차 진료권으로 함 「진료권 설정 결과」. 진료권 내 총인구는 676,569명으로 나타남 「시도추계(v2017) 2028 × 현재(2020) 인구비 안분」. 진료권 내 입원환자 대비 외래환자 배율은 5.7051로 나타남 「진료권 Σ외래÷Σ입원 내원일수[2018, 2019, 2020]」.\n\n진료권 기준의 연간 입원환자 수는 169,360.0명으로 산정됨 「계산: annual_inpatient_facility_catchment」. 이에 따라 진료권 내 연간 외래환자 수는 966,215.736명으로 추정됨 「계산: annual_outpatient_catchment」. 전국 기준의 연간 입원환자 수는 171,093.75명으로 산정됨 「계산: annual_inpatient_facility_national」. 이에 따라 전국 기준의 연간 외래환자 수는 976,106.953125명으로 추정됨 「계산: annual_outpatient_national」. 그러나 입원 대비 외래환자 배율은 의료시설의 유형과 진료권의 특성에 따라 다를 수 있으며, 특정한 의료시설의 배율을 활용하게 되면 오차를 유발할 수 있음 「202212-III-4-2」.\n\n외래진료량을 결정하는 진료지표를 이용하는 두 번째 방법은 진료의사 수, 의사 1인당 연평균 진료 업무 수행 시간, 단위 시간당 진료 환자 수를 고려하여 연간 외래환자 수를 추정함 「202212-III-4-2」. 연간 외래환자 수는 진료의사수, 의사 1인당 연평균 진료시간, 시간당 진료환자 수의 곱으로 추정됨 「202212-III-4-2」. 그러나 이러한 추정 방법론은 사업평가 기간 동안 진료의사 수의 변화 또는 진료시간의 변화가 발생할 수 있으며, 이를 반영할 수 없다는 단점을 가짐 「202212-III-4-2」.",
+    "catchment_result": {
+      "1차 진료권": {
+        "regions": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "names": [
+          "중구",
+          "남구",
+          "동구"
+        ],
+        "unmatched": [
+          "울산광역시 (북구",
+          "울주군)"
+        ],
+        "expanded": [],
+        "normalized": [
+          "중구→31110(동명 가림: 사업 소재 시도)",
+          "남구→31140(동명 가림: 사업 소재 시도)",
+          "동구→31170(동명 가림: 사업 소재 시도)"
+        ]
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "지침에서 요구하는 두 가지 외래환자 수 추정 방법론(입원/외래 배율 이용, 외래 진료 현황 활용) 모두를 명확히 제시하고 각 방법의 가정, 계산 방식, 그리고 한계점(오차 유발 가능성, 변화 반영의 어려움)까지 적절히 포함하고 있습니다. 중간에 실제 데이터를 적용한 부분은 지침 설명 외의 추가 내용이나, 지침의 필수 항목 누락은 없습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "지침에서 요구하는 두 가지 외래환자 수 추정 방법론(입원/외래 배율 이용, 외래 진료 현황 활용) 모두를 명확히 제시하고 각 방법의 가정, 계산 방식, 그리고 한계점(오차 유발 가능성, 변화 반영의 어려움)까지 적절히 포함하고 있습니다. 중간에 실제 데이터를 적용한 부분은 지침 설명 외의 추가 내용이나, 지침의 필수 항목 누락은 없습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {
+        "annual_inpatient_facility_catchment": 169360.0,
+        "annual_inpatient_facility_national": 171093.75,
+        "annual_outpatient_catchment": 966215.7359999999,
+        "annual_outpatient_national": 976106.953125
+      },
+      "inputs": {
+        "population": 676569,
+        "outpatient_ratio": 5.7051
+      },
+      "input_sources": {
+        "population": "시도추계(v2017) 2028 × 현재(2020) 인구비 안분",
+        "outpatient_ratio": "진료권 Σ외래÷Σ입원 내원일수[2018, 2019, 2020]"
+      },
+      "unresolved": [],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national"
+      ],
+      "skipped": {},
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-4-2"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "special": []
+      },
+      "region_normalization": []
+    }
+  },
+  "3-4-3": {
+    "title": "신규 유입 환자규모 추정",
+    "passed": true,
+    "text": "[소제목] 신규 유입 환자규모 추정\n\n진료권 내에 특정 유형의 의료시설이 없는 경우, 진료권의 환자들은 원거리 의료시설을 이용하게 됨 「202212-III-4-3」. 이러한 상황에서 의료시설이 진료권 내 신설되면, 기존의 원거리에 위치한 의료시설을 이용하던 환자 중 일부는 신설 의료시설로 이용을 전환할 수 있음 「202212-III-4-3」. 또한, 이전에 원거리 이용 자체에 대한 불편 등으로 인하여 특정 의료시설 자체를 이용하지 않았던 환자 중 일부는 신설되는 의료시설의 신규 유입 환자가 될 수 있음 「202212-III-4-3」.\n\n이후 편익 분석에서 다루는 의료시설 건립에 대한 편익 가운데 일부는 전체 입원 및 외래환자 중 기존에 특정 의료시설을 이용하던 집단 또는 신규 집단에서만 발생한다고 파악할 수 있음 「202212-III-4-3」. 예를 들어, 원거리 의료시설 이용에 따른 시간 및 교통비 절감 편익은 실제 원거리 이용 환자 중 전환하는 환자에게서만 발생함 「202212-III-4-3」. 따라서 앞 절에서 추정한 연간 입원 및 외래환자 중 신규로 유입되는 환자의 비중을 추정할 필요가 있음 「202212-III-4-3」.\n\n신규로 유입되는 환자의 비중을 추정하는 방법 중 하나는 간편법으로서 유사사례를 적용하는 것임 「202212-III-4-3」. 기존에 유사한 의료시설 건립사업이 있었다면, 사업 종료 후 해당 진료권 내 의료시설 신설에 따라 환자 규모가 증가하였는지를 검토한 후 이를 적용할 수 있음 「202212-III-4-3」. 다른 방법으로는 의료시설이 신설되는 진료권 내 주민들에 대한 설문조사를 통해 기존의 의료이용 패턴을 조사하고 의료시설이 들어서면 신규 이용에 대한 의향 및 선호를 묻는 설문 결과를 활용할 수도 있음 「202212-III-4-3」. 그러나 설문의 과정에서 표출한 응답자의 의향이 의료시설 건립 이후 실제로 의료이용 행태의 변화로 발현될 것인지는 예측하기 어려운 것이므로, 이러한 방법론을 적용함에 있어서는 많은 주의가 요구됨 「202212-III-4-3」.",
+    "catchment_result": {
+      "1차 진료권": {
+        "regions": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "names": [
+          "중구",
+          "남구",
+          "동구"
+        ],
+        "unmatched": [
+          "울산광역시 (북구",
+          "울주군)"
+        ],
+        "expanded": [],
+        "normalized": [
+          "중구→31110(동명 가림: 사업 소재 시도)",
+          "남구→31140(동명 가림: 사업 소재 시도)",
+          "동구→31170(동명 가림: 사업 소재 시도)"
+        ]
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "생성된 텍스트는 KDI 세부지침의 모든 주요 서술 항목을 충실하게 포함하고 있으며, 원문의 의미를 정확히 전달합니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "생성된 텍스트는 KDI 세부지침의 모든 주요 서술 항목을 충실하게 포함하고 있으며, 원문의 의미를 정확히 전달합니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {},
+      "inputs": {},
+      "input_sources": {},
+      "unresolved": [],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national"
+      ],
+      "skipped": {},
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-4-3"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "special": []
+      },
+      "region_normalization": []
+    }
+  },
+  "3-5-1": {
+    "title": "응급사망 기초자료 분석",
+    "passed": true,
+    "text": "예방 가능 응급사망자 수 추정을 위한 기초자료 분석은 진료권 응급의료서비스의 양적 측면과 질적 측면으로 나누어 검토됨 「202212-III-5-1」.\n\n[소제목] 응급의료서비스 양적 현황 분석\n응급의료서비스의 양적 측면 분석은 진료권 인구 1인당 응급의료시설 수, 인구 1인당 응급병상 수, 응급구조사 규모, 구급차 현황, 평균 환자 후송시간 등을 지표로 활용하여 평가됨 「202212-III-5-1」. 이러한 자료는 보건복지부, 중앙응급의료센터 공공보건의료본부, 소방방재청, 건강보험심사평가원 등에서 수집 가능함 「202212-III-5-1」. 1인당 수치 자료 산출 시 보정인구를 이용하여야 함 「202212-III-5-1」.\n\n우리나라 응급의료기관은 시설 규모와 기능에 따라 권역응급의료센터, 지역응급의료센터, 지역응급의료기관, 응급의료기관 외 의료기관 등 4가지로 구분됨 「202212-III-5-1」. 2019년 말 기준 울산광역시의 응급의료기관은 총 13개소로 나타남 「202212-III-5-1; 국립중앙의료원(중앙응급의료센터), ｢2019년도 응급의료통계연보｣」. 이는 권역응급의료센터 1개소, 지역응급의료센터 1개소, 지역응급의료기관 6개소, 응급의료기관 외 의료기관 5개소를 포함함 「202212-III-5-1; 국립중앙의료원(중앙응급의료센터), ｢2019년도 응급의료통계연보｣」. 동 시점 전국 응급의료기관은 총 521개소로, 권역응급의료센터 38개소, 지역응급의료센터 124개소, 지역응급의료기관 240개소, 응급의료기관 외 의료기관 119개소로 구성됨 「202212-III-5-1; 국립중앙의료원(중앙응급의료센터), ｢2019년도 응급의료통계연보｣」.\n\n전문응급의료센터 현황을 보면, 2019년 말 기준 울산광역시에는 권역외상센터 지정기관이 1개소로 나타남 「202212-III-5-1; 국립중앙의료원(중앙응급의료센터), ｢2019년도 응급의료통계연보｣」. 전국 기준으로는 권역외상센터 지정기관 14개소, 소아 전문응급의료센터 지정기관 3개소가 운영 중임 「202212-III-5-1; 국립중앙의료원(중앙응급의료센터), ｢2019년도 응급의료통계연보｣」.\n\n2019년 6월 말 기준 울산광역시 응급의료기관의 응급실 병상 수는 총 128개소로 나타남 「202212-III-5-1; 국립중앙의료원(중앙응급의료센터), ｢2019년도 응급의료통계연보｣」. 이는 권역응급의료센터 병상 37개소, 지역응급의료센터 병상 28개소, 지역응급의료기관 병상 63개소를 포함함 「202212-III-5-1; 국립중앙의료원(중앙응급의료센터), ｢2019년도 응급의료통계연보｣」. 전국 응급의료기관의 총 병상 수는 7,105개소로 나타남 「202212-III-5-1; 국립중앙의료원(중앙응급의료센터), ｢2019년도 응급의료통계연보｣」.\n\n울산광역시의 1차 진료권은 울산광역시 중구, 울산광역시 남구, 울산광역시 동구로 구성됨 「진료권 설정 결과」. 위 4가지 유형별로 진료권 내 응급의료기관 현황을 유사 진료권 또는 전국 평균 등과 비교하여 유형별 시설의 상대적인 과·부족을 검토할 필요가 있음 「202212-III-5-1」. 응급구조사 규모, 구급차 현황, 평균 환자 후송시간 등 기타 양적 지표에 대한 구체적인 자료는 현재 제공되지 않음.\n\n[소제목] 응급의료서비스 질적 현황 분석\n진료권 응급의료의 질적 수준을 검토하기 위한 지표로는 응급환자사망률, 외상사망률, 3대 응급질환(외상, 뇌졸중, 심근경색) 사망률, 손상표준화 사망률, 응급의료지수 등이 이용됨 「202212-III-5-1」. 이들 지표는 통계청(국가통계포털) 및 보건복지부, 중앙응급의료센터 등을 통해 수집 가능하며, 유사 진료권 지표와 전국 평균 등과 비교하여 해당 진료권의 응급의료서비스 수준을 상대적으로 평가할 수 있음 「202212-III-5-1」. 특히 응급환자 사망률은 응급환자 발생 현장에서 병원까지 이송하는 병원 전 단계와 실제 응급 처치가 발생하는 병원 단계로 나누어 분석됨 「202212-III-5-1」. 이러한 통계자료는 국가응급진료환자망(NEDIS)을 통해 수집 가능함 「202212-III-5-1」. 현재 울산광역시 및 1차 진료권에 대한 응급환자사망률, 외상사망률, 3대 응급질환 사망률 등 질적 수준을 평가할 구체적인 통계 자료는 제공되지 않음.\n\n예비타당성조사 분석 대상이 상급종합병원으로 지정될 가능성이 있는 종합병원급 이상의 의료시설일 경우, 심근경색증, 뇌경색증, 뇌수막염 등 28개의 중증응급질환에 대한 분석이 필요함 「202212-III-5-1」. 울산의료원 설립 사업은 총 500병상 규모의 종합병원급 이상 시설 건립 사업으로 판단됨 「사업 기본계획서」. 따라서 울산의료원 설립에 따라 해당 응급진료권 내 중증응급환자 및 사망자에 대한 자료 분석이 가능한 시설, 인력, 장비 확보 및 교육·연구 기능과 관련된 사업계획의 충실한 수립이 요구됨 「202212-III-5-1」.",
+    "catchment_result": {
+      "1차 진료권": {
+        "regions": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "names": [
+          "중구",
+          "남구",
+          "동구"
+        ],
+        "unmatched": [
+          "울산광역시 (북구",
+          "울주군)"
+        ],
+        "expanded": [],
+        "normalized": [
+          "중구→31110(동명 가림: 사업 소재 시도)",
+          "남구→31140(동명 가림: 사업 소재 시도)",
+          "동구→31170(동명 가림: 사업 소재 시도)"
+        ]
+      }
+    },
+    "critique": {
+      "attempt": 2,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "지침에서 요구하는 모든 서술 항목(양적/질적 측면의 지표, 자료원, 분석 방법, 비교 대상, 특수 고려사항 등)을 적절히 포함하고 있으며, 제공된 표 자료를 활용하여 현황을 기술했고, 현재 분석에 포함되지 않은 데이터는 명확히 명시하였습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 1,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": false,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": false,
+            "score": 2,
+            "reason": "생성 텍스트는 지침의 양적 및 질적 분석 항목과 지표를 잘 서술하고 있으나, 목표 진료권(울산)의 정량적 현황 데이터(응급구조사 규모, 구급차 현황, 평균 환자 후송시간 등)와 질적 현황 데이터(응급환자사망률, 외상사망률, 3대 응급질환 사망률 등)를 전혀 제시하지 않고 있어, '기초자료 분석'으로서 진료권의 응급의료서비스 수준을 '적절히 포함'했다고 보기 어렵습니다.",
+            "attempts": 1
+          }
+        },
+        {
+          "attempt": 2,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "지침에서 요구하는 모든 서술 항목(양적/질적 측면의 지표, 자료원, 분석 방법, 비교 대상, 특수 고려사항 등)을 적절히 포함하고 있으며, 제공된 표 자료를 활용하여 현황을 기술했고, 현재 분석에 포함되지 않은 데이터는 명확히 명시하였습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {},
+      "inputs": {},
+      "input_sources": {},
+      "unresolved": [],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national"
+      ],
+      "skipped": {},
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-5-1"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "special": []
+      },
+      "region_normalization": []
+    }
+  },
+  "3-5-2": {
+    "title": "응급사망자 수 추정",
+    "passed": true,
+    "text": "[소제목] 응급사망자 수 추정\n응급의료시설 확충으로 인한 응급사망률 감소폭을 활용하여 예방 가능 응급사망자 수를 추정하므로, 응급의료시설 확충 후 사업 평가 기간 각 연도의 응급사망자 수를 추정할 필요가 있음 「202212-III-5-2」. 응급사망률은 다양한 보건의료정책 및 사회경제적 변수에 영향을 받으며, 고령인구의 증가는 응급사망률을 증가시키는 반면, 예방 캠페인, 의료기술 발전, 정부 정책 및 소득 증가는 응급사망률을 낮출 수 있음 「202212-III-5-2」. 그러나 사업 평가 기간 동안 이러한 요인들의 변화를 예측하는 것은 현실적으로 어렵고, 이러한 변화는 예비타당성조사 대상 의료시설 사업과 무관하게 진행될 가능성이 높음 「202212-III-5-2」. 따라서 사업 평가 기간의 응급사망자 수는 현재 또는 지난 몇 년간의 평균적인 응급사망률을 인구 추계 결과에 적용하여 추정하는 것이 합리적임 「202212-III-5-2」.\n\n응급사망자 수는 인구 추계치에 응급사망률을 곱하여 산출됨 「202212-III-5-2」. 울산광역시 중구, 남구, 동구를 포함하는 1차 진료권의 인구는 676,569명으로 나타남 「진료권 설정 결과; 시도추계(v2017) 2028 × 현재(2020) 인구비 안분」. 진료권의 응급사망률은 0.0007219733313353504로 산출됨 「진료권 Σ3대응급(7항목)사망자÷Σ OBSERVED인구[2016, 2017, 2018, 2019, 2020]」. 이를 바탕으로 계산된 응급사망자 수는 488.4647748082267명으로 나타남 「계산: emergency_deaths」. 이처럼 추정된 응급사망자 수는 이후 예방 가능 응급사망자 수 추정의 주요 변수로 활용될 예정임 「202212-III-5-2」.",
+    "catchment_result": {
+      "1차 진료권": {
+        "regions": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "names": [
+          "중구",
+          "남구",
+          "동구"
+        ],
+        "unmatched": [
+          "울산광역시 (북구",
+          "울주군)"
+        ],
+        "expanded": [],
+        "normalized": [
+          "중구→31110(동명 가림: 사업 소재 시도)",
+          "남구→31140(동명 가림: 사업 소재 시도)",
+          "동구→31170(동명 가림: 사업 소재 시도)"
+        ]
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "지침에서 요구하는 응급사망자 수 추정의 목적, 변수, 영향 요인, 현실적 접근법 및 계산식 등 주요 항목을 모두 포함하고 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "지침에서 요구하는 응급사망자 수 추정의 목적, 변수, 영향 요인, 현실적 접근법 및 계산식 등 주요 항목을 모두 포함하고 있습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {
+        "emergency_deaths": 488.4647748082267
+      },
+      "inputs": {
+        "population": 676569,
+        "death_rate": 0.0007219733313353504
+      },
+      "input_sources": {
+        "population": "시도추계(v2017) 2028 × 현재(2020) 인구비 안분",
+        "death_rate": "진료권 Σ3대응급(7항목)사망자÷Σ OBSERVED인구[2016, 2017, 2018, 2019, 2020]"
+      },
+      "unresolved": [],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national"
+      ],
+      "skipped": {},
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-5-2"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "special": []
+      },
+      "region_normalization": []
+    }
+  },
+  "3-5-3": {
+    "title": "예방 가능 사망자 수 추정",
+    "passed": true,
+    "text": "응급의료시설 확충이 응급환자 사망률을 얼마나 개선시키는지에 대한 기존 연구는 매우 제한적임 「202212-III-5-3」. 건강보험자료는 응급실 이용환자의 사망 여부를 보여주는 변수가 없고, 국가응급진료환자망(NEDIS) 자료는 일부 응급의료기관 자료만 구축되어 국가 전체 응급의료 현황을 대표하기 어려움 「202212-III-5-3」. 응급의료시설 확충 효과를 추정하기 위해서는 장기간에 걸친 패널 자료 구축이 필요함 「202212-III-5-3」. 또한, 외상전문센터 확충 연구 결과는 대부분의 일반적인 응급의료시설 효과로 대체하기에 적절치 못함 「202212-III-5-3」.\n\n본 연구에서는 2014년부터 2020년까지 응급의료시설 확충이 사망률 개선에 미치는 효과를 추정하고 이를 사업 평가에 적용함 「202212-III-5-3」. 일정 지역의 응급의료수준을 측정하는 변수로 시⋅군⋅구의 면적 대비 응급병상 수가 활용됨 「202212-III-5-3」. 이는 보편적인 응급의료수준이 지역의 응급병상 수와 밀접하게 관련되어 있으며, 응급환자 신속 후송의 지리적 요소를 고려한 것임 「202212-III-5-3」. 시⋅군⋅구 면적은 KOSIS 도시계획현황에서, 응급병상 수는 KOSIS 건강보험통계에서 수집됨 「202212-III-5-3」.\n\n응급환자 사망률 자료 수집 또한 쉽지 않은 일임 「202212-III-5-3」. 중앙응급의료센터 응급의료통계연보는 시⋅도 수준 자료만 수집 가능하며 응급실 내 사망 또는 응급진료 후 결과에 대한 자세한 정보를 담지 못하고 있음 「202212-III-5-3」. 자료의 한계를 보완하는 방법으로 통계청 국가통계포털의 사망원인통계를 바탕으로 시⋅군⋅구 인구 1만 명당 3대 주요 응급질환의 사망률이 활용됨 「202212-III-5-3」. 3대 주요 응급질환은 심근경색, 뇌졸중, 중증외상을 포함하며, 이들 질환에 의한 사망률을 ‘응급사망률’로 지칭함 「202212-III-5-3」. 해당 자료는 건강보험자료 또는 국가응급진료환자망과 같은 다른 자료가 가지는 한계를 보완한다는 장점이 있음 「202212-III-5-3」. 본 사업의 진료권은 울산광역시 중구, 울산광역시 남구, 울산광역시 동구 총 3개 단위로 구성됨 「진료권 설정 결과」. 진료권 내 총인구는 676,569명으로 추정됨 「시도추계(v2017) 2028 × 현재(2020) 인구비 안분」. 진료권의 응급사망률은 0.0007219733313353504로 나타남 「진료권 Σ3대응급(7항목)사망자÷Σ OBSERVED인구[2016, 2017, 2018, 2019, 2020]」.\n\n각 변수에 자연로그를 취하면 시⋅군⋅구 단위면적당 응급병상 수와 인구 1만 명당 응급사망률은 음의 상관관계를 가지는 것으로 관측됨 「202212-III-5-3」. 이는 응급병상 수가 늘어날수록 해당 지역의 응급사망률이 감소함을 의미함 「202212-III-5-3」. 이러한 상관관계의 통계적 유의성을 추정하기 위해 회귀 분석(OLS)이 수행됨 「202212-III-5-3」. 회귀모형의 종속변수는 각 년도(2014~2020년) 시⋅군⋅구의 인구 1만 명당 응급사망률의 로그값이며, 독립변수는 각 년도 시⋅군⋅구 1㎢당 응급병상 수의 로그값임 「202212-III-5-3」. 통제변수로는 시⋅도 응급사망자의 평균 연령이 이용되었으며, 지역 특성과 시간 특성을 통제하고자 광역시⋅도 및 연도 고정효과가 고려됨 「202212-III-5-3」. 설명변수와 고정효과를 반영한 모형에서 응급병상 수 1% 증가 시 응급사망률이 약 0.12917% 하락하는 것으로 추정되며, 이는 -0.12917의 탄력성으로 적용됨 「202212-III-5-3; 입력: elasticity」. 기존 응급병상 수 대비 신규 응급병상 수의 증가율은 43.0769%로 나타남 「신규 28 ÷ 기존 응급병상 65.0 (종합병원_500병상이상/[2018, 2019, 2020](mean))」.\n\n진료권 내 응급사망자 수는 488.4647748082267명으로 추정됨 「계산: emergency_deaths」. 울산의료원 설립으로 인한 응급사망률 감소폭은 0.055642431730000004로 나타남 「계산: death_rate_reduction」. 이를 바탕으로 예방 가능 사망자 수는 27.179367884776582명으로 산출됨 「계산: preventable_deaths」.",
+    "catchment_result": {
+      "1차 진료권": {
+        "regions": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "names": [
+          "중구",
+          "남구",
+          "동구"
+        ],
+        "unmatched": [
+          "울산광역시 (북구",
+          "울주군)"
+        ],
+        "expanded": [],
+        "normalized": [
+          "중구→31110(동명 가림: 사업 소재 시도)",
+          "남구→31140(동명 가림: 사업 소재 시도)",
+          "동구→31170(동명 가림: 사업 소재 시도)"
+        ]
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "지침에서 요구하는 문제점, 본 연구의 접근 방식(데이터 선정 및 출처, 변수 정의, 한계), 상관관계 설명, 회귀모형 및 결과(탄력성 포함) 등 핵심 서술 항목이 모두 적절하게 포함되어 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "지침에서 요구하는 문제점, 본 연구의 접근 방식(데이터 선정 및 출처, 변수 정의, 한계), 상관관계 설명, 회귀모형 및 결과(탄력성 포함) 등 핵심 서술 항목이 모두 적절하게 포함되어 있습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {
+        "emergency_deaths": 488.4647748082267,
+        "preventable_deaths": 27.179367884776582,
+        "death_rate_reduction": 0.055642431730000004
+      },
+      "inputs": {
+        "population": 676569,
+        "death_rate": 0.0007219733313353504,
+        "elasticity": -0.12917,
+        "bed_increase_rate_pct": 43.0769
+      },
+      "input_sources": {
+        "population": "시도추계(v2017) 2028 × 현재(2020) 인구비 안분",
+        "death_rate": "진료권 Σ3대응급(7항목)사망자÷Σ OBSERVED인구[2016, 2017, 2018, 2019, 2020]",
+        "bed_increase_rate_pct": "신규 28 ÷ 기존 응급병상 65.0 (종합병원_500병상이상/[2018, 2019, 2020](mean))"
+      },
+      "unresolved": [],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national"
+      ],
+      "skipped": {},
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-5-3"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "31110",
+          "31140",
+          "31170"
+        ],
+        "special": []
+      },
+      "region_normalization": []
+    }
+  },
+  "_run": {
+    "project_id": "HOS_ULSAN",
+    "base_period": {
+      "decision_log": {
+        "guideline_chunk_ids": [
+          "202212-III-2-2라",
+          "202212-III-3-1",
+          "202212-III-4-1"
+        ],
+        "available": {
+          "inpatient_days": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "bed_utilization_catchment": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "bed_utilization_national": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ]
+        },
+        "facility": {
+          "type": "종합병원",
+          "size": "500병상이상",
+          "level": "종합병원급",
+          "source": "§3-2 [신규 시설 진료 수준]"
+        },
+        "attempts": 1,
+        "errors": [],
+        "raw": [
+          "```json\n{\n  \"inpatient_days\": {\n    \"years\": [2018, 2019, 2020],\n    \"agg\": \"mean\",\n    \"basis\": \"[지침 청크 id=202212-III-2-2라]에서 진료권 설정에 필요한 인구 규모 자료에 대해 '최근 3~5년 동안의 ... 자료를 통해 변동을 살펴볼 필요가 있다'고 명시하며, 의료 수요 추정에 핵심적인 입원의료이용률 또한 최근 연도의 평균치를 활용하여 연도별 변동성을 완화하고 안정적인 추정치를 사용하는 것이 적절하다고 판단됨.\"\n  },\n  \"bed_utilization\": {\n    \"years\": [2018, 2019, 2020],\n    \"agg\": \"mean\",\n    \"basis\": \"[지침 청크 id=202212-III-3-1]에서 병상이용률은 '해당 지역 또는 진료권의 동일한 유형의 의료시설 평균 병상 이용률' 또는 '동일 유형의 전국 평균값'을 이용하도록 명시하고 있으며, [지침 청크 id=202212-III-4-1]에서도 신규 의료시설의 병상이용률 추정 시 '해당 진료권의 평균값이나 대상이 되는 의료시설의 종별에 따른 병상 이용률'을 통상적으로 이용한다고 기술한다. 이는 안정적이고 대표성 있는 수치를 활용하는 취지이므로, 최근 3개년 자료의 평균값을 사용하는 것이 타당하다고 판단됨.\"\n  }\n}\n```"
+        ],
+        "decided": true
+      },
+      "inpatient_days": {
+        "years": [
+          2018,
+          2019,
+          2020
+        ],
+        "agg": "mean",
+        "basis": "[지침 청크 id=202212-III-2-2라]에서 진료권 설정에 필요한 인구 규모 자료에 대해 '최근 3~5년 동안의 ... 자료를 통해 변동을 살펴볼 필요가 있다'고 명시하며, 의료 수요 추정에 핵심적인 입원의료이용률 또한 최근 연도의 평균치를 활용하여 연도별 변동성을 완화하고 안정적인 추정치를 사용하는 것이 적절하다고 판단됨."
+      },
+      "bed_utilization": {
+        "years": [
+          2018,
+          2019,
+          2020
+        ],
+        "agg": "mean",
+        "facility_type": "종합병원",
+        "facility_size": "500병상이상",
+        "basis": "[지침 청크 id=202212-III-3-1]에서 병상이용률은 '해당 지역 또는 진료권의 동일한 유형의 의료시설 평균 병상 이용률' 또는 '동일 유형의 전국 평균값'을 이용하도록 명시하고 있으며, [지침 청크 id=202212-III-4-1]에서도 신규 의료시설의 병상이용률 추정 시 '해당 진료권의 평균값이나 대상이 되는 의료시설의 종별에 따른 병상 이용률'을 통상적으로 이용한다고 기술한다. 이는 안정적이고 대표성 있는 수치를 활용하는 취지이므로, 최근 3개년 자료의 평균값을 사용하는 것이 타당하다고 판단됨."
+      },
+      "projection": {
+        "vintage": "2017",
+        "target_year": 2028,
+        "basis": "예타 2021 시점 가용 최신 통계청 시도편 장래인구추계(2017년 기준); 진료권 추계 = 시도 추계 × 현재 인구비 안분(가이드라인 §3-2)"
+      }
+    },
+    "facility_level": {
+      "level": "종합병원급",
+      "source": "§3-2 [신규 시설 진료 수준]"
+    },
+    "section_ids": [
+      "3-1",
+      "3-2",
+      "3-3-1",
+      "3-3-2",
+      "3-4-1",
+      "3-4-2",
+      "3-4-3",
+      "3-5-1",
+      "3-5-2",
+      "3-5-3"
+    ],
+    "pipeline_version": "v4",
+    "data_year_lag": 1,
+    "code_sha256_16": "af9acd504aad8671",
+    "model": "gemini-2.5-flash",
+    "served_models": {
+      "gemini-2.5-flash": 24
+    },
+    "generation_config": "default (not specified)",
+    "distance_table": "case_distance_time_v3",
+    "n_distance_shown": 30,
+    "db_path": "data/project_data.db",
+    "chunk_store": {
+      "backend": "chroma",
+      "chroma_error": null,
+      "chunk_text_sha256_12": {
+        "202105-VII-1-개요수식": "35debed0788d",
+        "202105-VII-1-절차": "126b5ac9a519",
+        "202105-VII-2-매력도": "cf4f21294536",
+        "202105-VII-2-쟁점원칙": "ca32dcd4dfbf",
+        "202105-VII-2-참여율": "33d071480e4a",
+        "202212-III-1": "16c0ffac3554",
+        "202212-III-2-1": "9474affd3239",
+        "202212-III-2-2가": "a14f690c2bd2",
+        "202212-III-2-2나": "99a7488d27bd",
+        "202212-III-2-2다": "9b5c86b58563",
+        "202212-III-2-2라": "e3d4786a370c",
+        "202212-III-2-특수목적": "419e92eba1c3",
+        "202212-III-3-1": "71cfbbf89720",
+        "202212-III-3-2": "46d687d5f82e",
+        "202212-III-4-1": "a67ebf2e2f5e",
+        "202212-III-4-2": "7e7f024bb980",
+        "202212-III-4-3": "31e4faef593e",
+        "202212-III-5-1": "2730768a9f10",
+        "202212-III-5-2": "bf869d8d2621",
+        "202212-III-5-3": "b69cd63f71e3"
+      }
+    },
+    "run_index": 5,
+    "started_at": "2026-11-03T21:48:05",
+    "attempts": 1,
+    "release_note": "Public release: values of Kakao Mobility API records in data_records set to null; db_path made relative."
+  }
+}

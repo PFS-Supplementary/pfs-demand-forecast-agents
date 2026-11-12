@@ -1,0 +1,2493 @@
+{
+  "seed": 20260807,
+  "n_per_stratum": 50,
+  "judge_label": "openai:gpt-5.4-mini",
+  "n_instances": 14147,
+  "n_cache_miss": 0,
+  "n_no_premise": 1,
+  "n_pairs_supported": 9336,
+  "n_pairs_unsupported": 756,
+  "design": {
+    "unit": "unique (sorted chunk ids, sentence) pair",
+    "no_premise_excluded": 1,
+    "overlap_with_cause_sample": "allowed",
+    "question": "sentence supported by joined chunks (Y/N) + evidence span"
+  },
+  "items": [
+    {
+      "id": "E001",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "아산시는 본 사업의 건립 예정지이며, 아산시에는 종합병원급 의료시설인 아산충무병원이 이미 존재함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "03",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "03",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E002",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "따라서 중력모형을 이용한 예상 진료권 설정 방법은 본 보고서에서 적용되지 않음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "27",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "27",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E003",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "지역 거주민에 대한 의료이용 행태 설문조사 결과는 진료권 분석 자료로 제공되지 않았으므로 적용할 수 없음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "10",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "10",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E004",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "신규 의료시설의 규모(500병상)는 통상 종합병원급으로 볼 수 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "30",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "30",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E005",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "따라서 진료권 설정 방법론은 KDI 세부지침 <표 Ⅲ-1>의 유형2에 해당됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "09",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "09",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E006",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "따라서 아산 경찰병원의 지역주민 대상 일반진료 진료권은 KDI 세부지침 <표 Ⅲ-1>의 '유형2'에 해당됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "15",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "15",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E007",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "따라서 일반진료에 대한 진료권은 아산시로 설정함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "26",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "26",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E008",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "'지역 거주민에 대한 의료이용 행태 설문조사' 방법은 본 사업에 적용하지 않음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "20",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "20",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E009",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "둘째, 중력모형 고려 방법은 본 예비타당성조사 보고서에서 진료권 설정 목적으로 적용하지 않음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "04",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "04",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E010",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "따라서 사업 예정지로부터 약 40~45분 이내의 이동시간 거리에 위치하며 현재 상급종합병원이 없는 시·군·구 지역을 진료권으로 설정하는 것이 합리적임",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "03",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "03",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E011",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "울산의료원은 500병상 규모의 지방의료원으로서 종합병원급 의료시설에 해당되며, 울산광역시 북구에 동일한 유형 및 진료 수준의 의료시설이 존재하므로 KDI 세부지침 <표 Ⅲ-1>의 유형2에 부합함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "17",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "17",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E012",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "의료시설까지의 직선거리 및 시간 거리를 이용한 진료권 설정 방법은 신설 의료기관으로부터의 행정구역까지의 거리와 이동시간을 고려하여 예상 진료권을 설정하는 것이 바람직함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "14",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "14",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E013",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "따라서 본 사업은 유형1에 해당하는 것으로 판단됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "15",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "15",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E014",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "중력모형 고려 방법은 KDI 세부지침 <표 Ⅲ-1> 유형1(동일한 유형 및 진료 수준의 의료시설이 없는 경우)에 제시된 방법으로, 본 사업의 유형에는 해당하지 않으므로 적용하지 않음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "01",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "01",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E015",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "사업 예정지로부터 시·군·구 청사까지 승용차를 이용한 이동시간 자료가 진료권 설정의 중요한 지리적 변수로 활용됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "08",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "08",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E016",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "읍·면·동 단위의 상세 자료는 제공되지 않아 시·군·구 단위로 진료권 검토가 이루어짐",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "25",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "25",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E017",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-2-2가"
+      ],
+      "sentence": "마지막으로, 해당 의료기관이 위치한 주요 지역 또는 부진료권까지 감안하여 지역친화도(RI)를 이용하여 분석하는 방법임",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "03",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "03",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E018",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-1"
+      ],
+      "sentence": "시·도별 응급의료기관 및 응급의료기관 외 응급실 운영기관 현황은 KDI 세부지침 <표 Ⅲ-9>에 제시되어 있으며, 시·도별 전문응급의료센터 운영기관 현황은 KDI 세부지침 <표 Ⅲ-10>에 나타남",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "02",
+          "section": "3-5-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "02",
+        "section": "3-5-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E019",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-5-1"
+      ],
+      "sentence": "2019년 말 기준, 울산에는 권역외상센터 1개소가 지정되어 운영 중임",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "24",
+          "section": "3-5-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "24",
+        "section": "3-5-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E020",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-5-1"
+      ],
+      "sentence": "*   서울특별시의 권역외상센터 지정 1개소이며, 소아 전문응급의료센터 지정 1개소임",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "23",
+          "section": "3-5-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "23",
+        "section": "3-5-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E021",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-1"
+      ],
+      "sentence": "상급종합병원으로 지정될 가능성이 있는 종합병원급 이상의 의료시설일 경우, 보건복지부의 상급종합병원 지정평가를 위한 중증진료 기능 적정성 평가를 위해 심근경색증, 뇌경색증, 뇌수막염 등 28개의 중증응급질환에 대한 분석이 요구될 수 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "26",
+          "section": "3-5-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "26",
+        "section": "3-5-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E022",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-1"
+      ],
+      "sentence": "우리나라 응급의료기관은 시설 규모와 기능에 따라 권역응급의료센터, 지역응급의료센터, 지역응급의료기관, 응급의료기관 외 의료기관 등 4가지 유형으로 구분됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "16",
+          "section": "3-5-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "16",
+        "section": "3-5-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E023",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-1"
+      ],
+      "sentence": "경제성 분석 구조 내에서는 이러한 28개 중증응급질환자를 치료할 수 있는 시설, 인력, 장비의 확보와 교육 및 연구 기능과 관련된 사업계획이 충실히 수립되었을 경우, 해당 응급진료권 내 중증응급환자 및 사망자에 대한 자료 분석이 가능함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "01",
+          "section": "3-5-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "01",
+        "section": "3-5-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E024",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-1"
+      ],
+      "sentence": "병원 전 단계와 병원 단계의 응급환자 사망률 검토는 진료권 응급의료서비스의 문제점이 어떤 단계에서 발생하고 있는지를 논의하는 데 활용됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "11",
+          "section": "3-5-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "11",
+        "section": "3-5-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E025",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-1"
+      ],
+      "sentence": "이러한 자료는 보건복지부, 중앙응급의료센터 공공보건의료본부, 소방방재청, 건강보험심사평가원 등에서 수집이 가능하며, 1인당 수치 자료 산출 시 보정인구 이용이 필요함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "10",
+          "section": "3-5-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "10",
+        "section": "3-5-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E026",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-5-1"
+      ],
+      "sentence": "울산의료원은 500병상 규모의 종합병원급 의료시설에 해당되나, 28개 중증응급질환에 대한 분석 자료는 현재 제공되지 않음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "07",
+          "section": "3-5-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "07",
+        "section": "3-5-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E027",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-1"
+      ],
+      "sentence": "예비타당성조사의 분석 대상이 상급종합병원으로 지정될 가능성이 있는 종합병원급 이상의 의료시설일 경우, 보건복지부 상급종합병원 지정평가 항목에 포함되는 심근경색증, 뇌경색증, 뇌수막염 등 28개 중증응급질환에 대한 분석이 필요함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "30",
+          "section": "3-5-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "30",
+        "section": "3-5-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E028",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-5-1"
+      ],
+      "sentence": "따라서 아산시를 포함하는 응급진료권 내 중증응급환자 및 사망자에 대한 자료 분석이 고려될 수 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "24",
+          "section": "3-5-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "24",
+        "section": "3-5-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E029",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-1"
+      ],
+      "sentence": "이러한 수요는 결정 요소에 대한 고려를 하지 않는 욕구나 의료인의 의학적 판단에 근거하는 필요 혹은 요구와는 다른 개념으로, 사회경제적 요인들이 작용하여 실제 의료서비스로 실현 가능한 것을 의미함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "22",
+          "section": "3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "22",
+        "section": "3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E030",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-1"
+      ],
+      "sentence": "의료서비스의 수요는 개인의 나이, 성별, 건강 수준, 소득과 재산 정도, 직업, 결혼상태 등을 포함하는 사회경제적인 요소, 그리고 이용하고자 하는 의료서비스의 가격과 이용 기간, 치료의 효과, 건강보험의 유무 등 보건의료 시장 및 제도의 여건 등의 결정 요소에 의해 종합적으로 판단하는 의료서비스의 구입량을 의미함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "27",
+          "section": "3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "27",
+        "section": "3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E031",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-1"
+      ],
+      "sentence": "특히 대안적 시설이 전무하거나 해당 시설이 의료전달 체계상 가장 핵심적인 역할을 수행하는 경우 진료권이 우리나라 전체가 될 수도 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "27",
+          "section": "3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "27",
+        "section": "3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E032",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-1"
+      ],
+      "sentence": "여기에서 가장 먼저 고려하여야 할 사항은 해당 의료시설의 건립 예정지를 중심으로 새로운 진료권을 설정하는 것임",
+      "n_instances": 3,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "04",
+          "section": "3-1",
+          "cls": "guideline_pure"
+        },
+        {
+          "case": "HOS_ASAN",
+          "run": "19",
+          "section": "3-1",
+          "cls": "guideline_pure"
+        },
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "05",
+          "section": "3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "04",
+        "section": "3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E033",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-1"
+      ],
+      "sentence": "이러한 의료서비스 변화의 범위는 평가 대상 의료시설의 규모와 기능 등을 감안하여 그 범위가 해당 의료시설의 대안적 시설이 전무하거나 그 시설이 의료전달 체계상 가장 핵심적인 역할을 수행하는 경우에는 우리나라 전체가 될 수도 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "12",
+          "section": "3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "12",
+        "section": "3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E034",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-1"
+      ],
+      "sentence": "의료시설 건립 등의 사업 타당성 평가 시 수요 변화 분석이 전제되어야 하며, 이는 곧 해당 의료시설의 진료권 설정에 대한 분석을 의미함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "26",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "26",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E035",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-1"
+      ],
+      "sentence": "공공의료시설 건립사업의 수요와 편익 추정에서 가장 먼저 고려할 사항은 건립 예정지를 중심으로 하는 새로운 진료권을 설정하는 것임",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "18",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "18",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E036",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-1"
+      ],
+      "sentence": "이러한 의료서비스의 변화 범위는 해당 의료시설의 대안적 시설이 전무하거나 그 시설이 의료전달 체계상 가장 핵심적인 역할을 수행하는 경우에는 진료권이 우리나라 전체가 될 수도 있으나, 일반적으로 대안 시설이 지역적으로 산재해 있는 경우에는 그 범위는 일부 지역에 국한되어 나타난다고 보는 것이 더 타당함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "05",
+          "section": "3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "05",
+        "section": "3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E037",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-1"
+      ],
+      "sentence": "분석 대상인 공공부문 의료시설 건립사업의 당위성과 사업 규모의 타당성을 검토하기 위해 해당 진료권 범위 내에 존재하는(혹은 향후 진입이 확정된) 의료시설의 수급 상황을 검토할 필요가 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "17",
+          "section": "3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "17",
+        "section": "3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E038",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-1"
+      ],
+      "sentence": "여기에서 가장 먼저 고려하여야 할 사항은 울산광역시 북구 창평동 1232-12번지(송정동) 일원에 건립 예정인 울산의료원을 중심으로 하는 새로운 진료권을 설정하는 것임",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "03",
+          "section": "3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "03",
+        "section": "3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E039",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-3-1"
+      ],
+      "sentence": "해당 진료권의 요구되는 병상 수는 특수진료 대상 연간 입원환자 수를 병상당 연간 수용 능력으로 나누어 추정되며, 422.1427병상으로 나타남",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "22",
+          "section": "3-3-1",
+          "cls": "guideline_mixed"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "22",
+        "section": "3-3-1",
+        "cls": "guideline_mixed"
+      }
+    },
+    {
+      "id": "E040",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-3-1"
+      ],
+      "sentence": "병상 이용률 적용 기준에 따른 두 결과의 우선순위는 지침에서 별도로 정하지 않음",
+      "n_instances": 2,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "10",
+          "section": "3-3-1",
+          "cls": "guideline_pure"
+        },
+        {
+          "case": "HOS_ASAN",
+          "run": "10",
+          "section": "3-3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "10",
+        "section": "3-3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E041",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-3-1"
+      ],
+      "sentence": "병상 이용률은 해당 지역 내 동일 유형 의료기관의 병상 이용률을 적용하되, 동일 유형이 없는 경우 전국의 평균치 또는 유사 지역의 평균치를 준용하도록 함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "08",
+          "section": "3-3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "08",
+        "section": "3-3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E042",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-3-1"
+      ],
+      "sentence": "이 방법으로 전체 병상 수요를 추정한 후, 특정 유형의 의료시설을 이용하는 입원환자 비중을 곱하여 특정 유형의 병상 수요를 추정할 수 있음",
+      "n_instances": 2,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "23",
+          "section": "3-3-1",
+          "cls": "guideline_pure"
+        },
+        {
+          "case": "HOS_ASAN",
+          "run": "30",
+          "section": "3-3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "23",
+        "section": "3-3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E043",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-3-1"
+      ],
+      "sentence": "KDI 세부지침에서는 병상 이용률의 근거로 해당 진료권의 평균값, 종별 병상 이용률, 유사 의료시설 병상 이용률을 제시하되, 어느 것을 우선할지는 정하지 않고 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "14",
+          "section": "3-3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "14",
+        "section": "3-3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E044",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-3-1"
+      ],
+      "sentence": "그러나 위의 추정 방법은 지역친화도나 지역환자구성비가 현재의 특정 지역의 병상 수급 수준에 영향을 받는다는 문제점을 지님",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "03",
+          "section": "3-3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "03",
+        "section": "3-3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E045",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-3-1"
+      ],
+      "sentence": "특수목적 진료권의 연간 입원환자 수는 146,769명의 인구에 인구 1인당 연평균 입원일수 0.8807일을 곱하여 추정됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "13",
+          "section": "3-3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "13",
+        "section": "3-3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E046",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-3-1"
+      ],
+      "sentence": "이러한 분석상의 문제점을 최소화하기 위해 해당 의료시설이 속하게 되는 진료권 내 보건의료서비스 수준 및 수급 상황을 검토하는 취지에 따라 지역친화도와 지역환자구성비를 각각 100%로 가정하여 진료권의 요구되는 병상 수를 추정하는 것이 합리적이라고 판단됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "08",
+          "section": "3-3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "08",
+        "section": "3-3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E047",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-3-1"
+      ],
+      "sentence": "지역친화도와 지역환자구성비는 진료권 내 보건의료수준을 가늠하는 정도로만 사용하며, 과대 또는 과소 추정의 논란을 피하기 위하여 각각 100%로 가정함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "03",
+          "section": "3-3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "03",
+        "section": "3-3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E048",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-3-1"
+      ],
+      "sentence": "병상 이용률은 해당 지역 내 동일 유형 의료기관의 평균 병상 이용률 또는 전국 평균치를 준용할 수 있으며, KDI 세부지침에서는 어느 것을 우선할지 정하고 있지 않음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "08",
+          "section": "3-3-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "08",
+        "section": "3-3-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E049",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-2-2라"
+      ],
+      "sentence": "이 자료는 울산광역시 북구 내의 현재 의료시설 이용 행태를 파악하는 데 활용될 수 있으나, 신규 의료시설 건립 시 다른 지역으로부터의 환자 유입을 예측하기 위한 지역별 구성도(CI) 또는 상세 지역친화도 자료의 확보는 현재 제한됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "21",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "21",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E050",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2라"
+      ],
+      "sentence": "65세 이상 고령인구 비율은 8.7%로, 이는 경제활동이 활발한 대규모 산업단지 조성 등으로 인한 사회적 이동의 영향으로 해석될 수 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "30",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "30",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E051",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2라"
+      ],
+      "sentence": "시·군·구 단위 장래인구추계 자료는 보유하고 있지 않으며, 장래인구추계 시 전국인구의 연도별 증감률을 진료권 인구추계에 반영하는 방법이 타당함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "28",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "28",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E052",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-2-2라"
+      ],
+      "sentence": "신규 의료시설 건립 사업의 경우, 유용할 자료 확보에 어려움이 존재함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "26",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "26",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E053",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2라"
+      ],
+      "sentence": "2020년 기준 65세 이상 고령인구 비율은 8.2%(18,025명)로 나타나, 전국적인 고령화 추세에 비해 상대적으로 낮은 수준임",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "14",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "14",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E054",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2라"
+      ],
+      "sentence": "진료권 설정 시 행정구역과 인접한 다른 행정구역의 인구 규모를 함께 고려하는 것이 용이하다는 점을 감안할 때, 천안시 또한 지역주민 일반진료 진료권에 포함하는 것이 타당함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "02",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "02",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E055",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2라"
+      ],
+      "sentence": "장래 인구 추계 시에는 통계청의 자료를 바탕으로 진료권 내 행정구역의 인구 추이와 전국 인구 추이를 조정하여 반영하는 것이 가장 타당하나, 시·군·구 단위 장래인구추계 자료는 보유하고 있지 않음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "11",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "11",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E056",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-2-2라"
+      ],
+      "sentence": "시흥시 자체의 높은 남성 인구 비중과 낮은 고령인구 비율은 특정 의료수요 패턴을 시사할 수 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "15",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "15",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E057",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2라"
+      ],
+      "sentence": "따라서, 지역친화도 자료의 활용에 제약이 존재하며, 유사 의료시설의 병상 수 등 상세 규모 정보가 없어 정확한 유사성 판단이 제한됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "15",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "15",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E058",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-3"
+      ],
+      "sentence": "중앙응급의료센터의 응급의료통계연보에서는 시⋅도 수준의 자료만 수집 가능하며 응급실 내 사망 또는 응급진료 후 결과에 대한 자세한 정보를 담지 못함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "30",
+          "section": "3-5-3",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "30",
+        "section": "3-5-3",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E059",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-3"
+      ],
+      "sentence": "응급의료시설 확충의 효과를 추정하기 위해서는 장기간에 걸친 패널 자료 구축이 절실함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "11",
+          "section": "3-5-3",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "11",
+        "section": "3-5-3",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E060",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-3"
+      ],
+      "sentence": "응급환자 및 사망자 현황은 응급의료통계연보(중앙응급의료센터)에서 보고되나, 시⋅도 수준 자료만 수집 가능하며 응급실 내 사망 또는 응급진료 후 결과에 대한 자세한 정보를 담지 못함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "08",
+          "section": "3-5-3",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "08",
+        "section": "3-5-3",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E061",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-3"
+      ],
+      "sentence": "우리나라의 응급의료 연구는 주로 건강보험자료 중 응급실 이용환자기록이나 국가응급진료환자망(NEDIS) 자료를 활용해왔음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "11",
+          "section": "3-5-3",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "11",
+        "section": "3-5-3",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E062",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-3"
+      ],
+      "sentence": "응급환자 사망률 자료 수집의 어려움을 보완하기 위해 통계청(국가통계포털)의 사망원인통계를 바탕으로 시⋅군⋅구 인구 1만 명당 3대 주요 응급질환의 사망률이 활용됨",
+      "n_instances": 4,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "12",
+          "section": "3-5-3",
+          "cls": "guideline_pure"
+        },
+        {
+          "case": "HOS_ASAN",
+          "run": "25",
+          "section": "3-5-3",
+          "cls": "guideline_pure"
+        },
+        {
+          "case": "HOS_ASAN",
+          "run": "28",
+          "section": "3-5-3",
+          "cls": "guideline_pure"
+        },
+        {
+          "case": "HOS_ULSAN",
+          "run": "23",
+          "section": "3-5-3",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "12",
+        "section": "3-5-3",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E063",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-3"
+      ],
+      "sentence": "응급의료시설 확충을 통한 응급사망자 감소 가능성을 추정함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "20",
+          "section": "3-5-3",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "20",
+        "section": "3-5-3",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E064",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-3"
+      ],
+      "sentence": "이는 보편적인 응급의료 수준이 지역의 응급병상 수와 밀접하게 관련되어 있으며, 응급환자 신속 후송에 지리적 요소가 중요하기 때문임",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "06",
+          "section": "3-5-3",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "06",
+        "section": "3-5-3",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E065",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-3"
+      ],
+      "sentence": "건강보험자료에는 응급실 이용환자의 사망 여부를 보여주는 변수가 없고, 국가응급진료환자망(NEDIS) 자료는 일부 응급의료기관의 자료만을 구축하여 국가 전체 응급의료 현황을 대표하기 어려움",
+      "n_instances": 2,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "12",
+          "section": "3-5-3",
+          "cls": "guideline_pure"
+        },
+        {
+          "case": "HOS_ULSAN",
+          "run": "26",
+          "section": "3-5-3",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "12",
+        "section": "3-5-3",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E066",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2다"
+      ],
+      "sentence": "이러한 사업의 목적, 규모, 특화진료영역 등을 고려할 때 본 신규 의료시설은 상급종합병원급 진료 수준을 제공할 것으로 판단됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "23",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "23",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E067",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2다"
+      ],
+      "sentence": "이러한 사업의 규모와 목적을 고려할 때, 신규 의료시설의 진료 수준은 상급종합병원급으로 판단됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "29",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "29",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E068",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2다"
+      ],
+      "sentence": "본 사업의 총사업비는 5,773.72억 원으로 국고 500억 원 이상이 투입되는 사업에 해당하며, 의료시설의 규모와 진료 수준이 종합병원 및 상급종합병원급에 해당함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "03",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "03",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E069",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2다"
+      ],
+      "sentence": "아산 경찰병원 건립사업은 총 300병상 규모의 종합병원급 시설임",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "12",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "12",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E070",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-2-2다"
+      ],
+      "sentence": "진료권의 규모와 범위를 결정하는 요소에 대한 논의는 의료서비스의 공급 측면, 수요 측면, 그리고 내생성 문제로 구분됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "22",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "22",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E071",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2다"
+      ],
+      "sentence": "이러한 800병상 규모와 난치성 질환 특화진료, 융·복합 의학 연구 기능, 그리고 지역 내 상급의료기관 부재 해소라는 사업 목적을 종합적으로 고려할 때, 본 신규 의료시설은 상급종합병원급의 진료 수준을 수행할 것으로 판단됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "07",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "07",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E072",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-4-1"
+      ],
+      "sentence": "연간 입원환자 수 추정을 위한 병상이용률은 KDI 세부지침에서 해당 진료권의 평균값, 대상 의료시설의 종별 병상이용률, 유사 의료시설 병상이용률 등을 제시하고 있으나, 어느 것을 우선할지는 정하지 않음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "11",
+          "section": "3-4-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "11",
+        "section": "3-4-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E073",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-4-1"
+      ],
+      "sentence": "이는 병상 수요가 실제 의료시설을 이용할 것으로 예상하는 환자 수를 의미하는 것은 아님",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "20",
+          "section": "3-4-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "20",
+        "section": "3-4-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E074",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-4-1"
+      ],
+      "sentence": "위 추정식에서 병상이용률은 가장 중요한 변수로 작용함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "06",
+          "section": "3-4-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "06",
+        "section": "3-4-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E075",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-4-1"
+      ],
+      "sentence": "KDI 세부지침은 병상이용률 추정 시 해당 진료권의 평균값, 대상 의료시설의 종별에 따른 병상이용률 또는 유사 의료시설의 병상이용률을 이용하는 방안을 제시하고 있으나, 특정 방법을 우선 적용하도록 명시하지는 않음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "07",
+          "section": "3-4-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "07",
+        "section": "3-4-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E076",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-4-1"
+      ],
+      "sentence": "병원의 경영실태를 가늠할 수 있는 직접적인 자료인 병상이용률은 민감성에 기인하여 진료권 내에 존재하는 의료시설로부터 직접 획득하기는 불가능함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "09",
+          "section": "3-4-1",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "09",
+        "section": "3-4-1",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E077",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-3-2"
+      ],
+      "sentence": "진료권 내 이용자들의 질환별 의료서비스 이용에 대한 상세 자료를 파악하기 어려운 경우에는 결국 입원 의료이용률의 평균치를 적용하게 되는 한계를 드러내며, 이는 궁극적으로 진료권 내의 의료시설이 부족한 경우에 병상 수요는 실제 수요를 과소 추정할 개연성이 존재하게 됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "20",
+          "section": "3-3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "20",
+        "section": "3-3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E078",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-3-2"
+      ],
+      "sentence": "이는 각 지역별 인구 규모와 의료기관의 병상 공급량을 표준화한 지표인 인구 1,000명당 병상 수와 전국 평균치를 비교하여 차이만큼은 병상 공급 확충을 통해 충당되어야 한다는 개념임",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "25",
+          "section": "3-3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "25",
+        "section": "3-3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E079",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-3-2"
+      ],
+      "sentence": "인구 1,000명당 병상 수의 전국 평균치(2.96병상)와 지역값의 차이는 0.9967병상으로 산출됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "11",
+          "section": "3-3-2",
+          "cls": "guideline_mixed"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "11",
+        "section": "3-3-2",
+        "cls": "guideline_mixed"
+      }
+    },
+    {
+      "id": "E080",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-3-2"
+      ],
+      "sentence": "전국 평균치 대비 추가 소요 병상 규모는 171.0477병상으로 산출됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "05",
+          "section": "3-3-2",
+          "cls": "guideline_mixed"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "05",
+        "section": "3-3-2",
+        "cls": "guideline_mixed"
+      }
+    },
+    {
+      "id": "E081",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-2-1"
+      ],
+      "sentence": "진료권 설정은 진료권 내 잠재적 의료 수요와 의료 공급 현황을 비교하여 의료 공급의 과소 또는 과잉 여부를 판단하고, 이는 사업 규모 적정성 검토의 주요 근거가 됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "10",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "10",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E082",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-2-1"
+      ],
+      "sentence": "진료권 설정은 진료권 내 잠재적 의료 수요와 의료 공급 현황을 비교하여 의료공급의 과소 혹은 과잉 여부를 판단하고, 신규 의료시설의 실제 의료서비스 수요를 추정하는 핵심적인 작업임",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "25",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "25",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E083",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-2-1"
+      ],
+      "sentence": "진료권은 의료시설의 진입과 해당 지역의 개발 정도에 따라 내생적으로 변화할 수 있는 사안이므로, 특정한 분석 방법을 모든 유형의 의료시설 건립사업에 적용하는 것은 적절치 않으며, 해당 의료시설과 건립되는 지역의 특성 및 미래 변화 가능성에 따라 달리 검토할 필요가 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "20",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "20",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E084",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-2-1"
+      ],
+      "sentence": "새로 건립될 의료시설의 예상 진료권은 의료시설의 규모와 종별, 제공하는 서비스 유형 및 질과 수준, 접근성 등 다양한 요인에 의해 영향을 받음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "22",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "22",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E085",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-2"
+      ],
+      "sentence": "따라서 현실적으로 사업평가기간의 응급사망자 수는 현재 또는 지난 몇 년간의 평균적인 응급사망률(m)을 이용하여 인구 추계 결과에 적용하는 것이 합리적임",
+      "n_instances": 2,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "09",
+          "section": "3-5-2",
+          "cls": "guideline_pure"
+        },
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "02",
+          "section": "3-5-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "09",
+        "section": "3-5-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E086",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-2"
+      ],
+      "sentence": "다양한 보건의료정책 및 사회경제적 변수가 응급사망률에 영향을 미칠 수 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "13",
+          "section": "3-5-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "13",
+        "section": "3-5-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E087",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-5-2"
+      ],
+      "sentence": "예방 가능 응급사망자 수 추정에서 응급사망률 감소폭을 주요 변수로 활용하므로 응급의료시설 확충 후 사업 평가 기간 각 연도의 응급사망자 수 추정이 필요함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "14",
+          "section": "3-5-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "14",
+        "section": "3-5-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E088",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-2-2나"
+      ],
+      "sentence": "정부는 지역 완결적 의료여건 조성을 계획하고 있으며, 70개 중진료권별로 공공성과 진료역량을 갖춘 필수의료 거점 역할을 수행할 수 있는 공공 및 민간병원을 지역 책임병원으로 지정하여 필수의료를 제공하고자 기획하고 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "12",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "12",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E089",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2나"
+      ],
+      "sentence": "따라서 아산 경찰병원은 종합병원급에 해당하는 것으로 판단됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "30",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "30",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E090",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2나"
+      ],
+      "sentence": "특히 울산광역시는 광역권 단위의 책임의료기관(울산대학교병원) 외에 지역 책임의료기관이 지정되지 않은 상황으로, 울산의료원은 지역 내 필수의료 제공 및 공공의료 기능 강화 역할을 수행할 것으로 기대됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "23",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "23",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E091",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-4-2"
+      ],
+      "sentence": "이 방법론은 사업평가 기간 동안 진료의사 수의 변화 또는 진료시간의 변화를 반영할 수 없다는 단점을 가짐",
+      "n_instances": 2,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "08",
+          "section": "3-4-2",
+          "cls": "guideline_pure"
+        },
+        {
+          "case": "HOS_ASAN",
+          "run": "16",
+          "section": "3-4-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "08",
+        "section": "3-4-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E092",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-4-2"
+      ],
+      "sentence": "이는 기존 자료를 활용하여 유사 의료시설의 입원환자 수와 외래환자 수의 배율을 구하고, 이를 연간 입원환자 수 추정 결과에 곱하여 산출됨",
+      "n_instances": 2,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "11",
+          "section": "3-4-2",
+          "cls": "guideline_pure"
+        },
+        {
+          "case": "HOS_ULSAN",
+          "run": "21",
+          "section": "3-4-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "11",
+        "section": "3-4-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E093",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가",
+        "202212-III-2-2라"
+      ],
+      "sentence": "지역 내 동일 유형 의료시설 환자 분포를 활용하는 진료권 설정 방법을 적용하고자 하였으나, 이를 위한 구체적인 자료(예: 동일 유형 의료시설별 환자 주소지 분포, 각 의료시설의 지역친화도 또는 지역별 구성도 등)는 제공되지 않아 적용할 수 없었음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "05",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "05",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E094",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가",
+        "202212-III-2-2라"
+      ],
+      "sentence": "지역주민 일반의료서비스의 경우, 사업 예정지가 아산시에 위치하고 인접한 천안시가 단거리 이동시간 내에 위치하며 다수의 유사 의료시설이 존재하고 있음을 고려할 때, 아산시와 천안시를 포함하는 진료권으로 설정하는 것이 적절하다고 판단됨",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "12",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "12",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E095",
+      "stratum": "S",
+      "judge_supported": true,
+      "ids": [
+        "202212-III-2-2가",
+        "202212-III-2-2나"
+      ],
+      "sentence": "대신 신규 의료시설이 위치한 시·군으로 진료권을 설정하는 방법을 적용하며, 이는 행정구역 기반의 진료권 설정이 자료의 유용성 측면에서 유리하고 정부의 책임의료기관 지정 사업 등 공공의료 정책 방향과도 부합함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "09",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "09",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E096",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202105-VII-1-개요수식",
+        "202105-VII-1-절차"
+      ],
+      "sentence": "그러나 KDI 세부지침에서 제시하는 중력모형은 문화·관광 부문에 특화되어 있으며, 의료시설에 직접 적용하기 위한 구체적인 방법론이나 파라미터가 명시되어 있지 않음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_SIHEUNG",
+          "run": "25",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_SIHEUNG",
+        "run": "25",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E097",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가",
+        "202212-III-2-2다",
+        "202212-III-2-2라"
+      ],
+      "sentence": "지역주민 일반진료의 경우, 아산시가 사업 예정지이며, 인구 증가 추세와 인근 지역의 의료서비스 접근성을 고려하여 진료권을 설정함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "25",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "25",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E098",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-2가",
+        "202212-III-2-특수목적"
+      ],
+      "sentence": "따라서 본 사업은 특수한 목적을 가진 의료시설로서 유형3에 해당하며, 동시에 지역주민을 대상으로 하는 일반진료 기능도 포함하고 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "14",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "14",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E099",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-1",
+        "202212-III-2-2가",
+        "202212-III-2-2다"
+      ],
+      "sentence": "본 사업의 울산의료원은 지방의료원으로서 종합병원급 의료시설로 간주될 수 있음",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ULSAN",
+          "run": "01",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ULSAN",
+        "run": "01",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    },
+    {
+      "id": "E100",
+      "stratum": "U",
+      "judge_supported": false,
+      "ids": [
+        "202212-III-2-특수목적"
+      ],
+      "sentence": "본 아산 경찰병원 건립사업은 경찰공무원 특수진료와 아산시 지역주민 일반의료서비스 제공을 목적으로 하는 특수목적 병원에 해당함",
+      "n_instances": 1,
+      "instances": [
+        {
+          "case": "HOS_ASAN",
+          "run": "24",
+          "section": "3-2",
+          "cls": "guideline_pure"
+        }
+      ],
+      "ctx_instance": {
+        "case": "HOS_ASAN",
+        "run": "24",
+        "section": "3-2",
+        "cls": "guideline_pure"
+      }
+    }
+  ]
+}

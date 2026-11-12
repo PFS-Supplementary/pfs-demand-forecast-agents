@@ -1,0 +1,3850 @@
+{
+  "3-1": {
+    "title": "수요 추정 및 진료권 설정 개요",
+    "passed": true,
+    "text": "의료시설의 신규 건립에 해당하는 아산 경찰병원 건립사업은 해당 지역의 의료서비스 수요를 결정하는 결정 요소에 변화를 초래하는 사업으로 나타남 「사업 기본계획서; 202212-III-1」. 이러한 변화는 이용자들의 의료서비스 이용 패턴에 영향을 미치며, 궁극적으로 의료서비스의 수요 변화를 초래하게 됨 「202212-III-1」. 따라서 의료시설 건립 사업의 타당성을 평가하는 데에는 해당 사업으로 초래되는 수요의 변화를 분석하는 것이 전제되어야 함 「202212-III-1」. 국가사업의 편익은 공공적인 측면에서 발생하는 혜택의 경제적 가치를 의미하는 사회적 편익으로 정의되며, 이는 실제 의료서비스를 이용하는 환자들의 의료이용 행위를 통해 직간접적으로 발생하는 것이므로, 경제적 타당성 분석에서 추정하는 편익의 규모와 범위는 제공되는 해당 진료권 내 거주하는 인구의 규모, 건강 수준과 함께 이를 바탕으로 나타나는 의료서비스에 대한 수요 및 수요량의 변화에 전적으로 의존함이 나타남 「202212-III-1」.\n\n의료서비스의 수요는 개인의 나이, 성별, 건강 수준, 소득과 재산 정도, 직업, 결혼상태 등을 아우르는 사회경제적인 요소, 그리고 이용하고자 하는 의료서비스의 가격과 이용 기간, 치료의 효과, 건강보험의 유무 등 보건의료 시장 및 제도의 여건 결정 요소에 의해 종합적으로 판단하는 의료서비스의 구입량을 의미함 「202212-III-1」. 의료서비스의 욕구는 언급된 결정 요소에 대한 고려 없이 사람들이 원하는 의료서비스의 양을 의미하며, 의료서비스의 필요 혹은 요구는 환자의 건강 상태에 대하여 전문적인 의학지식을 가진 의료인이 의학적인 판단 과정에 근거하여 결정되는 의학적 필요량을 의미함 「202212-III-1」. 따라서 의료서비스의 수요는 사회경제적 요인들이 작용하여 실제 의료서비스로 실현 가능한 의미를 갖는다는 측면에서 욕구 및 필요와 차이를 가짐이 나타남 「202212-III-1」.\n\n의료서비스 변화의 범위는 진료권으로 정의됨 「202212-III-1」. 평가 대상 의료시설의 대안적 시설이 전무하거나 그 시설이 의료전달 체계상 가장 핵심적인 역할을 수행하는 경우에는 진료권이 우리나라 전체가 될 수도 있으나, 일반적으로 대안 시설이 지역적으로 산재해 있는 경우에는 그 범위가 일부 지역에 국한되어 나타나는 것이 더 타당하다고 판단됨 「202212-III-1」.\n\n[소제목] 공공의료시설 건립사업 수요 및 편익 추정 개요\n\n공공의료시설 건립사업의 수요와 편익 추정의 기본적인 개요는 KDI 세부지침 [그림 Ⅲ-1]에 제시됨 「202212-III-1」. 해당 의료시설의 건립 예정지인 충청남도 아산시 초사동 465 일원을 중심으로 하는 새로운 진료권을 설정하는 것이 가장 먼저 고려되어야 할 사항임 「사업 기본계획서; 202212-III-1」. 분석 대상 공공부문 의료시설 건립사업의 당위성 및 사업 규모의 타당성을 검토하기 위해 해당 진료권 범위 내에 존재하는 의료시설의 수급 상황을 검토할 필요가 있음 「202212-III-1」. 이때 의료서비스 수요의 지표로 병상 수요(요구 병상 수)가 사용되며, 보완적으로 해당 지역의 건강 수준 및 질병 양상 등을 포함하는 보건의료지표가 활용됨 「202212-III-1」. 이들 지표를 이용하여 해당 진료권의 병상공급 현황 그리고 유사지역 또는 전국 평균의 보건의료지표와 비교하여 사업 규모의 타당성을 평가함 「202212-III-1」. 실제 신규 의료시설을 이용할 진료권 내 환자수요는 입원, 외래 및 응급진료로 나누어 추정할 필요가 있음 「202212-III-1」. 이는 각각의 영역에 대한 의료 서비스(즉, 진단과 치료 등)에서 발생하는 편익의 성격과 내용이 다르기 때문임 「202212-III-1」. 환자수요 추정은 이후 논의할 편익 추정의 기초자료가 되며, 예비타당성조사에서 추정한 사업비용 대비 편익의 크기를 분석하여 사업의 경제적 타당성을 검토하게 됨 「202212-III-1」.",
+    "catchment_result": {},
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "지침에서 요구하는 의료서비스 수요, 욕구, 필요의 정의와 차이, 의료시설 건립 사업의 영향, 경제적 타당성, 그리고 수요 및 편익 추정의 개요에 대한 모든 주요 서술 항목이 생성 텍스트에 적절하고 상세하게 포함되어 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "지침에서 요구하는 의료서비스 수요, 욕구, 필요의 정의와 차이, 의료시설 건립 사업의 영향, 경제적 타당성, 그리고 수요 및 편익 추정의 개요에 대한 모든 주요 서술 항목이 생성 텍스트에 적절하고 상세하게 포함되어 있습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {},
+      "inputs": {},
+      "input_sources": {},
+      "unresolved": [],
+      "executed": [],
+      "skipped": {},
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-1"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {},
+      "region_normalization": []
+    }
+  },
+  "3-2": {
+    "title": "진료권 설정",
+    "passed": true,
+    "text": "[소제목] 진료권 설정의 필요성 및 개요\n의료서비스의 수요는 개인의 사회경제적인 요소, 의료서비스의 가격과 이용 기간, 건강보험 유무 등 다양한 결정 요소에 의해 종합적으로 판단되는 의료서비스의 구입량을 의미함 「202212-III-1」. 의료시설 건립 사업은 이러한 의료서비스 수요의 결정 요소에 변화를 초래하고 이용자들의 의료서비스 이용 패턴에 영향을 주어 궁극적으로 수요 변화를 발생시킴 「202212-III-1」. 의료시설의 건립 등 사업의 경제적 타당성을 평가하는 데에는 해당 사업으로 초래되는 수요 변화를 분석하는 것이 전제되어야 함 「202212-III-1」. 진료권은 특정한 의료시설 또는 의료시설 군의 진료행위가 미치는 지역의 범위, 또는 의료시설의 이용자의 현주소 분포 범위를 의미함 「202212-III-2-1」. 이러한 진료권 설정은 진료권 내 잠재적 의료 수요와 의료 공급 현황을 비교하여 의료 공급의 과소 또는 과잉 여부를 판단하고, 사업 규모의 적정성을 검토하는 주요한 근거가 됨 「202212-III-2-1」. 또한, 진료권 설정은 새롭게 건립되는 의료시설을 방문하는 환자들이 진료권 내에 거주하는 것을 가정하므로, 해당 의료시설의 실제 의료서비스 수요를 추정하는 핵심적인 작업임 「202212-III-2-1」. 진료권에 영향을 주는 요인으로는 의료시설의 규모와 종별구분, 제공하는 의료서비스의 유형 및 질과 수준 등 의료시설 자체의 특성과 교통망, 교통수단, 의료시장 내 위치 등 지역적 특성을 들 수 있음 「202212-III-2-1」.\n\n[소제목] 사업 유형 분류 및 진료권 설정 방법론 검토\n아산 경찰병원 건립사업은 \"경찰공무원 특수진료 및 아산시 지역주민 일반의료서비스 제공\"을 목적으로 함 「사업 기본계획서」. 해당 의료시설은 총 300병상으로 계획되어 있으며, 이 중 일반진료 병상은 120병상, 경찰특화 병상은 160병상, 감염병 격리 병상은 20병상으로 구성됨 「사업 기본계획서」. 이는 특정 진료과목이나 특정 질환에 대하여 난이도가 높은 의료행위를 전문적으로 행하는 전문병원과 특수 공공인력 및 보훈대상자에 대한 특수한 목적의 병원을 포함하여 분석하는 특수목적 병원의 범주에 해당함 「202212-III-2-2다」.\n\nKDI 세부지침 <표 Ⅲ-1>에 따르면, 의료시설의 규모 및 진료 수준이 최상위 등급이거나 특수한 목적을 갖는 경우 유형3으로 분류되며 전국을 진료권으로 설정하는 방법이 제시됨 「202212-III-2-2가」. 아산 경찰병원은 특수 공공인력인 경찰공무원에 대한 의료서비스 제공을 목적으로 하는 특수목적 병원에 해당하므로, 경찰공무원 대상 진료는 전국을 진료권으로 설정함 「202212-III-2-특수목적」.\n동시에 지역 주민을 대상으로 하는 일반진료 서비스도 제공할 예정임에 따라, 일반진료에 대한 진료권 설정이 필요함 「사업 기본계획서; 202212-III-2-특수목적」. 신규 의료시설이 위치하는 충청남도 아산시에는 종합병원인 아산충무병원이 존재함 「심사평가원 의료기관 신고자료」. 이 경우 KDI 세부지침 <표 Ⅲ-1>에 따라 의료시설이 건립되는 시/군/구에 동일한 유형 및 진료 수준의 의료시설이 존재할 경우에 해당하는 유형2로 분류됨 「202212-III-2-2가」. 유형2 진료권 설정 방법으로는 신규 의료시설이 위치한 시/군으로 진료권을 설정하거나, 지역 내 동일 유형 의료시설을 이용하는 환자들의 지역분포를 활용하여 예상 진료권을 설정하는 방법이 제시됨 「202212-III-2-2가」.\n\n각 방법론의 적용 여부는 다음과 같음.\n지역 내 동일 유형 의료시설을 이용하는 환자들의 지역분포를 활용하는 방법은 지역친화도(RI) 지표를 활용하는 것임 「202212-III-2-2가」. 그러나 지역친화도 지표는 자료 접근성이 낮고 의료시장 구조 변화에 영향을 받는 내생 변수이며, 특정 의료시설의 진료권 분석에 직접적으로 적용하는 데에는 무리가 따른다는 한계점이 존재함 「202212-III-2-2라」. 또한, 신규 의료시설의 경우 유용할 자료 확보에 문제에 봉착할 수 있음 「202212-III-2-2라」. 이에 따라 지역친화도 지표를 활용한 진료권 설정 방법은 직접적으로 적용하기 어려움.\n거리 및 이동시간을 이용한 예상 진료권 설정 방법은 의료시설의 유형에 따라 달리 적용될 필요가 있음 「202212-III-2-2가」. 본 사업과 같이 동일한 유형의 의료시설이 존재하는 경우 진료권 범위가 해당 시/군의 행정구역 범위보다 작아질 가능성이 있으나, 보건소나 지방의료원 등의 공공의료시설은 진료권 범위가 해당 시/군/구 전체 또는 인접 지역을 포함하는 경향이 있음 「202212-III-2-2가」. 아산 경찰병원은 공공의료시설로서 지역주민 일반의료서비스를 제공하는 점을 고려하여, 신규 의료시설이 위치한 시/군 및 인접 지역을 진료권으로 검토하는 것이 타당함.\n신규 의료시설이 위치한 시/군으로 진료권을 설정하는 방법은 아산시를 진료권으로 설정하는 것임 「202212-III-2-2가」. 또한 공공의료시설의 특성을 고려하여 인접 지역을 포함할 수 있으므로, 거리 및 이동시간 자료를 바탕으로 인접한 시/군/구를 진료권에 포함하는 방안을 고려함 「202212-III-2-2가」. 아산시를 포함하여 이동시간이 30분대인 천안시(23분)와 예산군(34분)은 지역적으로 인접하고 생활권을 공유하는 지역으로 볼 수 있음 「Kakao Mobility 길찾기 API」.\n\n[소제목] 진료권 결정 요소 분석\n의료서비스의 공급 측면에서, 아산 경찰병원은 총 300병상 규모로, 이 중 120병상이 일반진료에 할당됨 「사업 기본계획서」. 이는 의료법 제3조의3에서 규정하는 종합병원의 병상 기준인 100개 이상 300병상 이하에 해당하며, 7개 이상의 진료과목을 갖추고 각 진료과목마다 전속 전문의를 두도록 하는 종합병원급 의료시설 요건에 부합할 것으로 예상됨 「202212-III-2-2다; KDI 세부지침 <표 Ⅲ-7>」. 또한 아산 경찰병원은 경찰공무원에 대한 의료서비스 제공을 우선 목적으로 하는 특수목적 병원에 해당하며, 소방공무원 복지법을 근거로 하는 국립소방병원 건립 사례와 유사하게 특수 공공인력에 대한 의료시설 건립에 해당함 「사업 기본계획서; 202212-III-2-2다; KDI 세부지침 <표 Ⅲ-8>」. 더불어 아산시 지역주민에게 일반의료서비스를 제공할 계획이 포함됨 「사업 기본계획서」.\n\n의료서비스의 수요 측면에서, 해당 의료시설에 도달하기 위한 교통수단 및 교통망 여건은 진료권 설정의 중요한 요소임 「202212-III-2-2다」. 아산시는 비수도권의 지방 중소도시로, 수도권 지역에 비해 교통수단 및 교통망 발달 수준이 다소 뒤처져 있을 수 있으나, 본 분석에서는 개원 예정 시점인 2029년을 고려한 2026년 기준의 카카오 모빌리티 길찾기 API 자료를 활용하여 이동시간을 측정하였음 「Kakao Mobility 길찾기 API; 202212-III-2-2다; 사업 기본계획서」. 이는 미래 교통여건 변화를 반영한 것임 「202212-III-2-2다」.\n\n기타 요소로, 해당 진료권 내 경쟁 병원의 존재 여부도 진료권 결정 요소로 고려됨 「202212-III-2-2다」. 아산시에는 아산충무병원(종합병원)이 존재하며, 인접한 천안시에는 순천향대학교부속 천안병원, 천안충무병원, 충청남도 천안의료원(이상 종합병원) 및 단국대학교의과대학부속병원(상급종합병원)이 존재함 「심사평가원 의료기관 신고자료」. 이는 신규 의료시설의 진료권 내에서 시장 점유율에 영향을 미 줄 수 있는 경쟁 시설이 있음을 의미함 「202212-III-2-2라」. 또한 해당 지역의 향후 개발계획과 이에 따른 인구 유입 및 인구 구성의 변화 등도 진료권 설정에 영향을 미치는 요소이나, 보수적인 추계를 준거로 볼 때 지역의 인구 및 장래인구 추계가 핵심적인 기저가 됨 「202212-III-2-2다」.\n\n[소제목] 진료권 설정을 위한 자료 검토\n인구 규모 측면에서, 아산시의 총인구는 2019년 314,395명에서 2023년 345,796명으로 증가하는 추세를 보임 「행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보」. 2023년 기준 성비는 남성 180,223명, 여성 165,573명으로 남성 인구 비중이 높게 나타나며, 65세 이상 고령인구 비율은 14.4%(49,677명)로 나타남 「행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보」. 2019년 기준 건강보험 가입자 수는 327,161명으로 나타남 「행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보」. 진료권 설정을 위해 시·군·구 단위의 장래인구추계 자료가 필요하나, 해당 자료는 보유하고 있지 않음 「진료권 분석 자료」.\n\n지역친화도(RI) 지표는 환자들의 의료이용 행태를 활용하는 자료로, 아산시의 2020년 환자유형별 자체충족률(관내 의료시설 이용 비율)은 ALL 38.73PCT, LONG_TERM_CARE 53.64PCT, PSYCHIATRIC 36.47PCT로 나타남 「보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24」. 그러나 지역친화도 지표는 자료 접근성이 낮고 내생 변수이며, 특정 의료시설의 진료권 분석에 직접 적용하기에 한계가 있음 「202212-III-2-2라」.\n\n거리 및 이동시간 자료는 사업 예정지로부터 각 시·군·구 청사까지의 승용차 기준 이동시간을 활용하며, 이는 현재의 교통망을 감안한 이동시간을 반영함 「Kakao Mobility 길찾기 API; 202212-III-2-2라」. 아산시청까지는 16분, 천안시청까지는 23분, 예산군청까지는 34분, 평택시청까지는 42분, 당진시청까지는 51분, 청양군청까지는 55분, 홍성군청까지는 55분 소요되는 것으로 나타남 「Kakao Mobility 길찾기 API」.\n\n유사 의료시설의 존재 여부 자료는 진료권 내 유사 의료시설 현황 파악에 활용됨 「202212-III-2-2라」. 충청남도 아산시에는 아산충무병원이 종합병원으로 개설되어 운영 중이며, 인접한 천안시에는 순천향대학교부속 천안병원, 의료법인 영서의료재단 천안충무병원, 충청남도 천안의료원이 종합병원으로, 단국대학교의과대학부속병원이 상급종합병원으로 개설되어 운영 중임 「심사평가원 의료기관 신고자료」. 병상 수 자료는 전체적으로 보유하지 않아 시설별 규모 비교는 불가하며, 시설명, 종별, 의사 수만 제시됨 「심사평가원 의료기관 신고자료」.\n\n[소제목] 최종 진료권 설정 및 신규 시설 진료 수준\n아산 경찰병원은 경찰공무원 특수진료 및 아산시 지역주민 일반의료서비스를 동시에 제공하는 특수목적 공공의료시설임 「사업 기본계획서」.\n경찰공무원 대상 진료는 특수목적 의료시설에 해당하므로 전국을 진료권으로 설정하는 것이 타당함 「202212-III-2-2가; 202212-III-2-특수목적」. 그러나 대상 인력의 이용의향 설문조사 등 수요 전환에 대한 구체적인 자료가 부족하여, 기존 유사 사례 분석을 통한 전환율 조정은 불가능함 「202212-III-2-특수목적」.\n\n지역주민 대상 일반진료의 경우, KDI 세부지침 <표 Ⅲ-1>에 따라 신규 의료시설이 위치한 시/군에 동일 유형의 의료시설이 존재하므로 유형2에 해당됨 「202212-III-2-2가」. 유형2 진료권 설정 방법 중 신규 의료시설이 위치한 시/군으로 진료권을 설정하는 방법을 적용하여 아산시를 진료권에 포함함 「202212-III-2-2가」. 또한, 공공의료시설은 진료권의 범위가 해당 시/군/구 전체 혹은 인접 지역을 포함하는 것이 일반적이므로 「202212-III-2-2가」, 아산시와 지리적으로 인접하고 이동시간이 비교적 짧은 천안시(23분)와 예산군(34분)을 일반진료의 진료권에 포함하는 것이 합리적임 「Kakao Mobility 길찾기 API」.\n\n신규 의료시설은 총 300병상 규모로, 100병상 이상 300병상 이하의 병상 기준을 갖춘 종합병원의 요건에 부합함 「사업 기본계획서; KDI 세부지침 <표 Ⅲ-7>」.\n\n[최종 진료권]\n- 특수목적 진료: 전국\n- 일반진료: 아산시, 천안시, 예산군\n[신규 시설 진료 수준]\n- 종합병원급",
+    "catchment_result": {
+      "특수목적 진료": {
+        "regions": [
+          "00000"
+        ],
+        "names": [
+          "전국"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      },
+      "일반진료": {
+        "regions": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "names": [
+          "아산시",
+          "천안시",
+          "예산군"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "생성 텍스트는 KDI 지침에서 요구하는 진료권 설정의 필요성, 방법론, 결정 요소, 적용 자료, 특수 목적 병원의 특성 등 주요 서술 항목을 모두 적절히 포함하고 있으며, 각 항목에 대한 지침의 내용을 충실히 반영하고 있습니다. 일부 자료의 한계점까지 언급하여 지침의 의도를 정확히 따르고 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "생성 텍스트는 KDI 지침에서 요구하는 진료권 설정의 필요성, 방법론, 결정 요소, 적용 자료, 특수 목적 병원의 특성 등 주요 서술 항목을 모두 적절히 포함하고 있으며, 각 항목에 대한 지침의 내용을 충실히 반영하고 있습니다. 일부 자료의 한계점까지 언급하여 지침의 의도를 정확히 따르고 있습니다.",
+            "attempts": 1
+          }
+        }
+      ],
+      "special_purpose_gate": {
+        "applies": true,
+        "decided": true,
+        "rationale": "사업 정보의 '아산 경찰병원'은 경찰청이 운영 주체이며, '경찰공무원 특수진료'를 사업 목적으로 하여, 지침 정의에서 '경찰 등과 같은 특수 공공인력에 대한 의료서비스 제공을 우선의 목적으로 하는 의료시설'에 해당하고 각주 31)에서 예시로 든 '국립경찰병원'과 유사한 성격을 가지기 때문이다.",
+        "log": {
+          "attempts": 1,
+          "errors": [],
+          "raw": [
+            "```json\n{\n  \"applies\": true,\n  \"rationale\": \"사업 정보의 '아산 경찰병원'은 경찰청이 운영 주체이며, '경찰공무원 특수진료'를 사업 목적으로 하여, 지침 정의에서 '경찰 등과 같은 특수 공공인력에 대한 의료서비스 제공을 우선의 목적으로 하는 의료시설'에 해당하고 각주 31)에서 예시로 든 '국립경찰병원'과 유사한 성격을 가지기 때문이다.\"\n}\n```"
+          ]
+        }
+      },
+      "special_purpose_ruling_given": false,
+      "catchment_parse": {
+        "method": "rule",
+        "llm_log": null,
+        "raw_groups": {
+          "특수목적 진료": [
+            "전국"
+          ],
+          "일반진료": [
+            "아산시",
+            "천안시",
+            "예산군"
+          ]
+        }
+      },
+      "facility_level": {
+        "level": "종합병원급",
+        "source": "§3-2 [신규 시설 진료 수준]"
+      }
+    },
+    "verification_source": {
+      "numbers": {},
+      "inputs": {},
+      "input_sources": {},
+      "unresolved": [],
+      "executed": [],
+      "skipped": {},
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-1",
+        "202212-III-2-1",
+        "202212-III-2-2가",
+        "202212-III-2-2나",
+        "202212-III-2-2다",
+        "202212-III-2-2라",
+        "202212-III-2-특수목적",
+        "202105-VII-1-개요수식",
+        "202105-VII-1-절차",
+        "202105-VII-2-매력도",
+        "202105-VII-2-참여율",
+        "202105-VII-2-쟁점원칙"
+      ],
+      "data_records": [
+        {
+          "type": "population",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2019,
+          "value": 314395,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "population",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2020,
+          "value": 316129,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "population",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2021,
+          "value": 324580,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "population",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2022,
+          "value": 334539,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "population",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2023,
+          "value": 345796,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "population_male",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2023,
+          "value": 180223,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "population_female",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2023,
+          "value": 165573,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "elderly_ratio_pct",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2023,
+          "value": 14.4,
+          "unit": "%",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "elderly_population",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2023,
+          "value": 49677,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "age_total_population",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2023,
+          "value": 345796,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "health_insured",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2019,
+          "value": 327161,
+          "unit": "명",
+          "source": "행정안전부 주민등록 인구통계 + NHIS 건강보험통계연보",
+          "data_tag": "①인구"
+        },
+        {
+          "type": "ri_ALL",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2020,
+          "value": 38.72645658305784,
+          "unit": "PCT",
+          "source": "보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24",
+          "data_tag": "②지역친화도"
+        },
+        {
+          "type": "ri_LONG_TERM_CARE",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2020,
+          "value": 53.64357864357865,
+          "unit": "PCT",
+          "source": "보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24",
+          "data_tag": "②지역친화도"
+        },
+        {
+          "type": "ri_OTHER",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2020,
+          "value": 0.0,
+          "unit": "PCT",
+          "source": "보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24",
+          "data_tag": "②지역친화도"
+        },
+        {
+          "type": "ri_PSYCHIATRIC",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2020,
+          "value": 36.469673405909795,
+          "unit": "PCT",
+          "source": "보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24",
+          "data_tag": "②지역친화도"
+        },
+        {
+          "type": "ri_REHABILITATION",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": 2020,
+          "value": 0.0,
+          "unit": "PCT",
+          "source": "보건복지부 제5차 국민보건의료실태조사(시군구편) Ⅱ.A.24",
+          "data_tag": "②지역친화도"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청남도 아산시",
+          "entity_code": "44200",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청남도 천안시",
+          "entity_code": "44130",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청남도 천안시",
+          "entity_code": "44130",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청남도 천안시",
+          "entity_code": "44130",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청남도 예산군",
+          "entity_code": "44810",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청남도 예산군",
+          "entity_code": "44810",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청남도 예산군",
+          "entity_code": "44810",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경기도 평택시",
+          "entity_code": "41220",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경기도 평택시",
+          "entity_code": "41220",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경기도 평택시",
+          "entity_code": "41220",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청남도 당진시",
+          "entity_code": "44270",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청남도 당진시",
+          "entity_code": "44270",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청남도 당진시",
+          "entity_code": "44270",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청남도 청양군",
+          "entity_code": "44790",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청남도 청양군",
+          "entity_code": "44790",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청남도 청양군",
+          "entity_code": "44790",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청남도 홍성군",
+          "entity_code": "44800",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청남도 홍성군",
+          "entity_code": "44800",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청남도 홍성군",
+          "entity_code": "44800",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청북도 진천군",
+          "entity_code": "43750",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청북도 진천군",
+          "entity_code": "43750",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청북도 진천군",
+          "entity_code": "43750",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경기도 오산시",
+          "entity_code": "41370",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경기도 오산시",
+          "entity_code": "41370",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경기도 오산시",
+          "entity_code": "41370",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청북도 증평군",
+          "entity_code": "43745",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청북도 증평군",
+          "entity_code": "43745",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청북도 증평군",
+          "entity_code": "43745",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "세종특별자치시",
+          "entity_code": "36110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "세종특별자치시",
+          "entity_code": "36110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "세종특별자치시",
+          "entity_code": "36110",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청남도 공주시",
+          "entity_code": "44150",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청남도 공주시",
+          "entity_code": "44150",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청남도 공주시",
+          "entity_code": "44150",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경기도 화성시",
+          "entity_code": "41590",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경기도 화성시",
+          "entity_code": "41590",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경기도 화성시",
+          "entity_code": "41590",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경기도 수원시",
+          "entity_code": "41110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경기도 수원시",
+          "entity_code": "41110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경기도 수원시",
+          "entity_code": "41110",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청북도 청주시",
+          "entity_code": "43110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청북도 청주시",
+          "entity_code": "43110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청북도 청주시",
+          "entity_code": "43110",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경기도 안성시",
+          "entity_code": "41550",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경기도 안성시",
+          "entity_code": "41550",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경기도 안성시",
+          "entity_code": "41550",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경기도 의왕시",
+          "entity_code": "41430",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경기도 의왕시",
+          "entity_code": "41430",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경기도 의왕시",
+          "entity_code": "41430",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경기도 용인시",
+          "entity_code": "41460",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경기도 용인시",
+          "entity_code": "41460",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경기도 용인시",
+          "entity_code": "41460",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청남도 부여군",
+          "entity_code": "44760",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청남도 부여군",
+          "entity_code": "44760",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청남도 부여군",
+          "entity_code": "44760",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경기도 군포시",
+          "entity_code": "41410",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경기도 군포시",
+          "entity_code": "41410",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경기도 군포시",
+          "entity_code": "41410",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청남도 서산시",
+          "entity_code": "44210",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청남도 서산시",
+          "entity_code": "44210",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청남도 서산시",
+          "entity_code": "44210",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "대전광역시 유성구",
+          "entity_code": "30200",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "대전광역시 유성구",
+          "entity_code": "30200",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "대전광역시 유성구",
+          "entity_code": "30200",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청남도 논산시",
+          "entity_code": "44230",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청남도 논산시",
+          "entity_code": "44230",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청남도 논산시",
+          "entity_code": "44230",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "대전광역시 동구",
+          "entity_code": "30110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "대전광역시 동구",
+          "entity_code": "30110",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "대전광역시 동구",
+          "entity_code": "30110",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "대전광역시 서구",
+          "entity_code": "30170",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "대전광역시 서구",
+          "entity_code": "30170",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "대전광역시 서구",
+          "entity_code": "30170",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "경기도 안산시",
+          "entity_code": "41270",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "경기도 안산시",
+          "entity_code": "41270",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "경기도 안산시",
+          "entity_code": "41270",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청북도 괴산군",
+          "entity_code": "43760",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청북도 괴산군",
+          "entity_code": "43760",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청북도 괴산군",
+          "entity_code": "43760",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "대전광역시 대덕구",
+          "entity_code": "30230",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "대전광역시 대덕구",
+          "entity_code": "30230",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "대전광역시 대덕구",
+          "entity_code": "30230",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청북도 옥천군",
+          "entity_code": "43730",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청북도 옥천군",
+          "entity_code": "43730",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청북도 옥천군",
+          "entity_code": "43730",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "straight_distance_km",
+          "entity": "충청남도 계룡시",
+          "entity_code": "44250",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "distance_km",
+          "entity": "충청남도 계룡시",
+          "entity_code": "44250",
+          "year": null,
+          "value": null,
+          "unit": "km",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "travel_time_min",
+          "entity": "충청남도 계룡시",
+          "entity_code": "44250",
+          "year": null,
+          "value": null,
+          "unit": "분",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "meta_distance_rows_omitted",
+          "entity": "HOS_ASAN",
+          "entity_code": null,
+          "year": null,
+          "value": 199,
+          "unit": "개",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "meta_distance_rows_shown",
+          "entity": "HOS_ASAN",
+          "entity_code": null,
+          "year": null,
+          "value": 30,
+          "unit": "개",
+          "source": "Kakao Mobility 길찾기 API",
+          "data_tag": "③거리·이동시간"
+        },
+        {
+          "type": "meta_nearby_region_count",
+          "entity": "HOS_ASAN",
+          "entity_code": null,
+          "year": null,
+          "value": 30,
+          "unit": "개",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "meta_facility_count",
+          "entity": "HOS_ASAN",
+          "entity_code": null,
+          "year": null,
+          "value": 58,
+          "unit": "건",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "아산충무병원",
+          "entity_code": "44200",
+          "year": null,
+          "value": 66,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "아산충무병원",
+          "entity_code": "44200",
+          "year": null,
+          "value": "2015",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "순천향대학교부속 천안병원",
+          "entity_code": "44130",
+          "year": null,
+          "value": 335,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "순천향대학교부속 천안병원",
+          "entity_code": "44130",
+          "year": null,
+          "value": "1982",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 영서의료재단 천안충무병원",
+          "entity_code": "44130",
+          "year": null,
+          "value": 71,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 영서의료재단 천안충무병원",
+          "entity_code": "44130",
+          "year": null,
+          "value": "1996",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "충청남도 천안의료원",
+          "entity_code": "44130",
+          "year": null,
+          "value": 29,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "충청남도 천안의료원",
+          "entity_code": "44130",
+          "year": null,
+          "value": "1988",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "단국대학교의과대학부속병원",
+          "entity_code": "44130",
+          "year": null,
+          "value": 306,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "단국대학교의과대학부속병원",
+          "entity_code": "44130",
+          "year": null,
+          "value": "1994",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 예당의료재단 예산종합병원",
+          "entity_code": "44810",
+          "year": null,
+          "value": 13,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 예당의료재단 예산종합병원",
+          "entity_code": "44810",
+          "year": null,
+          "value": "2007",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 갈렌의료재단 박병원",
+          "entity_code": "41220",
+          "year": null,
+          "value": 23,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 갈렌의료재단 박병원",
+          "entity_code": "41220",
+          "year": null,
+          "value": "2003",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 박애의료재단 박애병원",
+          "entity_code": "41220",
+          "year": null,
+          "value": 16,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 박애의료재단 박애병원",
+          "entity_code": "41220",
+          "year": null,
+          "value": "1982",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 양진의료재단 평택성모병원",
+          "entity_code": "41220",
+          "year": null,
+          "value": 70,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 양진의료재단 평택성모병원",
+          "entity_code": "41220",
+          "year": null,
+          "value": "2015",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인백송의료재단 굿모닝병원",
+          "entity_code": "41220",
+          "year": null,
+          "value": 101,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인백송의료재단 굿모닝병원",
+          "entity_code": "41220",
+          "year": null,
+          "value": "2002",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "당진종합병원",
+          "entity_code": "44270",
+          "year": null,
+          "value": 34,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "당진종합병원",
+          "entity_code": "44270",
+          "year": null,
+          "value": "2011",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "충청남도 홍성의료원",
+          "entity_code": "44800",
+          "year": null,
+          "value": 55,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "충청남도 홍성의료원",
+          "entity_code": "44800",
+          "year": null,
+          "value": "1983",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 건명의료재단 중앙제일병원",
+          "entity_code": "43750",
+          "year": null,
+          "value": 26,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 건명의료재단 중앙제일병원",
+          "entity_code": "43750",
+          "year": null,
+          "value": "1999",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "오산한국병원",
+          "entity_code": "41370",
+          "year": null,
+          "value": 46,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "오산한국병원",
+          "entity_code": "41370",
+          "year": null,
+          "value": "2009",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "조은오산병원",
+          "entity_code": "41370",
+          "year": null,
+          "value": 13,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "조은오산병원",
+          "entity_code": "41370",
+          "year": null,
+          "value": "2016",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "세종충남대학교병원",
+          "entity_code": "36110",
+          "year": null,
+          "value": 132,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "세종충남대학교병원",
+          "entity_code": "36110",
+          "year": null,
+          "value": "2020",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 영제 의료재단 엔케이세종병원",
+          "entity_code": "36110",
+          "year": null,
+          "value": 20,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 영제 의료재단 엔케이세종병원",
+          "entity_code": "36110",
+          "year": null,
+          "value": "2019",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "충청남도 공주의료원",
+          "entity_code": "44150",
+          "year": null,
+          "value": 30,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "충청남도 공주의료원",
+          "entity_code": "44150",
+          "year": null,
+          "value": "1983",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 원광의료재단 원광종합병원",
+          "entity_code": "41590",
+          "year": null,
+          "value": 23,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 원광의료재단 원광종합병원",
+          "entity_code": "41590",
+          "year": null,
+          "value": "2017",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 은혜와감사의료재단 화성중앙종합병원",
+          "entity_code": "41590",
+          "year": null,
+          "value": 16,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 은혜와감사의료재단 화성중앙종합병원",
+          "entity_code": "41590",
+          "year": null,
+          "value": "2004",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "한림대학교동탄성심병원",
+          "entity_code": "41590",
+          "year": null,
+          "value": 286,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "한림대학교동탄성심병원",
+          "entity_code": "41590",
+          "year": null,
+          "value": "2012",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "화성유일병원",
+          "entity_code": "41590",
+          "year": null,
+          "value": 20,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "화성유일병원",
+          "entity_code": "41590",
+          "year": null,
+          "value": "2019",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "경기도의료원 수원병원",
+          "entity_code": "41110",
+          "year": null,
+          "value": 31,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "경기도의료원 수원병원",
+          "entity_code": "41110",
+          "year": null,
+          "value": "1965",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 녹산의료재단동수원병원",
+          "entity_code": "41110",
+          "year": null,
+          "value": 74,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 녹산의료재단동수원병원",
+          "entity_code": "41110",
+          "year": null,
+          "value": "1983",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 명인의료재단 화홍병원",
+          "entity_code": "41110",
+          "year": null,
+          "value": 59,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 명인의료재단 화홍병원",
+          "entity_code": "41110",
+          "year": null,
+          "value": "2020",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 토마스의료재단 윌스기념병원",
+          "entity_code": "41110",
+          "year": null,
+          "value": 65,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 토마스의료재단 윌스기념병원",
+          "entity_code": "41110",
+          "year": null,
+          "value": "2002",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "가톨릭대학교 성빈센트병원",
+          "entity_code": "41110",
+          "year": null,
+          "value": 343,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "가톨릭대학교 성빈센트병원",
+          "entity_code": "41110",
+          "year": null,
+          "value": "1967",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "아주대학교병원",
+          "entity_code": "41110",
+          "year": null,
+          "value": 613,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "아주대학교병원",
+          "entity_code": "41110",
+          "year": null,
+          "value": "1994",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 인화재단 한국병원",
+          "entity_code": "43110",
+          "year": null,
+          "value": 85,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 인화재단 한국병원",
+          "entity_code": "43110",
+          "year": null,
+          "value": "1994",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 정산의료재단 효성병원",
+          "entity_code": "43110",
+          "year": null,
+          "value": 49,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 정산의료재단 효성병원",
+          "entity_code": "43110",
+          "year": null,
+          "value": "1995",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인한마음의료재단하나병원",
+          "entity_code": "43110",
+          "year": null,
+          "value": 82,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인한마음의료재단하나병원",
+          "entity_code": "43110",
+          "year": null,
+          "value": "1998",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "재단법인베스티안재단베스티안병원",
+          "entity_code": "43110",
+          "year": null,
+          "value": 10,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "재단법인베스티안재단베스티안병원",
+          "entity_code": "43110",
+          "year": null,
+          "value": "2018",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "청주성모병원",
+          "entity_code": "43110",
+          "year": null,
+          "value": 71,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "청주성모병원",
+          "entity_code": "43110",
+          "year": null,
+          "value": "1998",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "충청북도 청주의료원",
+          "entity_code": "43110",
+          "year": null,
+          "value": 48,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "충청북도 청주의료원",
+          "entity_code": "43110",
+          "year": null,
+          "value": "1978",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "충북대학교병원",
+          "entity_code": "43110",
+          "year": null,
+          "value": 295,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "충북대학교병원",
+          "entity_code": "43110",
+          "year": null,
+          "value": "1991",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "경기도의료원 안성병원",
+          "entity_code": "41550",
+          "year": null,
+          "value": 27,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "경기도의료원 안성병원",
+          "entity_code": "41550",
+          "year": null,
+          "value": "1983",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "안성성모병원",
+          "entity_code": "41550",
+          "year": null,
+          "value": 27,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "안성성모병원",
+          "entity_code": "41550",
+          "year": null,
+          "value": "1994",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "(의)영문의료재단 다보스병원",
+          "entity_code": "41460",
+          "year": null,
+          "value": 38,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "(의)영문의료재단 다보스병원",
+          "entity_code": "41460",
+          "year": null,
+          "value": "2008",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "강남병원",
+          "entity_code": "41460",
+          "year": null,
+          "value": 43,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "강남병원",
+          "entity_code": "41460",
+          "year": null,
+          "value": "2000",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "연세대학교 의과대학 용인세브란스병원",
+          "entity_code": "41460",
+          "year": null,
+          "value": 237,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "연세대학교 의과대학 용인세브란스병원",
+          "entity_code": "41460",
+          "year": null,
+          "value": "1983",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "원광대학교 산본병원",
+          "entity_code": "41410",
+          "year": null,
+          "value": 52,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "원광대학교 산본병원",
+          "entity_code": "41410",
+          "year": null,
+          "value": "2000",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "효산의료재단 지샘병원",
+          "entity_code": "41410",
+          "year": null,
+          "value": 85,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "효산의료재단 지샘병원",
+          "entity_code": "41410",
+          "year": null,
+          "value": "2013",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "서산중앙병원",
+          "entity_code": "44210",
+          "year": null,
+          "value": 40,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "서산중앙병원",
+          "entity_code": "44210",
+          "year": null,
+          "value": "2006",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "충청남도 서산의료원",
+          "entity_code": "44210",
+          "year": null,
+          "value": 39,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "충청남도 서산의료원",
+          "entity_code": "44210",
+          "year": null,
+          "value": "1989",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인영훈의료재단 유성선병원",
+          "entity_code": "30200",
+          "year": null,
+          "value": 100,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인영훈의료재단 유성선병원",
+          "entity_code": "30200",
+          "year": null,
+          "value": "2007",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 백제병원",
+          "entity_code": "44230",
+          "year": null,
+          "value": 52,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 백제병원",
+          "entity_code": "44230",
+          "year": null,
+          "value": "1982",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "대전한국병원",
+          "entity_code": "30110",
+          "year": null,
+          "value": 35,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "대전한국병원",
+          "entity_code": "30110",
+          "year": null,
+          "value": "2004",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "대청병원",
+          "entity_code": "30170",
+          "year": null,
+          "value": 25,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "대청병원",
+          "entity_code": "30170",
+          "year": null,
+          "value": "2015",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "학교법인 을지학원 대전을지대학교병원",
+          "entity_code": "30170",
+          "year": null,
+          "value": 216,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "학교법인 을지학원 대전을지대학교병원",
+          "entity_code": "30170",
+          "year": null,
+          "value": "1981",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "학교법인 건양교육재단 건양대학교병원",
+          "entity_code": "30170",
+          "year": null,
+          "value": 239,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "학교법인 건양교육재단 건양대학교병원",
+          "entity_code": "30170",
+          "year": null,
+          "value": "1999",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "근로복지공단안산병원",
+          "entity_code": "41270",
+          "year": null,
+          "value": 40,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "근로복지공단안산병원",
+          "entity_code": "41270",
+          "year": null,
+          "value": "1986",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "대아의료재단한도병원",
+          "entity_code": "41270",
+          "year": null,
+          "value": 59,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "대아의료재단한도병원",
+          "entity_code": "41270",
+          "year": null,
+          "value": "2006",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 플러스의료재단 단원병원",
+          "entity_code": "41270",
+          "year": null,
+          "value": 59,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 플러스의료재단 단원병원",
+          "entity_code": "41270",
+          "year": null,
+          "value": "2008",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인칠석의료재단사랑의병원",
+          "entity_code": "41270",
+          "year": null,
+          "value": 39,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인칠석의료재단사랑의병원",
+          "entity_code": "41270",
+          "year": null,
+          "value": "1999",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "고려대학교의과대학부속안산병원",
+          "entity_code": "41270",
+          "year": null,
+          "value": 358,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "고려대학교의과대학부속안산병원",
+          "entity_code": "41270",
+          "year": null,
+          "value": "1986",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "근로복지공단 대전병원",
+          "entity_code": "30230",
+          "year": null,
+          "value": 29,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "근로복지공단 대전병원",
+          "entity_code": "30230",
+          "year": null,
+          "value": "1991",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "대전보훈병원",
+          "entity_code": "30230",
+          "year": null,
+          "value": 41,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "대전보훈병원",
+          "entity_code": "30230",
+          "year": null,
+          "value": "1997",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_physicians",
+          "entity": "의료법인 힐링의료재단 옥천성모병원",
+          "entity_code": "43730",
+          "year": null,
+          "value": 19,
+          "unit": "명",
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        },
+        {
+          "type": "facility_established_year",
+          "entity": "의료법인 힐링의료재단 옥천성모병원",
+          "entity_code": "43730",
+          "year": null,
+          "value": "2015",
+          "unit": null,
+          "source": "심사평가원 의료기관 신고자료",
+          "data_tag": "④유사의료시설"
+        }
+      ],
+      "data_omitted": {},
+      "regions": {},
+      "region_normalization": []
+    }
+  },
+  "3-3-1": {
+    "title": "지역 내 병상이용률·지역친화도·지역환자구성비를 이용한 병상 추정",
+    "passed": true,
+    "text": "[소제목] 병상 규모의 적정성 검토 방법론\n\n예비타당성조사 대상 의료시설의 병상 규모 적정성 검토는 해당 의료시설의 병상 공급 계획에 대한 적정성을 논의하는 것으로 국한됨 「202212-III-3-1」. 진료권 내 잠재 의료 수요를 추정하고 이를 의료공급 현황과 비교하여 의료시설 및 병상 공급의 과소 또는 과잉 여부를 판단하는 방법으로 검토함 「202212-III-3-1」. 의료 수요의 지표로는 통상적으로 진료권 내 '요구되는 병상 수'가 활용됨 「202212-III-3-1」. 요구되는 병상 수는 진료권의 입원 및 외래환자 잠재 규모와 높은 상관관계를 가지며, 대표적인 의료공급지표로 수요-공급 분석에 유용하게 활용됨 「202212-III-3-1」.\n\n[소제목] 연간 입원환자 수 및 병상당 연간 수용 능력 추정\n\n진료권 내 요구되는 병상 수를 추정하기 위해 우선 지역 내 입원환자 중 동일 지역 의료시설을 이용하는 연간 입원환자 규모를 추정함 「202212-III-3-1」. 연간 입원환자 수는 '인구 × 입원의료이용률(일) × 지역친화도' 공식으로 추정됨 「202212-III-3-1」. 입원의료이용률(일)은 진료권에 속하는 지역의 인구 1인당 연평균 입원일수를 의미하며, 지역친화도는 해당 지역 거주 환자 중 동일 지역 의료시설을 이용하는 비율을 의미함 「202212-III-3-1」.\n진료권 내 병상당 수용할 수 있는 연간 입원환자 수는 '병상 이용률 × 365일 × 지역환자구성비' 공식으로 추정됨 「202212-III-3-1」. 이때 병상 이용률은 해당 지역 또는 진료권의 동일 유형 의료시설 평균 병상 이용률을 이용하며, 동일 유형 의료시설이 없는 경우 동일 유형의 전국 평균값 또는 유사 지역의 평균값을 이용함이 적절함 「202212-III-3-1」. 지역환자구성비는 병상당 해당 지역 입원환자들이 이용하게 되는 연간 수용 능력을 추정하는 데 활용됨 「202212-III-3-1」.\n\n[소제목] 지역친화도 및 지역환자구성비 가정\n\n지역친화도와 지역환자구성비는 현재의 특정 지역 병상 수급 수준에 영향을 받는 변수이며, 이용 가능한 자료의 제약 및 정보의 한계로 의료기관 종별 구분 없이 평균적인 지표를 사용할 수밖에 없는 문제점을 지님 「202212-III-3-1」. 이러한 분석상의 문제점을 최소화하기 위하여, 해당 의료시설이 속하게 되는 진료권 내 보건의료서비스의 수준 및 수급 상황을 검토하는 목적을 고려하여 지역친화도와 지역환자구성비를 각각 100%로 가정함이 더 합리적이라고 판단됨 「202212-III-3-1」. 이는 진료권 내 환자들이 모두 진료권 내 의료시설을 이용한다는 가정을 기반으로 함 「202212-III-3-1」. 본 분석에서는 일반진료의 지역친화도(ri)를 1.0으로 가정함 「입력: ri」. 지역환자구성비(ci)도 1.0으로 가정함 「입력: ci」. 경찰특화 진료의 경우에도 지역친화도(special_ri)를 1.0으로 가정하며 「입력: special_ri」, 지역환자구성비(special_ci)도 1.0으로 가정함 「입력: special_ci」.\n\n[소제목] 일반진료권 병상 수요 추정\n\n일반진료권은 충청남도 아산시, 충청남도 천안시, 충청남도 예산군으로 설정됨 「진료권 설정 결과」. 일반진료권의 총 인구는 1,140,318명으로 나타남 「시도추계(v2022) 2029 × 현재(2023) 인구비 안분」. 인구 1인당 연평균 입원일수는 2.1244일로 적용됨 「입력: inpatient_days」.\n이에 따라 일반진료권의 연간 입원환자 수는 2,422,491.5592명으로 산출됨 「계산: annual_inpatient」.\n\n병상당 연간 수용 능력은 병상 이용률에 365일을 곱하여 추정됨 「202212-III-3-1」.\n해당 진료권의 평균 병상이용률(bed_utilization_catchment)을 적용한 경우 병상 이용률은 0.9335로 나타남 「Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/진료권 3개 시군구]」. 이에 따른 병상당 연간 수용 능력은 340.7275명으로 산출됨 「계산: capacity_per_bed_catchment」.\n대상 의료시설 종별에 따른 전국 병상이용률(bed_utilization_national)을 적용한 경우 병상 이용률은 0.9038로 나타남 「Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국]」. 이에 따른 병상당 연간 수용 능력은 329.887명으로 산출됨 「계산: capacity_per_bed_national」. KDI 세부지침은 병상이용률 적용 기준에 대한 우선순위를 정하지 않음 「202212-III-3-1」.\n\n진료권의 요구되는 총 병상 수는 지역의 의료시설을 이용하는 연간 입원환자 수를 병상당 연간 수용 능력으로 나누어 추정됨 「202212-III-3-1」.\n해당 진료권의 평균 병상이용률을 적용한 경우 요구되는 총 병상 수는 7109.762373744414병상으로 나타남 「계산: required_beds_catchment」.\n대상 의료시설 종별에 따른 전국 병상이용률을 적용한 경우 요구되는 총 병상 수는 7343.398070248297병상으로 나타남 「계산: required_beds_national」.\n\n특정 유형의 병상 수요는 전체 병상 수요에 특정 유형 입원환자 비중을 곱하여 추정됨 「202212-III-3-1」. 본 사업의 경우 상급종합병원 및 종합병원급 특정 유형 입원환자 비중은 0.3306으로 적용됨 「전국 (상급종합+종합)÷의료기관및보건기관 내원일수[2023]」.\n해당 진료권의 평균 병상이용률을 적용한 경우 특정 유형 병상 수는 2350.487440759903병상으로 나타남 「계산: specific_type_beds_catchment」.\n대상 의료시설 종별에 따른 전국 병상이용률을 적용한 경우 특정 유형 병상 수는 2427.727402024087병상으로 나타남 「계산: specific_type_beds_national」.\n\n[소제목] 경찰특화진료권 병상 수요 추정\n\n경찰특화진료권은 전국으로 설정됨 「진료권 설정 결과」. 경찰특화진료권의 인구는 146,769명으로 나타남 「경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]」. 인구 1인당 연평균 입원일수는 0.8807일로 적용됨 「경찰 입원 입내원일수÷경찰 인력(평균) [출처: III-23]」.\n이에 따라 경찰특화진료권의 연간 입원환자 수는 129,259.4583명으로 산출됨 「계산: special_annual_inpatient」.\n\n경찰특화진료의 병상이용률은 대상 의료시설 종별에 따른 전국 병상이용률을 적용함 「Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국(지침상 특수목적 진료권=전국)]」. 해당 진료권의 평균 병상이용률(special_bed_utilization_catchment)은 0.9038로 나타남 「Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국(지침상 특수목적 진료권=전국)]」. 대상 의료시설 종별에 따른 전국 병상이용률(special_bed_utilization_national)도 0.9038로 나타남 「Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국(지침상 특수목적 진료권=전국)]」. KDI 세부지침은 병상이용률 적용 기준에 대한 우선순위를 정하지 않음 「202212-III-3-1」.\n두 가지 기준에 따른 병상당 연간 수용 능력은 모두 329.887명으로 산출됨 「계산: special_capacity_per_bed_catchment; 계산: special_capacity_per_bed_national」.\n\n해당 진료권의 평균 병상이용률을 적용한 경우 요구되는 총 병상 수는 391.8295001015499병상으로 나타남 「계산: special_required_beds_catchment」.\n대상 의료시설 종별에 따른 전국 병상이용률을 적용한 경우 요구되는 총 병상 수는 391.8295001015499병상으로 나타남 「계산: special_required_beds_national」.\n\n특정 유형 입원환자 비중은 0.5701로 적용됨 「경찰 종합병원급이상 입원÷전체 입원 입내원일수(자료가 종합병원급이상 단위로만 제공) [출처: III-23]」.\n해당 진료권의 평균 병상이용률을 적용한 경우 특정 유형 병상 수는 223.38199800789363병상으로 나타남 「계산: special_specific_type_beds_catchment」.\n대상 의료시설 종별에 따른 전국 병상이용률을 적용한 경우 특정 유형 병상 수는 223.38199800789363병상으로 나타남 「계산: special_specific_type_beds_national」.",
+    "catchment_result": {
+      "특수목적 진료": {
+        "regions": [
+          "00000"
+        ],
+        "names": [
+          "전국"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      },
+      "일반진료": {
+        "regions": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "names": [
+          "아산시",
+          "천안시",
+          "예산군"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "생성 텍스트는 KDI 세부지침에서 요구하는 병상 규모 적정성 검토의 전제, 두 가지 방법 중 첫 번째 방법의 핵심인 '요구되는 병상 수' 추정 방법, 초기 추정 방식의 문제점 및 이를 해결하기 위한 지역친화도와 지역환자구성비 100% 가정, 특정 유형 병상 수요 추정 등 주요 서술 항목을 모두 적절히 포함하고 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "생성 텍스트는 KDI 세부지침에서 요구하는 병상 규모 적정성 검토의 전제, 두 가지 방법 중 첫 번째 방법의 핵심인 '요구되는 병상 수' 추정 방법, 초기 추정 방식의 문제점 및 이를 해결하기 위한 지역친화도와 지역환자구성비 100% 가정, 특정 유형 병상 수요 추정 등 주요 서술 항목을 모두 적절히 포함하고 있습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {
+        "annual_inpatient": 2422491.5592,
+        "capacity_per_bed_catchment": 340.7275,
+        "capacity_per_bed_national": 329.887,
+        "required_beds_catchment": 7109.762373744414,
+        "required_beds_national": 7343.398070248297,
+        "specific_type_beds_catchment": 2350.487440759903,
+        "specific_type_beds_national": 2427.727402024087,
+        "special_annual_inpatient": 129259.4583,
+        "special_capacity_per_bed_catchment": 329.887,
+        "special_capacity_per_bed_national": 329.887,
+        "special_required_beds_catchment": 391.8295001015499,
+        "special_required_beds_national": 391.8295001015499,
+        "special_specific_type_beds_catchment": 223.38199800789363,
+        "special_specific_type_beds_national": 223.38199800789363
+      },
+      "inputs": {
+        "population": 1140318,
+        "inpatient_days": 2.1244,
+        "bed_utilization_catchment": 0.9335,
+        "bed_utilization_national": 0.9038,
+        "type_share": 0.3306,
+        "ri": 1.0,
+        "ci": 1.0,
+        "special_ri": 1.0,
+        "special_ci": 1.0,
+        "special_population": 146769,
+        "special_inpatient_days": 0.8807,
+        "special_type_share": 0.5701,
+        "special_bed_utilization_catchment": 0.9038,
+        "special_bed_utilization_national": 0.9038
+      },
+      "input_sources": {
+        "population": "시도추계(v2022) 2029 × 현재(2023) 인구비 안분",
+        "bed_utilization_catchment": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/진료권 3개 시군구]",
+        "bed_utilization_national": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국]",
+        "type_share": "전국 (상급종합+종합)÷의료기관및보건기관 내원일수[2023]",
+        "special_population": "경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]",
+        "special_inpatient_days": "경찰 입원 입내원일수÷경찰 인력(평균) [출처: III-23]",
+        "special_type_share": "경찰 종합병원급이상 입원÷전체 입원 입내원일수(자료가 종합병원급이상 단위로만 제공) [출처: III-23]",
+        "special_bed_utilization_catchment": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국(지침상 특수목적 진료권=전국)]",
+        "special_bed_utilization_national": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국(지침상 특수목적 진료권=전국)]"
+      },
+      "unresolved": [],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national",
+        "special_annual_inpatient_method1",
+        "special_delta_beds_method2",
+        "special_local_per_1000",
+        "special_capacity_per_bed_catchment",
+        "special_capacity_per_bed_national",
+        "special_required_beds_method1_catchment",
+        "special_required_beds_method1_national",
+        "special_specific_type_beds_catchment",
+        "special_specific_type_beds_national"
+      ],
+      "skipped": {
+        "special_emergency_deaths": [
+          "death_rate"
+        ],
+        "special_preventable_deaths": [
+          "emergency_deaths",
+          "death_rate_reduction"
+        ],
+        "special_death_rate_reduction": [
+          "bed_increase_rate_pct",
+          "elasticity"
+        ],
+        "special_annual_inpatient_facility_catchment": [
+          "beds"
+        ],
+        "special_annual_inpatient_facility_national": [
+          "beds"
+        ],
+        "special_annual_outpatient_catchment": [
+          "annual_inpatient_facility_catchment"
+        ],
+        "special_annual_outpatient_national": [
+          "annual_inpatient_facility_national"
+        ]
+      },
+      "seed_sources": {
+        "special_population": "경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]",
+        "special_inpatient_days": "경찰 입원 입내원일수÷경찰 인력(평균) [출처: III-23]",
+        "special_type_share": "경찰 종합병원급이상 입원÷전체 입원 입내원일수(자료가 종합병원급이상 단위로만 제공) [출처: III-23]",
+        "special_bed_utilization_catchment": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국(지침상 특수목적 진료권=전국)]",
+        "special_bed_utilization_national": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국(지침상 특수목적 진료권=전국)]"
+      },
+      "guideline_chunk_ids": [
+        "202212-III-3-1"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "special": [
+          "00000"
+        ]
+      },
+      "region_normalization": []
+    }
+  },
+  "3-3-2": {
+    "title": "지역별 인구 대비 병상 공급량에 기반한 적정 병상 규모 추정",
+    "passed": true,
+    "text": "[소제목] 인구 대비 병상 공급량 기반 적정 병상 규모 추정\n\n진료권 내 보정인구 대비 보건의료지표를 산출하고 이를 전국 평균 또는 유사 지역과 비교하여 보건의료수준의 취약성 여부를 판단함 「202212-III-3-2」. 예비타당성조사 대상 의료시설의 규모를 감안하여 종합병원급 이상으로 가정하여 방법론을 제시함 「202212-III-3-2」. 2021년 1사분기 현재 종합병원급 이상의 의료기관을 대상으로 한 인구 1,000명당 병상 수의 전국 평균치인 2.96병상을 적정 병상 공급량으로 상정하여 분석을 진행함 「202212-III-3-2」. 적정 병상 규모는 모든 지역에 보편적인 의료서비스를 제공한다는 정부의 정책 방향을 고려하였을 때, 지역별 인구 1,000명당 병상 수와 전국 평균치를 비교하여 그 차이만큼은 우선적으로 병상 공급 확충을 통해 충당되어야 한다는 개념임 「202212-III-3-2」.\n\n전국 평균치 대비 추가 소요 병상 규모 계산 공식은 다음과 같음: Δ병상 = (Diff. / 1,000) × 지역인구로, 여기서 Δ병상는 추가 소요 병상 수, Diff.는 인구 1,000명당 병상 수의 전국 평균과 지역 값의 차이임 「202212-III-3-2」.\n\n[소제목] 일반진료 병상 규모의 적정성 검토\n\n일반진료 진료권은 충청남도 아산시, 충청남도 천안시, 충청남도 예산군으로 구성됨 「진료권 설정 결과」. 해당 진료권의 총인구는 1,140,318명으로 나타남 「시도추계(v2022) 2029 × 현재(2023) 인구비 안분」.\n\n인구 1,000명당 병상 수(local_per_1000)는 2.81병상으로 나타남 「계산: local_per_1000」. 이는 전국 평균치 2.96병상 「입력: national_per_1000」 대비 0.15병상 부족한 수치임 「202212-III-3-2」.\n\n위 공식을 적용하여 산출된 추가 소요 병상 규모(delta_beds)는 약 171.05병상으로 나타남 「계산: delta_beds」.\n\n[소제목] 특수목적 진료 병상 규모의 적정성 검토\n\n특수목적 진료 진료권은 전국으로 구성됨 「진료권 설정 결과」. 해당 진료권의 특수목적 인구(경찰공무원)는 146,769명으로 나타남 「경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]」.\n\n현재 공급되고 있는 특수목적 병상 수는 377.0병상으로 나타남 「국립경찰병원 본원 허가병상수 377병상 [출처: III-39]」. 인구 1,000명당 특수목적 병상 수(special_local_per_1000)는 약 2.569병상으로 나타남 「계산: special_local_per_1000」. 이는 전국 평균치 2.96병상 「입력: special_national_per_1000」 대비 0.391병상 부족한 수치임 「202212-III-3-2」.\n\n위 공식을 적용하여 산출된 추가 소요 병상 규모(special_delta_beds)는 약 57.44병상으로 나타남 「계산: special_delta_beds」.\n\n[소제목] 병상 수요 추정의 한계점 및 보완적 검토 필요성\n\n병상 수요 추정은 다양한 의료 수요를 반영하지 못한다는 단점을 내포하고 있음 「202212-III-3-2」. 병상 수요라는 개념은 진료권 내의 단순한 평균적인 의료 수요를 고려하는 방법이며, 특정 질병 양상, 치료, 응급의료 등과 같은 의료 수요를 대표한다고 판단하기는 어려움 「202212-III-3-2」.\n\n병상 수요의 주요 변수인 입원 의료이용률은 진료권 내 의료시설 규모와 접근성, 이용자들의 의료시설 및 의료서비스 이용 인식 등에 따라 결정되는 내생적인 측면이 있음 「202212-III-3-2」. 또한, 진료권 내 이용자들의 질환별 의료서비스 이용 상세자료 파악이 어려운 경우 입원 의료이용률의 평균치를 적용하게 되어, 궁극적으로 의료시설이 부족한 경우 실제 수요를 과소 추정할 개연성이 존재함 「202212-III-3-2」.\n\n따라서 진료권의 보건의료수준 현황을 보완적으로 검토하는 것이 필요함 「202212-III-3-2」. 해당 진료권에 대하여 조사망률, 원인별 사망률, 원인별 발생률 및 유병률, 영아사망률, 인구 1인당 병상 수, 전문의 수, 유형별 의료시설 수, 응급의료 현황 등의 보건의료지표를 산출하여 전국 평균값 또는 유사 진료권의 평균값 등과 비교 검토하는 것이 요구됨 「202212-III-3-2」.\n\n지역 간 비교 검토를 위해 인구 1인당 지표를 사용할 때, 각 지표는 인구 구조에 영향을 받는 변수임 「202212-III-3-2」. 예를 들어, 인구 고령화가 심한 지역은 사망률이나 유병률이 높을 수 있으며, 이것이 반드시 보건의료지표가 낮다고 단정할 수 없음 「202212-III-3-2」. 인구 1인당 지표는 모든 사람들의 의료 수요가 동일하다는 가정을 기반으로 하지만, 실제로 연령별, 성별에 따라 의료 수요가 다름 「202212-III-3-2」. 따라서 인구 1인당 지표를 산출함에 있어 표준화된 인구수 또는 보정인구를 사용할 필요가 있음 「202212-III-3-2」.\n\n보정인구(N_k)는 성별/연령별 상대적 의료이용도를 고려하기 위하여 성별/연령별 입원의료이용 가중치(W_ij)를 구하여, 주민등록인구에 적용하는 방법으로 산출됨 「202212-III-3-2」. 입원의료가중치(W_ij)는 {(U_ij / P_ij) / Σ_iΣ_j(U_ij / P_ij)}으로 계산되며, 여기서 i는 성별, j는 연령별, U는 의료서비스 이용량, P는 인구수임 「202212-III-3-2」. k 지역의 보정인구(N_k)는 Σ_iΣ_j(W_ij × P_ij_k)로 계산되며, 여기서 P_ij_k는 k 지역의 성별/연령별 인구수임 「202212-III-3-2」.",
+    "catchment_result": {
+      "특수목적 진료": {
+        "regions": [
+          "00000"
+        ],
+        "names": [
+          "전국"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      },
+      "일반진료": {
+        "regions": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "names": [
+          "아산시",
+          "천안시",
+          "예산군"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "생성 텍스트는 KDI 지침에서 요구하는 적정 병상 규모 추정 방법론, 계산 공식, 병상 수요 추정의 한계점, 보완적 검토 필요성, 그리고 보정인구 산출 방법 등 핵심 서술 항목을 모두 충실히 포함하고 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "생성 텍스트는 KDI 지침에서 요구하는 적정 병상 규모 추정 방법론, 계산 공식, 병상 수요 추정의 한계점, 보완적 검토 필요성, 그리고 보정인구 산출 방법 등 핵심 서술 항목을 모두 충실히 포함하고 있습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {
+        "delta_beds": 171.0476999999999,
+        "local_per_1000": 2.81,
+        "special_delta_beds": 57.436240000000026,
+        "special_local_per_1000": 2.568662319699664
+      },
+      "inputs": {
+        "population": 1140318,
+        "national_per_1000": 2.96,
+        "special_population": 146769,
+        "special_supply_beds": 377.0,
+        "special_national_per_1000": 2.96
+      },
+      "input_sources": {
+        "population": "시도추계(v2022) 2029 × 현재(2023) 인구비 안분",
+        "special_population": "경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]",
+        "special_supply_beds": "국립경찰병원 본원 허가병상수 377병상 [출처: III-39]"
+      },
+      "unresolved": [],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national",
+        "special_annual_inpatient_method1",
+        "special_delta_beds_method2",
+        "special_local_per_1000",
+        "special_capacity_per_bed_catchment",
+        "special_capacity_per_bed_national",
+        "special_required_beds_method1_catchment",
+        "special_required_beds_method1_national",
+        "special_specific_type_beds_catchment",
+        "special_specific_type_beds_national"
+      ],
+      "skipped": {
+        "special_emergency_deaths": [
+          "death_rate"
+        ],
+        "special_preventable_deaths": [
+          "emergency_deaths",
+          "death_rate_reduction"
+        ],
+        "special_death_rate_reduction": [
+          "bed_increase_rate_pct",
+          "elasticity"
+        ],
+        "special_annual_inpatient_facility_catchment": [
+          "beds"
+        ],
+        "special_annual_inpatient_facility_national": [
+          "beds"
+        ],
+        "special_annual_outpatient_catchment": [
+          "annual_inpatient_facility_catchment"
+        ],
+        "special_annual_outpatient_national": [
+          "annual_inpatient_facility_national"
+        ]
+      },
+      "seed_sources": {
+        "special_population": "경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]",
+        "special_supply_beds": "국립경찰병원 본원 허가병상수 377병상 [출처: III-39]"
+      },
+      "guideline_chunk_ids": [
+        "202212-III-3-2"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "special": [
+          "00000"
+        ]
+      },
+      "region_normalization": []
+    }
+  },
+  "3-4-1": {
+    "title": "연간 입원환자 수의 추정",
+    "passed": true,
+    "text": "병상 수요는 진료권 내 의료 수요를 검토하는 지표이며, 이는 실제 의료시설을 이용하는 환자 수를 의미하지 않음 「202212-III-4-1」. 해당 의료시설에 실제 방문하여 진단 후 입원하는 연간 입원환자 수는 가동 가능한 의료서비스 생산용량 범위 내에서 보유 병상 수와 병상 이용률을 고려하여 추정됨 「202212-III-4-1」. 연간 입원환자 수는 '병상수 × 병상이용률 × 365일'의 추정식을 따름 「202212-III-4-1」.\n\n위 추정식에서 병상이용률은 가장 중요한 변수로 판단됨 「202212-III-4-1」. 신규 의료시설의 경우 기존 병상이용률 정보가 없어 추정이 필요함 「202212-III-4-1」. 기존 예비타당성조사에서는 해당 진료권의 평균값, 대상 의료시설의 종별에 따른 병상이용률, 또는 유사 의료시설의 병상이용률을 통상적으로 이용해 왔음 「202212-III-4-1」. 신규 의료시설의 병상이용률은 진료권 내 병상 공급 현황을 최대한 고려하여 추정되어야 함 「202212-III-4-1」.\n\n아산 경찰병원 건립사업의 총 병상은 300병상으로 계획됨 「사업 기본계획서; 입력: beds」.\n\n해당 진료권(충청남도 아산시, 충청남도 천안시, 충청남도 예산군)의 평균 병상이용률은 0.9335로 나타남 「진료권 설정 결과; 입력: bed_utilization_catchment」. 이는 진료권 내 3개 시군구 종합병원 300병상 이상 499병상 미만 규모의 2016년부터 2020년까지 평균 재원일수와 허가 병상수를 기준으로 산출된 값임 「입력: bed_utilization_catchment」. 해당 진료권의 평균 병상이용률을 적용한 경우 연간 입원환자 수는 102,218.25명으로 추정됨 「계산: annual_inpatient_facility_catchment」.\n\n대상 의료시설 종별에 따른 전국 병상이용률은 0.9038로 나타남 「입력: bed_utilization_national」. 이는 전국 종합병원 300병상 이상 499병상 미만 규모의 2016년부터 2020년까지 평균 재원일수와 허가 병상수를 기준으로 산출된 값임 「입력: bed_utilization_national」. 대상 의료시설 종별에 따른 전국 병상이용률을 적용한 경우 연간 입원환자 수는 98,966.10명으로 추정됨 「계산: annual_inpatient_facility_national」.\n\nKDI 세부지침은 병상이용률 추정 시 해당 진료권의 평균값이나 대상 의료시설의 종별에 따른 전국값을 우선하여 적용해야 한다고 명시하지 않음 「202212-III-4-1」.\n\n[소제목] 특수목적 진료권 연간 입원환자 수 추정\n특수목적 진료권은 전국으로 설정됨 「진료권 설정 결과」.\n경찰공무원 등 특수목적 진료 대상 인구는 146,769명으로 추정됨 「경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]; 입력: special_population」.\n특수목적 진료의 병상이용률은 해당 진료권 평균 병상이용률과 대상 의료시설 종별에 따른 전국 병상이용률 모두 0.9038로 적용됨 「입력: special_bed_utilization_catchment; 입력: special_bed_utilization_national」. 이 값은 전국 종합병원 300병상 이상 499병상 미만 규모의 2016년부터 2020년까지 평균 재원일수와 허가 병상수를 기준으로 산출된 값임 「입력: special_bed_utilization_catchment; 입력: special_bed_utilization_national」.\n그러나 특수목적 진료권에 대한 연간 입원환자 수는 산출되지 않았음. 이는 해당 진료를 위한 병상수가 확보된 입력값으로 제공되지 않았기 때문임.",
+    "catchment_result": {
+      "특수목적 진료": {
+        "regions": [
+          "00000"
+        ],
+        "names": [
+          "전국"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      },
+      "일반진료": {
+        "regions": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "names": [
+          "아산시",
+          "천안시",
+          "예산군"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 3,
+        "reason": "생성 텍스트는 지침의 연간 입원환자 수 정의, 추정식, 병상 이용률의 중요성 및 신규 시설 추정 방법 등 주요 항목들을 대부분 포함하고 있으나, 병상 이용률 자료의 민감성과 이로 인한 직접 획득 불가능성 등 일부 서술 항목이 누락되었습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 3,
+            "reason": "생성 텍스트는 지침의 연간 입원환자 수 정의, 추정식, 병상 이용률의 중요성 및 신규 시설 추정 방법 등 주요 항목들을 대부분 포함하고 있으나, 병상 이용률 자료의 민감성과 이로 인한 직접 획득 불가능성 등 일부 서술 항목이 누락되었습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {
+        "annual_inpatient_facility_catchment": 102218.25,
+        "annual_inpatient_facility_national": 98966.09999999999
+      },
+      "inputs": {
+        "population": 1140318,
+        "bed_utilization_catchment": 0.9335,
+        "bed_utilization_national": 0.9038,
+        "beds": 300,
+        "special_population": 146769,
+        "special_bed_utilization_catchment": 0.9038,
+        "special_bed_utilization_national": 0.9038
+      },
+      "input_sources": {
+        "population": "시도추계(v2022) 2029 × 현재(2023) 인구비 안분",
+        "bed_utilization_catchment": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/진료권 3개 시군구]",
+        "bed_utilization_national": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국]",
+        "beds": "사업계획서 총 병상 300병상 (지침 §3-4-1 '보유하게 되는 병상 수')",
+        "special_population": "경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]",
+        "special_bed_utilization_catchment": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국(지침상 특수목적 진료권=전국)]",
+        "special_bed_utilization_national": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국(지침상 특수목적 진료권=전국)]"
+      },
+      "unresolved": [
+        "[특수목적 진료권] 연간 입원환자 수(시설) = 병상수 × 병상이용률 × 365 [대상 의료시설 종별에 따른 전국 병상이용률 기준] → 산출되지 않음 (확보되지 않은 입력: beds)",
+        "[특수목적 진료권] 연간 입원환자 수(시설) = 병상수 × 병상이용률 × 365 [해당 진료권의 평균 병상이용률 기준] → 산출되지 않음 (확보되지 않은 입력: beds)"
+      ],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national",
+        "special_annual_inpatient_method1",
+        "special_delta_beds_method2",
+        "special_local_per_1000",
+        "special_capacity_per_bed_catchment",
+        "special_capacity_per_bed_national",
+        "special_required_beds_method1_catchment",
+        "special_required_beds_method1_national",
+        "special_specific_type_beds_catchment",
+        "special_specific_type_beds_national"
+      ],
+      "skipped": {
+        "special_emergency_deaths": [
+          "death_rate"
+        ],
+        "special_preventable_deaths": [
+          "emergency_deaths",
+          "death_rate_reduction"
+        ],
+        "special_death_rate_reduction": [
+          "bed_increase_rate_pct",
+          "elasticity"
+        ],
+        "special_annual_inpatient_facility_catchment": [
+          "beds"
+        ],
+        "special_annual_inpatient_facility_national": [
+          "beds"
+        ],
+        "special_annual_outpatient_catchment": [
+          "annual_inpatient_facility_catchment"
+        ],
+        "special_annual_outpatient_national": [
+          "annual_inpatient_facility_national"
+        ]
+      },
+      "seed_sources": {
+        "special_population": "경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]",
+        "special_bed_utilization_catchment": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국(지침상 특수목적 진료권=전국)]",
+        "special_bed_utilization_national": "Σ재원일수÷(Σ허가병상×연간일수, 윤년 366) [종합병원/300~499병상/[2016, 2017, 2018, 2019, 2020](mean)/전국(지침상 특수목적 진료권=전국)]"
+      },
+      "guideline_chunk_ids": [
+        "202212-III-4-1"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "special": [
+          "00000"
+        ]
+      },
+      "region_normalization": []
+    }
+  },
+  "3-4-2": {
+    "title": "연간 외래환자 수의 추정",
+    "passed": true,
+    "text": "[소제목] 연간 외래환자 수의 추정\n\n연간 외래환자 수는 두 가지 방법론에 따라 추정이 가능함 「202212-III-4-2」. 첫째는 입원환자 수와 외래환자 수의 배율을 이용하는 방법이며, 둘째는 외래환자의 진료 현황을 활용하는 방법임 「202212-III-4-2」.\n\n첫 번째 추정 방법은 입원환자 수와 외래환자 수 간에 일정한 배율이 성립한다는 가정에 기반을 둠 「202212-III-4-2」. 이 방법론은 '연간 외래환자 수 = 연간 입원환자 수 추정치 × 입원 대비 외래환자 배율'의 추정식을 따름 「202212-III-4-2」. 입원 대비 외래환자 배율은 8.1657로 나타남 「입력: outpatient_ratio」. 그러나 입원 대비 외래환자 배율은 의료시설의 유형과 진료권의 특성에 따라 다를 수 있으며, 특정한 의료시설의 배율을 활용할 경우 오차를 유발할 수 있음 「202212-III-4-2」. 특수목적 진료권인 전국을 기준으로 한 연간 외래환자 수는 808,127.48명으로 나타남 「계산: annual_outpatient_national; 진료권 설정 결과」. 일반진료권(충청남도 아산시, 충청남도 천안시, 충청남도 예산군)의 연간 외래환자 수는 834,683.56명으로 나타남 「계산: annual_outpatient_catchment; 진료권 설정 결과」. 특수목적 진료권의 연간 외래환자 수는 대상 의료시설 종별에 따른 전국 병상이용률 기준 또는 해당 진료권의 평균 병상이용률 기준으로 연간 입원환자 수(시설) 등 필요한 입력이 확보되지 않아 산출되지 않았음.\n\n두 번째 추정 방법은 외래진료량을 결정하는 진료지표를 이용하는 방법임 「202212-III-4-2」. 이 방법론은 '연간 외래환자 수 = 진료의사수 × 의사1인당 연평균 진료시간 × 시간당 진료환자 수'의 추정식을 따름 「202212-III-4-2」. 그러나 이러한 추정 방법론은 사업평가 기간 동안 진료의사 수의 변화 또는 진료시간의 변화를 반영할 수 없다는 단점을 가짐 「202212-III-4-2」. 또한, 이 방법론에 따른 외래환자 수를 추정하기 위한 진료의사수, 의사 1인당 연평균 진료시간, 시간당 진료환자 수 등의 자료는 확보되지 않아 추정되지 않았음.",
+    "catchment_result": {
+      "특수목적 진료": {
+        "regions": [
+          "00000"
+        ],
+        "names": [
+          "전국"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      },
+      "일반진료": {
+        "regions": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "names": [
+          "아산시",
+          "천안시",
+          "예산군"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "지침에서 요구하는 두 가지 방법론의 소개, 각 방법론의 가정, 추정식, 그리고 한계점까지 모든 주요 서술 항목이 적절히 포함되어 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "지침에서 요구하는 두 가지 방법론의 소개, 각 방법론의 가정, 추정식, 그리고 한계점까지 모든 주요 서술 항목이 적절히 포함되어 있습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {
+        "annual_inpatient_facility_catchment": 102218.25,
+        "annual_inpatient_facility_national": 98966.09999999999,
+        "annual_outpatient_catchment": 834683.564025,
+        "annual_outpatient_national": 808127.4827699999
+      },
+      "inputs": {
+        "population": 1140318,
+        "outpatient_ratio": 8.1657,
+        "special_population": 146769
+      },
+      "input_sources": {
+        "population": "시도추계(v2022) 2029 × 현재(2023) 인구비 안분",
+        "outpatient_ratio": "진료권 Σ외래÷Σ입원 내원일수[2023]",
+        "special_population": "경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]"
+      },
+      "unresolved": [
+        "[특수목적 진료권] 연간 외래환자 수 = 연간 입원환자 수(시설) × 입원대비외래 배율 [대상 의료시설 종별에 따른 전국 병상이용률 기준] → 산출되지 않음 (확보되지 않은 입력: annual_inpatient_facility_national)",
+        "[특수목적 진료권] 연간 외래환자 수 = 연간 입원환자 수(시설) × 입원대비외래 배율 [해당 진료권의 평균 병상이용률 기준] → 산출되지 않음 (확보되지 않은 입력: annual_inpatient_facility_catchment)",
+        "[특수목적 진료권] 연간 입원환자 수(시설) = 병상수 × 병상이용률 × 365 [대상 의료시설 종별에 따른 전국 병상이용률 기준] → 산출되지 않음 (확보되지 않은 입력: beds)",
+        "[특수목적 진료권] 연간 입원환자 수(시설) = 병상수 × 병상이용률 × 365 [해당 진료권의 평균 병상이용률 기준] → 산출되지 않음 (확보되지 않은 입력: beds)"
+      ],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national",
+        "special_annual_inpatient_method1",
+        "special_delta_beds_method2",
+        "special_local_per_1000",
+        "special_capacity_per_bed_catchment",
+        "special_capacity_per_bed_national",
+        "special_required_beds_method1_catchment",
+        "special_required_beds_method1_national",
+        "special_specific_type_beds_catchment",
+        "special_specific_type_beds_national"
+      ],
+      "skipped": {
+        "special_emergency_deaths": [
+          "death_rate"
+        ],
+        "special_preventable_deaths": [
+          "emergency_deaths",
+          "death_rate_reduction"
+        ],
+        "special_death_rate_reduction": [
+          "bed_increase_rate_pct",
+          "elasticity"
+        ],
+        "special_annual_inpatient_facility_catchment": [
+          "beds"
+        ],
+        "special_annual_inpatient_facility_national": [
+          "beds"
+        ],
+        "special_annual_outpatient_catchment": [
+          "annual_inpatient_facility_catchment"
+        ],
+        "special_annual_outpatient_national": [
+          "annual_inpatient_facility_national"
+        ]
+      },
+      "seed_sources": {
+        "special_population": "경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]"
+      },
+      "guideline_chunk_ids": [
+        "202212-III-4-2"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "special": [
+          "00000"
+        ]
+      },
+      "region_normalization": []
+    }
+  },
+  "3-4-3": {
+    "title": "신규 유입 환자규모 추정",
+    "passed": true,
+    "text": "진료권 내에 특정 유형의 의료시설이 없는 경우, 진료권의 환자들은 원거리 의료시설을 이용하게 됨 「202212-III-4-3」. 이러한 상황에서 의료시설이 신설되면 기존의 원거리 의료시설을 이용하던 환자 가운데 일부가 진료권 내의 신설 의료시설로 이용을 전환하는 경우가 발생함 「202212-III-4-3」. 이전에 원거리 이용 자체에 대한 불편 등으로 인하여 해당 의료시설 자체를 이용하지 않았던 환자들 가운데 일부는 신설 의료시설의 신규 유입 환자가 될 수 있음 「202212-III-4-3」.\n\n의료시설 건립에 대한 편익 가운데 일부는 전체 입원 및 외래환자 중 기존에 특정 의료시설을 이용하던 집단 또는 신규 집단에서만 발생한다고 파악될 수 있음 「202212-III-4-3」. 예를 들어, 원거리 의료시설 이용에 따른 시간 및 교통비 절감 편익은 실제 원거리 이용 환자 중 이용을 전환하는 환자에게서만 발생함 「202212-III-4-3」. 따라서 앞 절에서 추정한 연간 입원 및 외래환자 중 신규로 유입되는 환자의 비중을 추정할 필요가 있음 「202212-III-4-3」.\n\n[소제목] 신규 유입 환자규모 추정 방법\n\n신규로 유입되는 환자의 비중을 추정하는 방법 가운데 하나는 유사사례를 적용하는 간편법임 「202212-III-4-3」. 기존의 유사한 의료시설 건립사업이 있었다면 사업 종료 후 해당 진료권 내 의료시설 신설에 따라 환자 규모가 증가하였는지를 검토한 후 이를 적용할 수 있음 「202212-III-4-3」.\n\n다른 방법으로는 의료시설이 신설되는 진료권 내 주민들에 대한 설문조사를 통해 기존의 의료이용에 대한 패턴을 조사하고 의료시설이 들어서면 신규 이용에 대한 의향 및 선호를 묻는 설문 결과를 활용할 수도 있음 「202212-III-4-3」. 그러나 설문의 과정에서 표출된 응답자의 의향이 의료시설 건립 이후 실제로 의료이용 행태의 변화로 발현될 것인지는 예측하기 어려움 「202212-III-4-3」. 따라서 이러한 방법론을 적용함에 있어서는 많은 주의가 요구됨 「202212-III-4-3」.\n\n본 사업의 일반진료 진료권은 충청남도 아산시, 충청남도 천안시, 충청남도 예산군으로 설정됨 「진료권 설정 결과」. 특수목적 진료권은 전국으로 설정됨 「진료권 설정 결과」. 아산 경찰병원은 경찰공무원 특수진료와 아산시 지역주민 일반의료서비스를 제공할 예정임 「사업 기본계획서」.",
+    "catchment_result": {
+      "특수목적 진료": {
+        "regions": [
+          "00000"
+        ],
+        "names": [
+          "전국"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      },
+      "일반진료": {
+        "regions": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "names": [
+          "아산시",
+          "천안시",
+          "예산군"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "생성 텍스트는 KDI 지침에서 요구하는 신규 유입 환자 규모 추정의 배경, 필요성, 그리고 간편법 및 설문조사 방법론과 그에 따른 주의사항 등 주요 항목들을 모두 충실히 포함하고 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "생성 텍스트는 KDI 지침에서 요구하는 신규 유입 환자 규모 추정의 배경, 필요성, 그리고 간편법 및 설문조사 방법론과 그에 따른 주의사항 등 주요 항목들을 모두 충실히 포함하고 있습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {},
+      "inputs": {},
+      "input_sources": {},
+      "unresolved": [],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national",
+        "special_annual_inpatient_method1",
+        "special_delta_beds_method2",
+        "special_local_per_1000",
+        "special_capacity_per_bed_catchment",
+        "special_capacity_per_bed_national",
+        "special_required_beds_method1_catchment",
+        "special_required_beds_method1_national",
+        "special_specific_type_beds_catchment",
+        "special_specific_type_beds_national"
+      ],
+      "skipped": {
+        "special_emergency_deaths": [
+          "death_rate"
+        ],
+        "special_preventable_deaths": [
+          "emergency_deaths",
+          "death_rate_reduction"
+        ],
+        "special_death_rate_reduction": [
+          "bed_increase_rate_pct",
+          "elasticity"
+        ],
+        "special_annual_inpatient_facility_catchment": [
+          "beds"
+        ],
+        "special_annual_inpatient_facility_national": [
+          "beds"
+        ],
+        "special_annual_outpatient_catchment": [
+          "annual_inpatient_facility_catchment"
+        ],
+        "special_annual_outpatient_national": [
+          "annual_inpatient_facility_national"
+        ]
+      },
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-4-3"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "special": [
+          "00000"
+        ]
+      },
+      "region_normalization": []
+    }
+  },
+  "3-5-1": {
+    "title": "응급사망 기초자료 분석",
+    "passed": true,
+    "text": "대규모 의료시설 건립 시 응급의료시설을 함께 건립하는 경우가 많음 「202212-III-5-1」. 지역 응급의료시설 확충은 지역주민의 응급사망률 감소에 기여할 수 있음 「202212-III-5-1」. 응급사망감소에 따른 경제적 편익은 의료 부문 사업 총 편익에서 큰 비중을 차지함 「202212-III-5-1」. 따라서 진료권 내 응급의료시설 현황, 응급환자 및 사망자 현황과 추이, 응급의료시설 신설로 인한 응급사망자 감소 추정은 필수적임 「202212-III-5-1」.\n\n[소제목] 기초자료 분석\n기초자료 분석은 진료권 응급의료서비스의 양적 측면과 질적 측면으로 나누어 검토됨 「202212-III-5-1」.\n\n[소제목] 양적 측면 분석\n응급의료서비스의 양적 측면은 응급의료 시설현황을 이용하여 평가 가능함 「202212-III-5-1」. 진료권 인구 1인당 응급의료시설 수, 인구 1인당 응급병상 수, 응급구조사 규모, 구급차 현황, 평균 환자 후송시간 등이 평가 지표로 이용됨 「202212-III-5-1」. 관련 자료는 보건복지부, 중앙응급의료센터 공공보건의료본부, 소방방재청, 건강보험심사평가원 등에서 수집 가능하며, 1인당 수치 자료 산출 시 보정인구를 이용해야 함 「202212-III-5-1」.\n우리나라의 응급의료기관은 2019년 말 기준 시설 규모와 기능에 따라 권역응급의료센터, 지역응급의료센터, 지역응급의료기관, 응급의료기관 외 의료기관 등 4가지로 구분됨 「202212-III-5-1」. 권역응급의료센터는 복잡하고 중한 응급환자 치료를, 지역응급의료센터는 중등도 응급환자 치료를 목적으로 함 「202212-III-5-1」. 전문응급의료센터는 중증외상, 화상, 독극물과 같은 특화된 응급환자 치료를 목적으로 하며, 2019년 말 기준 전국에 20개소가 운영 중임 「202212-III-5-1」. 기타 응급의료기관은 단순 경증 응급환자를 치료하는 것을 목적으로 함 「202212-III-5-1」.\n본 사업의 일반진료 확정 진료권은 충청남도 아산시, 충청남도 천안시, 충청남도 예산군으로 나타남 「진료권 설정 결과」.\n2019년 말 기준 전국 응급의료기관 및 응급실 운영기관은 총 521개소로, 권역응급의료센터 38개소, 지역응급의료센터 124개소, 지역응급의료기관 240개소, 응급의료기관 외 의료기관 119개소로 구성됨 「202212-III-5-1; KDI 세부지침 <표 Ⅲ-9>」. 충청남도의 응급의료기관 현황은 2019년 말 기준 계 20개소로, 이 중 권역응급의료센터 1개소, 지역응급의료센터 7개소, 지역응급의료기관 8개소, 응급의료기관 외 의료기관 4개소로 나타남 「KDI 세부지침 <표 Ⅲ-9>」. 충청남도의 전문응급의료센터는 2019년 말 기준 계 2개소로, 권역외상센터 지정 1개소, 소아 전문응급의료센터 지정 1개소로 나타남 「KDI 세부지침 <표 Ⅲ-10>」.\n2019년 6월 말 기준 전국 응급의료기관의 응급실 병상 수는 총 7,105개소로 나타남 「KDI 세부지침 <표 Ⅲ-13>」. 충청남도의 응급의료기관 응급실 병상 수는 2019년 6월 말 기준 총 273개소로 나타남 「KDI 세부지침 <표 Ⅲ-11>」. 이는 권역응급의료센터 34개소, 지역응급의료센터 160개소, 지역응급의료기관 79개소로 구성됨 「KDI 세부지침 <표 Ⅲ-11>」. 진료권 내 응급의료기관의 유형별 시설 과부족은 유사 진료권 및 전국 평균 등과 비교하여 검토될 필요가 있음 「202212-III-5-1」.\n\n[소제목] 질적 측면 분석\n진료권 응급의료의 질적 수준을 검토하기 위한 지표로는 응급환자사망률, 외상사망률, 3대 응급질환(외상, 뇌졸중, 심근경색) 사망률, 손상표준화 사망률, 응급의료지수 등을 이용함 「202212-III-5-1」. 이러한 지표들은 통계청(국가통계포털), 보건복지부, 중앙응급의료센터 등을 통해 수집 가능함 「202212-III-5-1」. 해당 진료권의 응급의료서비스 수준은 유사 진료권 지표 및 전국 평균 등과 비교하여 상대적으로 평가될 수 있음 「202212-III-5-1」.\n특히 응급환자 사망률은 응급환자가 발생한 현장에서 병원까지 이송하는 병원 전 단계와 실제 응급 처치가 발생하는 병원 단계로 나누어 분석함 「202212-III-5-1」. 이러한 통계자료는 국가응급진료환자망(NEDIS)을 통해 수집 가능함 「202212-III-5-1」. 국가응급진료환자망(NEDIS)은 전국의 모든 응급의료기관을 포괄하지는 못하지만, 병원 전 단계와 병원 단계의 응급환자 사망률 검토를 통해 진료권 응급의료서비스의 문제점 발생 단계를 논의할 수 있음 「202212-III-5-1」.\n예비타당성조사 분석대상이 상급종합병원으로 지정될 가능성이 있는 종합병원급 이상의 의료시설일 경우, 보건복지부가 지정한 28개 중증응급질환에 대한 분석이 필요함 「202212-III-5-1」. 본 사업은 총 300병상의 아산 경찰병원 건립사업으로 종합병원급 이상의 의료시설에 해당됨 「사업 기본계획서」. 따라서 해당 응급진료권 내 중증응급환자 및 사망자에 대한 자료 분석이 가능하도록 사업계획이 수립되었을 경우, 28개 중증응급질환에 대한 분석이 요구됨 「202212-III-5-1」.",
+    "catchment_result": {
+      "특수목적 진료": {
+        "regions": [
+          "00000"
+        ],
+        "names": [
+          "전국"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      },
+      "일반진료": {
+        "regions": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "names": [
+          "아산시",
+          "천안시",
+          "예산군"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "지침에서 요구하는 서술 항목(예: 분석 목적, 양적/질적 측면, 각 측면별 평가 지표, 데이터 출처, 응급의료기관 유형 및 역할, 특수 케이스 분석 필요성 등)이 모두 적절하게 포함되어 있으며, 관련 표 데이터와 사업 정보까지 잘 통합되어 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "지침에서 요구하는 서술 항목(예: 분석 목적, 양적/질적 측면, 각 측면별 평가 지표, 데이터 출처, 응급의료기관 유형 및 역할, 특수 케이스 분석 필요성 등)이 모두 적절하게 포함되어 있으며, 관련 표 데이터와 사업 정보까지 잘 통합되어 있습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {},
+      "inputs": {},
+      "input_sources": {},
+      "unresolved": [],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national",
+        "special_annual_inpatient_method1",
+        "special_delta_beds_method2",
+        "special_local_per_1000",
+        "special_capacity_per_bed_catchment",
+        "special_capacity_per_bed_national",
+        "special_required_beds_method1_catchment",
+        "special_required_beds_method1_national",
+        "special_specific_type_beds_catchment",
+        "special_specific_type_beds_national"
+      ],
+      "skipped": {
+        "special_emergency_deaths": [
+          "death_rate"
+        ],
+        "special_preventable_deaths": [
+          "emergency_deaths",
+          "death_rate_reduction"
+        ],
+        "special_death_rate_reduction": [
+          "bed_increase_rate_pct",
+          "elasticity"
+        ],
+        "special_annual_inpatient_facility_catchment": [
+          "beds"
+        ],
+        "special_annual_inpatient_facility_national": [
+          "beds"
+        ],
+        "special_annual_outpatient_catchment": [
+          "annual_inpatient_facility_catchment"
+        ],
+        "special_annual_outpatient_national": [
+          "annual_inpatient_facility_national"
+        ]
+      },
+      "seed_sources": {},
+      "guideline_chunk_ids": [
+        "202212-III-5-1"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "special": [
+          "00000"
+        ]
+      },
+      "region_normalization": []
+    }
+  },
+  "3-5-2": {
+    "title": "응급사망자 수 추정",
+    "passed": true,
+    "text": "[소제목] 응급사망자 수 추정\n응급의료시설 확충에 따른 응급사망률 감소폭을 활용하여 예방 가능 응급사망자 수가 추정됨 「202212-III-5-2」. 응급의료시설이 확충된 후 사업 평가 기간 각 연도의 응급사망자 수 또는 응급사망률을 추정할 필요가 있음 「202212-III-5-2」. 응급사망률은 인구 10만명당 응급사망자 수를 의미하며, 다양한 보건의료정책 및 사회경제적 변수에 영향을 받음 「202212-III-5-2」. 예를 들어, 예방 캠페인, 의료기술 발전, 정부 정책, 소득 증가는 응급사망률을 낮출 수 있고, 고령인구 증가는 응급사망률을 증가시키는 요인으로 작용함 「202212-III-5-2」.\n\n사업평가기간 동안 정부 정책, 보건의료 환경, 사회경제적 변수들의 변화를 예측하는 것은 현실적으로 어려움 「202212-III-5-2」. 이러한 변화는 예비타당성조사 대상 의료시설 사업과 무관하게 진행될 가능성이 높음 「202212-III-5-2」. 따라서 사업 평가기간의 응급사망자 수는 현재 또는 지난 몇 년간의 평균적인 응급사망률(m)을 인구 추계 결과에 적용하는 것이 합리적인 방법임 「202212-III-5-2」. 응급사망자 수는 인구 추계치와 응급사망률(m)의 곱으로 산정됨 「202212-III-5-2」.\n\n일반진료권은 충청남도 아산시, 충청남도 천안시, 충청남도 예산군으로 구성됨 「진료권 설정 결과」. 일반진료권의 인구는 1,140,318명으로 나타남 「시도추계(v2022) 2029 × 현재(2023) 인구비 안분」. 응급사망률은 0.0007589899048126063으로 나타남 「진료권 Σ3대응급(7항목)사망자÷Σ OBSERVED인구[2019, 2020, 2021, 2022, 2023]」. 일반진료권의 응급사망자 수는 865.4898502761016명으로 계산됨 「계산: emergency_deaths」.\n\n특수목적 진료권은 전국을 대상으로 함 「진료권 설정 결과」. 경찰공무원 인력과 해양경찰을 포함한 특수목적 진료권의 특수 인구는 146,769명으로 나타남 「경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]」. 특수목적 진료권의 응급사망자 수는 인구 추계치와 응급사망률(m)을 곱하여 산출되나, 특수목적 진료권의 사망률(death_rate)이 확보되지 않아 산출되지 않았음.",
+    "catchment_result": {
+      "특수목적 진료": {
+        "regions": [
+          "00000"
+        ],
+        "names": [
+          "전국"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      },
+      "일반진료": {
+        "regions": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "names": [
+          "아산시",
+          "천안시",
+          "예산군"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "지침에서 요구하는 모든 서술 항목(추정 목적, 추정 대상, 정의, 영향 요인, 예측의 어려움, 합리적인 추정 방법 및 공식)이 생성 텍스트에 명확하고 적절하게 포함되어 있습니다. 또한, 지침에 따라 실제 데이터를 적용한 추정 사례까지 추가적으로 제시하고 있습니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "지침에서 요구하는 모든 서술 항목(추정 목적, 추정 대상, 정의, 영향 요인, 예측의 어려움, 합리적인 추정 방법 및 공식)이 생성 텍스트에 명확하고 적절하게 포함되어 있습니다. 또한, 지침에 따라 실제 데이터를 적용한 추정 사례까지 추가적으로 제시하고 있습니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {
+        "emergency_deaths": 865.4898502761016
+      },
+      "inputs": {
+        "population": 1140318,
+        "death_rate": 0.0007589899048126063,
+        "special_population": 146769
+      },
+      "input_sources": {
+        "population": "시도추계(v2022) 2029 × 현재(2023) 인구비 안분",
+        "death_rate": "진료권 Σ3대응급(7항목)사망자÷Σ OBSERVED인구[2019, 2020, 2021, 2022, 2023]",
+        "special_population": "경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]"
+      },
+      "unresolved": [
+        "[특수목적 진료권] 응급사망자 수 = 인구 추계 × 응급사망률(m) → 산출되지 않음 (확보되지 않은 입력: death_rate)"
+      ],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national",
+        "special_annual_inpatient_method1",
+        "special_delta_beds_method2",
+        "special_local_per_1000",
+        "special_capacity_per_bed_catchment",
+        "special_capacity_per_bed_national",
+        "special_required_beds_method1_catchment",
+        "special_required_beds_method1_national",
+        "special_specific_type_beds_catchment",
+        "special_specific_type_beds_national"
+      ],
+      "skipped": {
+        "special_emergency_deaths": [
+          "death_rate"
+        ],
+        "special_preventable_deaths": [
+          "emergency_deaths",
+          "death_rate_reduction"
+        ],
+        "special_death_rate_reduction": [
+          "bed_increase_rate_pct",
+          "elasticity"
+        ],
+        "special_annual_inpatient_facility_catchment": [
+          "beds"
+        ],
+        "special_annual_inpatient_facility_national": [
+          "beds"
+        ],
+        "special_annual_outpatient_catchment": [
+          "annual_inpatient_facility_catchment"
+        ],
+        "special_annual_outpatient_national": [
+          "annual_inpatient_facility_national"
+        ]
+      },
+      "seed_sources": {
+        "special_population": "경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]"
+      },
+      "guideline_chunk_ids": [
+        "202212-III-5-2"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "special": [
+          "00000"
+        ]
+      },
+      "region_normalization": []
+    }
+  },
+  "3-5-3": {
+    "title": "예방 가능 사망자 수 추정",
+    "passed": true,
+    "text": "[소제목] 예방 가능 사망자 수 추정\n응급의료시설로 응급사망자를 얼마나 감소시킬 수 있을지 추정됨 「202212-III-5-3」. 그러나 응급의료시설 확충이 응급환자 사망률을 얼마나 개선시키는지에 대한 기존 연구는 매우 제한적임 「202212-III-5-3」. 우리나라의 응급의료 연구는 대부분 건강보험자료 중 응급실 이용환자 기록이나 국가응급진료환자망(NEDIS) 자료를 활용해왔음 「202212-III-5-3」. 건강보험자료에는 응급실 이용환자의 사망 여부를 보여주는 변수가 없고, 국가응급진료환자망은 일부 응급의료기관 자료만 구축하여 국가 전체의 응급의료 현황을 대표하기 어려움 「202212-III-5-3」. 또한 응급의료시설 확충 효과 추정을 위해서는 장기간에 걸친 패널 자료 구축이 필요함 「202212-III-5-3」.\n\n본 연구에서는 2014년부터 2020년에 걸쳐 응급의료시설 확충이 사망률 개선에 미치는 효과를 추정하는 방법을 논의함 「202212-III-5-3」. 일정 지역의 응급의료수준을 측정하는 변수로 시⋅군⋅구의 면적 대비 응급병상 수가 이용됨 「202212-III-5-3」. 응급의료수준은 응급의료기관의 등급, 규모 또는 응급의료인력 등으로 측정이 가능하지만, 보편적인 응급의료수준은 지역의 응급병상 수와 밀접하게 관련되어 있음 「202212-III-5-3」. 응급환자는 신속한 후송이 중요하므로 지리적 요소를 고려하여, 면적 대비 응급병상 수가 활용됨 「202212-III-5-3」. 응급환자 사망률 자료 수집 또한 쉽지 않은 일임 「202212-III-5-3」. 응급환자 및 사망자 현황은 응급의료통계연보(중앙응급의료센터)에서 보고되나, 시⋅도 수준의 자료만 수집 가능하며 응급실 내 사망 또는 응급진료 후 결과에 대한 자세한 정보를 담지 못함 「202212-III-5-3」. 자료의 한계를 보완하기 위해 통계청(국가통계포털)의 사망원인통계를 바탕으로 시⋅군⋅구 인구 1만 명당 3대 주요 응급질환의 사망률이 활용됨 「202212-III-5-3」. 3대 주요 응급질환은 심근경색, 뇌졸중, 중증외상을 포함하며, 이들 질환에 의한 사망률은 '응급사망률'로 칭함 「202212-III-5-3」.\n\n각 변수에 자연로그(log)를 취하면 시⋅군⋅구 단위면적당 응급병상 수와 인구 1만 명당 응급사망률은 음의 상관관계를 가지는 것으로 관측됨 「202212-III-5-3」. 즉, 응급병상 수가 늘어날수록 해당 지역의 응급사망률은 감소함을 의미함 「202212-III-5-3」. 응급사망률은 응급병상 수 이외에도 지역의 보건의료 및 인구학적 요인, 연도별 특성 등에도 영향을 받을 수 있으므로, 회귀 분석을 통해 상관관계의 통계적 유의성을 추정할 필요가 있음 「202212-III-5-3」. 본 연구에서 사용되는 회귀모형은 각 년도(2014~2020년) 시⋅군⋅구의 인구 1만 명당 응급사망률의 로그값을 종속변수로 하고, 이를 각 년도 시⋅군⋅구 1㎢당 응급병상 수 로그값에 회귀 분석(OLS)하는 방식임 「202212-III-5-3」. 통제변수로는 시⋅도 응급사망자의 평균 연령이 이용되었으며, 지역 특성과 시간 특성을 통제하고자 광역시⋅도 및 연도 고정효과가 고려됨 「202212-III-5-3」.\n\nKDI 세부지침 <표 Ⅲ-14>의 추정 결과에 따르면, 설명변수와 고정효과를 반영하였을 때 응급병상 수 1% 증가에 대해 응급사망률이 약 0.13% 낮아지는 것으로 추정됨 「202212-III-5-3」. 이 응급병상 탄력성(회귀계수)은 -0.12917로 나타남 「입력: elasticity」. 진료권 내 총인구는 1,140,318명으로 나타남 「시도추계(v2022) 2029 × 현재(2023) 인구비 안분」. 해당 지역의 응급사망률은 0.0007589899048126063으로 나타남 「진료권 Σ3대응급(7항목)사망자÷Σ OBSERVED인구[2019, 2020, 2021, 2022, 2023]」. 총 인구 중 경찰공무원 및 해양경찰 등 특수 인구는 146,769명으로 나타남 「경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]」. 응급병상 증가율은 87.5%로 나타남 「신규 28 ÷ 기존 응급병상 32.0 (종합병원_300~499병상/[2016, 2017, 2018, 2019, 2020](mean))」. 응급사망자 수는 865.4898502761016명으로 나타남 「계산: emergency_deaths」. 예방 가능 사망자 수는 97.82090846514356명으로 나타남 「계산: preventable_deaths」. 사망률 감소율은 0.11302375000000002로 나타남 「계산: death_rate_reduction」.\n\n특수목적 진료권의 예방 가능 사망자 수는 산출되지 않았음. 그 사유는 응급사망자 수 및 응급사망률 감소율 값이 확보되지 않았기 때문임. 특수목적 진료권의 응급사망률 감소율은 산출되지 않았음. 그 사유는 응급병상 증가율(%) 및 응급병상 탄력성(회귀계수) 값이 확보되지 않았기 때문임. 특수목적 진료권의 응급사망자 수는 산출되지 않았음. 그 사유는 인구 추계 및 응급사망률(m) 값이 확보되지 않았기 때문임.\n\n[최종 진료권]\n특수목적 진료: 전국 (총 1개 단위) 「진료권 설정 결과」\n일반진료: 충청남도 아산시, 충청남도 천안시, 충청남도 예산군 (총 3개 단위) 「진료권 설정 결과」\n\n[신규 시설 진료 수준]\n사업명: 아산 경찰병원 건립사업 「사업 기본계획서」\n총 병상: 300병상 (일반진료 120병상 / 경찰특화 160병상 / 감염병격리 20병상) 「사업 기본계획서」\n사업 목적: 경찰공무원 특수진료 및 아산시 지역주민 일반의료서비스 제공 「사업 기본계획서」\n예방 가능 사망자 수는 97.82090846514356명으로 추정됨에 따라 응급의료서비스 수준 향상에 기여함 「계산: preventable_deaths」",
+    "catchment_result": {
+      "특수목적 진료": {
+        "regions": [
+          "00000"
+        ],
+        "names": [
+          "전국"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      },
+      "일반진료": {
+        "regions": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "names": [
+          "아산시",
+          "천안시",
+          "예산군"
+        ],
+        "unmatched": [],
+        "expanded": [],
+        "normalized": []
+      }
+    },
+    "critique": {
+      "attempt": 1,
+      "pass": true,
+      "interpretation_check": {
+        "pass": true,
+        "violations": []
+      },
+      "guideline_check": {
+        "pass": true,
+        "score": 4,
+        "reason": "생성된 텍스트는 KDI 지침에 명시된 예방 가능 사망자 수 추정 방법론, 기존 연구의 한계, 본 연구의 데이터 활용 방안, 응급의료수준 측정 변수, 회귀모형 및 통제변수, 그리고 추정 결과에 이르는 모든 주요 서술 항목을 정확하고 상세하게 포함하고 있습니다. 마지막 단락의 구체적인 수치들은 지침에서 제시된 방법론을 적용한 결과로, 지침의 '사업 평가에 적용하는 방법'을 논의하라는 요구사항에 부합합니다.",
+        "attempts": 1
+      }
+    },
+    "retries": 0,
+    "decision_record": {
+      "critique_history": [
+        {
+          "attempt": 1,
+          "pass": true,
+          "interpretation_check": {
+            "pass": true,
+            "violations": []
+          },
+          "guideline_check": {
+            "pass": true,
+            "score": 4,
+            "reason": "생성된 텍스트는 KDI 지침에 명시된 예방 가능 사망자 수 추정 방법론, 기존 연구의 한계, 본 연구의 데이터 활용 방안, 응급의료수준 측정 변수, 회귀모형 및 통제변수, 그리고 추정 결과에 이르는 모든 주요 서술 항목을 정확하고 상세하게 포함하고 있습니다. 마지막 단락의 구체적인 수치들은 지침에서 제시된 방법론을 적용한 결과로, 지침의 '사업 평가에 적용하는 방법'을 논의하라는 요구사항에 부합합니다.",
+            "attempts": 1
+          }
+        }
+      ]
+    },
+    "verification_source": {
+      "numbers": {
+        "emergency_deaths": 865.4898502761016,
+        "preventable_deaths": 97.82090846514356,
+        "death_rate_reduction": 0.11302375000000002
+      },
+      "inputs": {
+        "population": 1140318,
+        "death_rate": 0.0007589899048126063,
+        "elasticity": -0.12917,
+        "bed_increase_rate_pct": 87.5,
+        "special_population": 146769
+      },
+      "input_sources": {
+        "population": "시도추계(v2022) 2029 × 현재(2023) 인구비 안분",
+        "death_rate": "진료권 Σ3대응급(7항목)사망자÷Σ OBSERVED인구[2019, 2020, 2021, 2022, 2023]",
+        "bed_increase_rate_pct": "신규 28 ÷ 기존 응급병상 32.0 (종합병원_300~499병상/[2016, 2017, 2018, 2019, 2020](mean))",
+        "special_population": "경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]"
+      },
+      "unresolved": [
+        "[특수목적 진료권] 예방 가능 사망자 수 = 응급사망자 수 × 응급사망률 감소율 → 산출되지 않음 (확보되지 않은 입력: emergency_deaths, death_rate_reduction)",
+        "[특수목적 진료권] 응급사망률 감소율 = 응급병상 증가율(%) × 응급병상 탄력성(회귀계수) → 산출되지 않음 (확보되지 않은 입력: bed_increase_rate_pct, elasticity)",
+        "[특수목적 진료권] 응급사망자 수 = 인구 추계 × 응급사망률(m) → 산출되지 않음 (확보되지 않은 입력: death_rate)"
+      ],
+      "executed": [
+        "annual_inpatient_method1",
+        "delta_beds_method2",
+        "local_per_1000",
+        "emergency_deaths",
+        "preventable_deaths",
+        "death_rate_reduction",
+        "capacity_per_bed_catchment",
+        "capacity_per_bed_national",
+        "required_beds_method1_catchment",
+        "required_beds_method1_national",
+        "specific_type_beds_catchment",
+        "specific_type_beds_national",
+        "annual_inpatient_facility_catchment",
+        "annual_inpatient_facility_national",
+        "annual_outpatient_catchment",
+        "annual_outpatient_national",
+        "special_annual_inpatient_method1",
+        "special_delta_beds_method2",
+        "special_local_per_1000",
+        "special_capacity_per_bed_catchment",
+        "special_capacity_per_bed_national",
+        "special_required_beds_method1_catchment",
+        "special_required_beds_method1_national",
+        "special_specific_type_beds_catchment",
+        "special_specific_type_beds_national"
+      ],
+      "skipped": {
+        "special_emergency_deaths": [
+          "death_rate"
+        ],
+        "special_preventable_deaths": [
+          "emergency_deaths",
+          "death_rate_reduction"
+        ],
+        "special_death_rate_reduction": [
+          "bed_increase_rate_pct",
+          "elasticity"
+        ],
+        "special_annual_inpatient_facility_catchment": [
+          "beds"
+        ],
+        "special_annual_inpatient_facility_national": [
+          "beds"
+        ],
+        "special_annual_outpatient_catchment": [
+          "annual_inpatient_facility_catchment"
+        ],
+        "special_annual_outpatient_national": [
+          "annual_inpatient_facility_national"
+        ]
+      },
+      "seed_sources": {
+        "special_population": "경찰공무원 인력 추계(2029) 133,136명 + 해양경찰 13,633명 [출처: III-13]"
+      },
+      "guideline_chunk_ids": [
+        "202212-III-5-3"
+      ],
+      "data_records": [],
+      "data_omitted": {},
+      "regions": {
+        "general": [
+          "44200",
+          "44130",
+          "44810"
+        ],
+        "special": [
+          "00000"
+        ]
+      },
+      "region_normalization": []
+    }
+  },
+  "_run": {
+    "project_id": "HOS_ASAN",
+    "base_period": {
+      "decision_log": {
+        "guideline_chunk_ids": [
+          "202212-III-2-2라",
+          "202212-III-3-1",
+          "202212-III-4-1"
+        ],
+        "available": {
+          "inpatient_days": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023
+          ],
+          "bed_utilization_catchment": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "bed_utilization_national": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ]
+        },
+        "facility": {
+          "type": "종합병원",
+          "size": "300~499병상",
+          "level": "종합병원급",
+          "source": "§3-2 [신규 시설 진료 수준]"
+        },
+        "attempts": 1,
+        "errors": [],
+        "raw": [
+          "```json\n{\n  \"inpatient_days\": {\n    \"years\": [2023],\n    \"agg\": \"single\",\n    \"basis\": \"[지침 청크 id=202212-III-2-2라] '이상과 같이 최근의 자료를 이용하여 인구 구조를 파악한 다음에는' 및 '최근 연도의 전국 평균치'와 같이 최신 자료를 활용하는 지침에 근거하여, 입원의료이용률과 같은 비율 지표는 가장 최신 가용 연도 자료를 사용하는 것이 적절하다고 판단됩니다. 연간 변동 추이를 분석하는 경우가 아니라면 가장 최근의 단일 연도 자료를 현재의 대표값으로 사용하는 것이 일반적입니다.\"\n  },\n  \"bed_utilization\": {\n    \"years\": [2016, 2017, 2018, 2019, 2020],\n    \"agg\": \"mean\",\n    \"basis\": \"[지침 청크 id=202212-III-3-1] '이때, 병상 이용률은 해당 지역 또는 진료권의 동일한 유형의 의료시설 평균 병상 이용률을 이용하며, 동일한 유형의 의료시설이 없는 경우에는 동일 유형의 전국 평균값 또는 유사지역의 평균값을 이용하는 것이 적절할 것으로 판단된다.' 및 [지침 청크 id=202212-III-4-1] '따라서 기존의 예비타당성조사에서는 해당 진료권의 평균값이나 대상이 되는 의료시설의 종별에 따른 병상 이용률을 이용하거나 유사 의료시설의 병상 이용률을 통상적으로 이용하였다.'에 따라 '평균'을 명시하고 있으며, 특정 기간을 한정하지 않았으므로, 가용 연도 내 모든 자료의 평균을 산정하는 것이 가장 타당합니다.\"\n  }\n}\n```"
+        ],
+        "decided": true
+      },
+      "inpatient_days": {
+        "years": [
+          2023
+        ],
+        "agg": "single",
+        "basis": "[지침 청크 id=202212-III-2-2라] '이상과 같이 최근의 자료를 이용하여 인구 구조를 파악한 다음에는' 및 '최근 연도의 전국 평균치'와 같이 최신 자료를 활용하는 지침에 근거하여, 입원의료이용률과 같은 비율 지표는 가장 최신 가용 연도 자료를 사용하는 것이 적절하다고 판단됩니다. 연간 변동 추이를 분석하는 경우가 아니라면 가장 최근의 단일 연도 자료를 현재의 대표값으로 사용하는 것이 일반적입니다."
+      },
+      "bed_utilization": {
+        "years": [
+          2016,
+          2017,
+          2018,
+          2019,
+          2020
+        ],
+        "agg": "mean",
+        "facility_type": "종합병원",
+        "facility_size": "300~499병상",
+        "basis": "[지침 청크 id=202212-III-3-1] '이때, 병상 이용률은 해당 지역 또는 진료권의 동일한 유형의 의료시설 평균 병상 이용률을 이용하며, 동일한 유형의 의료시설이 없는 경우에는 동일 유형의 전국 평균값 또는 유사지역의 평균값을 이용하는 것이 적절할 것으로 판단된다.' 및 [지침 청크 id=202212-III-4-1] '따라서 기존의 예비타당성조사에서는 해당 진료권의 평균값이나 대상이 되는 의료시설의 종별에 따른 병상 이용률을 이용하거나 유사 의료시설의 병상 이용률을 통상적으로 이용하였다.'에 따라 '평균'을 명시하고 있으며, 특정 기간을 한정하지 않았으므로, 가용 연도 내 모든 자료의 평균을 산정하는 것이 가장 타당합니다."
+      },
+      "projection": {
+        "vintage": "2022",
+        "target_year": 2029,
+        "basis": "예타 2024 시점 가용 최신 통계청 시도편 장래인구추계(2022년 기준); 진료권 추계 = 시도 추계 × 현재 인구비 안분(가이드라인 §3-2)"
+      }
+    },
+    "facility_level": {
+      "level": "종합병원급",
+      "source": "§3-2 [신규 시설 진료 수준]"
+    },
+    "section_ids": [
+      "3-1",
+      "3-2",
+      "3-3-1",
+      "3-3-2",
+      "3-4-1",
+      "3-4-2",
+      "3-4-3",
+      "3-5-1",
+      "3-5-2",
+      "3-5-3"
+    ],
+    "pipeline_version": "v4",
+    "data_year_lag": 1,
+    "code_sha256_16": "af9acd504aad8671",
+    "model": "gemini-2.5-flash",
+    "served_models": {
+      "gemini-2.5-flash": 22
+    },
+    "generation_config": "default (not specified)",
+    "distance_table": "case_distance_time_v3",
+    "n_distance_shown": 30,
+    "db_path": "data/project_data.db",
+    "chunk_store": {
+      "backend": "chroma",
+      "chroma_error": null,
+      "chunk_text_sha256_12": {
+        "202105-VII-1-개요수식": "35debed0788d",
+        "202105-VII-1-절차": "126b5ac9a519",
+        "202105-VII-2-매력도": "cf4f21294536",
+        "202105-VII-2-쟁점원칙": "ca32dcd4dfbf",
+        "202105-VII-2-참여율": "33d071480e4a",
+        "202212-III-1": "16c0ffac3554",
+        "202212-III-2-1": "9474affd3239",
+        "202212-III-2-2가": "a14f690c2bd2",
+        "202212-III-2-2나": "99a7488d27bd",
+        "202212-III-2-2다": "9b5c86b58563",
+        "202212-III-2-2라": "e3d4786a370c",
+        "202212-III-2-특수목적": "419e92eba1c3",
+        "202212-III-3-1": "71cfbbf89720",
+        "202212-III-3-2": "46d687d5f82e",
+        "202212-III-4-1": "a67ebf2e2f5e",
+        "202212-III-4-2": "7e7f024bb980",
+        "202212-III-4-3": "31e4faef593e",
+        "202212-III-5-1": "2730768a9f10",
+        "202212-III-5-2": "bf869d8d2621",
+        "202212-III-5-3": "b69cd63f71e3"
+      }
+    },
+    "run_index": 1,
+    "started_at": "2026-11-03T17:24:10",
+    "attempts": 1,
+    "release_note": "Public release: values of Kakao Mobility API records in data_records set to null; db_path made relative."
+  }
+}
