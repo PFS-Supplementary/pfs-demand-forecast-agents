@@ -1,6 +1,6 @@
 # An LLM-based multi-agent decision support platform for urban development: Demand forecast in Benefit-Cost Analysis — code and run records
 
-This repository contains the code, the 90 run records, the evaluation outputs, and the manual label files behind the paper "An LLM-based multi-agent decision support platform for urban development: Demand forecast in Benefit-Cost Analysis". The pipeline generates the demand forecast chapter (Chapter 3) of a medical-sector preliminary feasibility study (PFS) report. It was run 30 times for each of three cases (Asan Police Hospital, Ulsan Medical Center, and Siheung Baegot Seoul National University Hospital) and then evaluated. The pipeline and the evaluation procedure are described in the paper and in Supplementary Material A–F.
+This repository contains the code, the 90 run records, the evaluation outputs, and the manual label files behind the paper "An LLM-based multi-agent decision support platform for urban development: Demand forecast in Benefit-Cost Analysis". The pipeline generates the demand forecast chapter (Chapter 3) of a medical-sector preliminary feasibility study (PFS) report. It was run 30 times for each of three cases (Asan Police Hospital, Ulsan Medical Center, and Siheung Baegot Seoul National University Hospital) and then evaluated. The pipeline and the evaluation procedure are described in the paper and its Supplementary Material.
 
 Code comments, prompts, and generated reports are all in Korean.
 
@@ -14,7 +14,7 @@ pipeline/                Generation pipeline
   agents/                Retrieval, Memory, Computation, Writer, Critic, orchestrator
   agents/sub/            Period, Catchment, formula catalog, LLM calls, etc.
 evaluation/              Evaluation
-  alce_eval.py           Entailment judgment of guideline-citing sentences
+  alce_eval.py           Entailment check of guideline-citing sentences
                          (citation recall and precision)
   eval_l1.py             Format checks on evidence markers
   eval_rg.py             Value matching for calculation and source markers
@@ -36,11 +36,11 @@ outputs/
     manifest.csv         Summary of the 90 runs (catchment composition, base period, key outputs)
   eval/                  Evaluation results (sentences judged on their own)
   eval_explicature/      Evaluation results under the explicature condition and the list of
-                         sentences whose judgment changed
+                         sentences whose verdict changed
   premise_full_check/    Results of the judge input length sensitivity check
   label/                 Cause labels for unsupported sentences (71 items)
   e3/                    Labels for judge–human agreement (100 items) and the re-labeling (71 items)
-  flip_audit/            Review labels for the 137 sentences whose judgment changed under explicature
+  flip_audit/            Review labels for the 137 sentences whose verdict changed under explicature
   critic_audit/          Post-hoc analysis of nominal-ending expressions (1,286 sentences)
   tables_90/, tables_86/ Result tables by catchment composition (all 90 runs / excluding the
                          4 runs in which the catchment could not be resolved)
@@ -62,7 +62,7 @@ docs/
 What can and cannot be done with this repository alone:
 
 - Possible as is: reading the run records and evaluation outputs and re-aggregating the figures reported in the paper (Section 6); re-running scripts that read only the run records, such as `build_tables.py`.
-- Possible after obtaining the data yourself: running the generation pipeline, re-running the entailment judgment (`alce_eval.py`), and regenerating the labeling sheets. These require rebuilding the database and the guideline chunks as described in Section 5, and API keys.
+- Possible after obtaining the data yourself: running the generation pipeline, re-running the entailment check (`alce_eval.py`), and regenerating the labeling sheets. These require rebuilding the database and the guideline chunks as described in Section 5, and API keys.
 
 ## 3. Run records
 
@@ -74,9 +74,9 @@ Each subsection key in the json (`3-1` … `3-5-3`) holds the following.
 |---|---|
 | `text` | Final generated text (the 「」 brackets at the end of a sentence hold its evidence markers) |
 | `passed`, `retries`, `critique` | Whether the Critic passed the text, number of regenerations, last verdict |
-| `decision_record` | Critic verdict for each attempt, ruling on the special-purpose clause, result of parsing the catchment block, level of care |
+| `decision_record` | Critic verdict for each attempt, determination on the special-purpose clause, result of parsing the catchment block, level of care |
 | `catchment_result` | Administrative codes for each catchment category (subsection 3-2) |
-| `verification_source` | Computed values (`numbers`), retrieved inputs and their sources (`inputs`, `input_sources`), items that could not be computed (`unresolved`, `skipped`), chunk identifiers passed to the Writer (`guideline_chunk_ids`), data values shown to the Writer (`data_records`) |
+| `verification_source` | Computed values (`numbers`), inputs sourced from the database and their sources (`inputs`, `input_sources`), items that could not be computed (`unresolved`, `skipped`), chunk identifiers passed to the Writer (`guideline_chunk_ids`), data values shown to the Writer (`data_records`) |
 
 `_run` holds run-level information: the base-period decision and its rationale (`base_period`), the responding model and number of calls (`served_models`), the start time, hashes of the chunk texts (`chunk_store`), and the code hash (`code_sha256_16`).
 
@@ -92,7 +92,7 @@ In 4 runs the catchment block could not be converted to administrative codes (Si
 
 ## 4. Evaluation settings
 
-- Generation model: Gemini 2.5 Flash (generation settings not specified). Runs were made on 2026-11-03.
+- Generation model: Gemini 2.5 Flash (generation settings not specified). Runs were made on 2026-11-03 and 2026-11-04.
 - Judge: gpt-5.4-mini (`--judge openai --judge-model gpt-5.4-mini`). The judge prompt is `_JUDGE_PROMPT` in `alce_eval.py`.
 - Judge input: the texts of the chunks cited by a sentence are concatenated, and the first 6,000 characters are passed to the judge (`alce_eval.py`).
   - The 243 guideline-citing sentences whose cited chunks exceed 6,000 characters in total were judged again with the full evidence text; the results are in `outputs/premise_full_check/`. Citation recall changes by no more than 0.2 percentage points in any case, and the number of unsupported sentences goes from 782 to 776. The script is `evaluation/premise_full_check.py`.
@@ -159,12 +159,12 @@ The default judge in `alce_eval.py` is Gemini, so the judge must be given explic
 | Content in the paper | Files (under `outputs/`) | Note |
 |---|---|---|
 | Evidence-marker rate; non-existent and out-of-set identifiers | `eval/l1_metrics.json`, `l1_summary.md` | |
-| Citation recall and precision | `eval/alce_metrics.json`, `alce_summary.md`; judgments in `judge_cache.json` | |
+| Citation recall and precision | `eval/alce_metrics.json`, `alce_summary.md`; verdicts in `judge_cache.json` | |
 | Value matching for calculation and source markers | `eval/rg_metrics.json`, `rg_summary.md` | |
-| Recall and precision under explicature; sentences whose judgment changed | `eval_explicature/alce_metrics.json`, `compare_explicature.md`, `explicature_flips.csv` | |
+| Recall and precision under explicature; sentences whose verdict changed | `eval_explicature/alce_metrics.json`, `compare_explicature.md`, `explicature_flips.csv` | |
 | Causes of unsupported sentences | `label/label_entry.csv` + `label_key.json` | Stratum A: 30 randomly sampled items. Stratum B: the 41 items citing the culture and tourism sector guideline |
 | Agreement between the judge and human labels | `e3/e3_entry.csv` + `e3_recheck.csv` + `e3_key.json` | For the second-stage label, `project_specific_v2` in `e3_recheck.csv` is the final value; overwrite the second-stage value in `e3_entry.csv` with it before computing (κ 0.800, weighted agreement 0.951) |
-| Review of the 137 sentences whose judgment changed | `flip_audit/flip_audit_entry.csv` + `flip_audit_key.csv` | For category A, whether project-specific information was added is in the `ref_project` column; for category B it is given at the end of the `note` column, as "(B: 사업 정보 Y)" or "(B: 사업 정보 N)" |
+| Review of the 137 sentences whose verdict changed | `flip_audit/flip_audit_entry.csv` + `flip_audit_key.csv` | For category A, whether project-specific information was added is in the `ref_project` column; for category B it is given at the end of the `note` column, as "(B: 사업 정보 Y)" or "(B: 사업 정보 N)" |
 | Run-to-run variation in catchment composition and bed demand | `runs/manifest.csv`, `tables_86/`, `tables_90/` | |
 | Number of and reasons for Critic-triggered regenerations | `decision_record.critique_history` in the run json files | |
 | Post-hoc analysis of nominal-ending expressions | `critic_audit/noun_interp_audit.csv` | The `재검토` column gives the outcome for the 26 sentences that were reviewed again |

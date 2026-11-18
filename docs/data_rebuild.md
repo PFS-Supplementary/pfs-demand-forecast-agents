@@ -2,7 +2,7 @@
 
 All data used in generation are stored in a single SQLite database, `data/project_data.db`. This repository does not include the database or the source data. The definitions of the 16 tables read by the code are in `docs/schema.sql`; this document describes, table by table, which data go in and in what form.
 
-The data numbers match the data list (Table S) in Supplementary Material A of the paper. Row counts refer to the database used for the runs reported in the paper. Source names are given in English with the original Korean name in parentheses.
+The data numbers match the data list (Table S1) in the Supplementary Material of the paper. Row counts refer to the database used for the runs reported in the paper. Source names are given in English with the original Korean name in parentheses.
 
 ## 1. Tables
 
@@ -32,9 +32,9 @@ Every statistical table is linked to `region_master` through `region_code` (a fi
 | `survey5_inpatient_days` | 13,740 | 6. Same survey, Ⅱ.A.1 b) total inpatient days (총재원일수) | Same as above | `preprocessing/load_survey5.py` |
 | `region_relevance_index` | 9,840 | 7. Same survey, Ⅱ.A.24 inpatient self-sufficiency rate (입원환자 자체충족률), 2016–2020 | 17 provinces and 229 cities/counties/districts × year × 8 patient categories. Unit: % | Entered directly with SQL |
 | `demand_parameter` (`emergency_beds`) | 5,479 | 8. Same survey, Ⅰ.B.5 special beds (특수병상), emergency beds only, 2016–2020 | City/county/district, province, and nation × year × institution type | Loading code no longer available |
-| `demand_parameter` (`supply_beds`) | 12,063 | 9. National health care statistics, city/county/district volume, 2018 and 2022 editions, Table Ⅰ.B.1 licensed beds (국민보건의료실태통계 시군구편 허가병상수), 2011–2020 | City/county/district × year × institution type | Loading code no longer available |
+| `demand_parameter` (`supply_beds`) | 12,063 | 9. National Health and Medical Service Statistics, city/county/district volume, 2018 and 2022 editions, Table Ⅰ.B.1 licensed beds (국민보건의료실태통계 시군구편 허가병상수), 2011–2020 | City/county/district × year × institution type | Loading code no longer available |
 | `demand_parameter` (`emergency_death`) | 23,982 | 10. Causes of death statistics, deaths by city/county/district and cause, seven items for the three major emergency conditions (사망원인통계), Statistics Korea, 2010–2024 | City/county/district × year × cause of death | Loading code no longer available |
-| `health_facility_inventory` | 384 | 11. Medical institution registry (의료기관 신고자료), Health Insurance Review and Assessment Service, as of December 2025 | 47 tertiary general hospitals and 337 general hospitals. Name, type, city/county/district, numbers of beds and physicians, opening date | Entered directly with SQL |
+| `health_facility_inventory` | 384 | 11. Medical institution registry (의료기관 신고자료), Health Insurance Review and Assessment Service, as of December 2025 | 47 tertiary hospitals and 337 general hospitals. Name, type, city/county/district, numbers of beds and physicians, opening date | Entered directly with SQL |
 
 In addition to the row counts above, `demand_parameter` contains 157 supplementary rows for administrative boundary changes (Section 2).
 
